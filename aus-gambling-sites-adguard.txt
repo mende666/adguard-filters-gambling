@@ -1089,6 +1089,1200 @@ heypokies.com##.swal2-backdrop
 heypokies.com##.floating-icons-container
 heypokies.com##.static-icon-container
 heypokies.com##.floating-whatsapp
+! Title: Gambling Site Cleanup
+! Description: Hides floating icons, social widgets, marquees, and pop-ups, and blocks some images on a curated list of gambling websites.
+! Last updated: 2025-08-07
+
+! Rules for specific domains
+fuckwit9.com###marquee > span
+fuckwit9.com##.notice-slider
+fuckwit9.com##.swal2-backdrop
+fuckwit9.com##.floating-icons-container
+fuckwit9.com##.static-icon-container
+fuckwit9.com##.floating-whatsapp
+methpokies.com###marquee > span
+methpokies.com##.notice-slider
+methpokies.com##.swal2-backdrop
+methpokies.com##.floating-icons-container
+methpokies.com##.static-icon-container
+methpokies.com##.floating-whatsapp
+psychospin.com###marquee > span
+psychospin.com##.notice-slider
+psychospin.com##.swal2-backdrop
+psychospin.com##.floating-icons-container
+psychospin.com##.static-icon-container
+psychospin.com##.floating-whatsapp
+gronkspin.com###marquee > span
+gronkspin.com##.notice-slider
+gronkspin.com##.swal2-backdrop
+gronkspin.com##.floating-icons-container
+gronkspin.com##.static-icon-container
+gronkspin.com##.floating-whatsapp
+mofoclub.com###marquee > span
+mofoclub.com##.notice-slider
+mofoclub.com##.swal2-backdrop
+mofoclub.com##.floating-icons-container
+mofoclub.com##.static-icon-container
+mofoclub.com##.floating-whatsapp
+cuntpokies.com###marquee > span
+cuntpokies.com##.notice-slider
+cuntpokies.com##.swal2-backdrop
+cuntpokies.com##.floating-icons-container
+cuntpokies.com##.static-icon-container
+cuntpokies.com##.floating-whatsapp
+spinsx.net###marquee > span
+spinsx.net##.notice-slider
+spinsx.net##.swal2-backdrop
+spinsx.net##.floating-icons-container
+spinsx.net##.static-icon-container
+spinsx.net##.floating-whatsapp
+onya88.com###marquee > span
+onya88.com##.notice-slider
+onya88.com##.swal2-backdrop
+onya88.com##.floating-icons-container
+onya88.com##.static-icon-container
+onya88.com##.floating-whatsapp
+cuntmeth.com###marquee > span
+cuntmeth.com##.notice-slider
+cuntmeth.com##.swal2-backdrop
+cuntmeth.com##.floating-icons-container
+cuntmeth.com##.static-icon-container
+cuntmeth.com##.floating-whatsapp
+methbaby.co###marquee > span
+methbaby.co##.notice-slider
+methbaby.co##.swal2-backdrop
+methbaby.co##.floating-icons-container
+methbaby.co##.static-icon-container
+methbaby.co##.floating-whatsapp
+dickwin.com###marquee > span
+dickwin.com##.notice-slider
+dickwin.com##.swal2-backdrop
+dickwin.com##.floating-icons-container
+dickwin.com##.static-icon-container
+dickwin.com##.floating-whatsapp
+f1pokies.com###marquee > span
+f1pokies.com##.notice-slider
+f1pokies.com##.swal2-backdrop
+f1pokies.com##.floating-icons-container
+f1pokies.com##.static-icon-container
+f1pokies.com##.floating-whatsapp
+pokiesdream.com###marquee > span
+pokiesdream.com##.notice-slider
+pokiesdream.com##.swal2-backdrop
+pokiesdream.com##.floating-icons-container
+pokiesdream.com##.static-icon-container
+pokiesdream.com##.floating-whatsapp
+limitedpokies.com###marquee > span
+limitedpokies.com##.notice-slider
+limitedpokies.com##.swal2-backdrop
+limitedpokies.com##.floating-icons-container
+limitedpokies.com##.static-icon-container
+limitedpokies.com##.floating-whatsapp
+fuckingluck.com###marquee > span
+fuckingluck.com##.notice-slider
+fuckingluck.com##.swal2-backdrop
+fuckingluck.com##.floating-icons-container
+fuckingluck.com##.static-icon-container
+fuckingluck.com##.floating-whatsapp
+boombaby9.com###marquee > span
+boombaby9.com##.notice-slider
+boombaby9.com##.swal2-backdrop
+boombaby9.com##.floating-icons-container
+boombaby9.com##.static-icon-container
+boombaby9.com##.floating-whatsapp
+vicspin.com###marquee > span
+vicspin.com##.notice-slider
+vicspin.com##.swal2-backdrop
+vicspin.com##.floating-icons-container
+vicspin.com##.static-icon-container
+vicspin.com##.floating-whatsapp
+adultsbet.com###marquee > span
+adultsbet.com##.notice-slider
+adultsbet.com##.swal2-backdrop
+adultsbet.com##.floating-icons-container
+adultsbet.com##.static-icon-container
+adultsbet.com##.floating-whatsapp
+punk11.com###marquee > span
+punk11.com##.notice-slider
+punk11.com##.swal2-backdrop
+punk11.com##.floating-icons-container
+punk11.com##.static-icon-container
+punk11.com##.floating-whatsapp
+potstrike.com###marquee > span
+potstrike.com##.notice-slider
+potstrike.com##.swal2-backdrop
+potstrike.com##.floating-icons-container
+potstrike.com##.static-icon-container
+potstrike.com##.floating-whatsapp
+wonpokies.com###marquee > span
+wonpokies.com##.notice-slider
+wonpokies.com##.swal2-backdrop
+wonpokies.com##.floating-icons-container
+wonpokies.com##.static-icon-container
+wonpokies.com##.floating-whatsapp
+sawspin.com###marquee > span
+sawspin.com##.notice-slider
+sawspin.com##.swal2-backdrop
+sawspin.com##.floating-icons-container
+sawspin.com##.static-icon-container
+sawspin.com##.floating-whatsapp
+bomboclat9.com###marquee > span
+bomboclat9.com##.notice-slider
+bomboclat9.com##.swal2-backdrop
+bomboclat9.com##.floating-icons-container
+bomboclat9.com##.static-icon-container
+bomboclat9.com##.floating-whatsapp
+vanspin.com###marquee > span
+vanspin.com##.notice-slider
+vanspin.com##.swal2-backdrop
+vanspin.com##.floating-icons-container
+vanspin.com##.static-icon-container
+vanspin.com##.floating-whatsapp
+bong21.com###marquee > span
+bong21.com##.notice-slider
+bong21.com##.swal2-backdrop
+bong21.com##.floating-icons-container
+bong21.com##.static-icon-container
+bong21.com##.floating-whatsapp
+f1spin.com###marquee > span
+f1spin.com##.notice-slider
+f1spin.com##.swal2-backdrop
+f1spin.com##.floating-icons-container
+f1spin.com##.static-icon-container
+f1spin.com##.floating-whatsapp
+justwin9.com###marquee > span
+justwin9.com##.notice-slider
+justwin9.com##.swal2-backdrop
+justwin9.com##.floating-icons-container
+justwin9.com##.static-icon-container
+justwin9.com##.floating-whatsapp
+wink9.com###marquee > span
+wink9.com##.notice-slider
+wink9.com##.swal2-backdrop
+wink9.com##.floating-icons-container
+wink9.com##.static-icon-container
+wink9.com##.floating-whatsapp
+devegas99.com###marquee > span
+devegas99.com##.notice-slider
+devegas99.com##.swal2-backdrop
+devegas99.com##.floating-icons-container
+devegas99.com##.static-icon-container
+devegas99.com##.floating-whatsapp
+playmeth.com###marquee > span
+playmeth.com##.notice-slider
+playmeth.com##.swal2-backdrop
+playmeth.com##.floating-icons-container
+playmeth.com##.static-icon-container
+playmeth.com##.floating-whatsapp
+roopokies.com###marquee > span
+roopokies.com##.notice-slider
+roopokies.com##.swal2-backdrop
+roopokies.com##.floating-icons-container
+roopokies.com##.static-icon-container
+roopokies.com##.floating-whatsapp
+winmate88.com###marquee > span
+winmate88.com##.notice-slider
+winmate88.com##.swal2-backdrop
+winmate88.com##.floating-icons-container
+winmate88.com##.static-icon-container
+winmate88.com##.floating-whatsapp
+lwin9.com###marquee > span
+lwin9.com##.notice-slider
+lwin9.com##.swal2-backdrop
+lwin9.com##.floating-icons-container
+lwin9.com##.static-icon-container
+lwin9.com##.floating-whatsapp
+fastspin99.com###marquee > span
+fastspin99.com##.notice-slider
+fastspin99.com##.swal2-backdrop
+fastspin99.com##.floating-icons-container
+fastspin99.com##.static-icon-container
+fastspin99.com##.floating-whatsapp
+nextpokies.com###marquee > span
+nextpokies.com##.notice-slider
+nextpokies.com##.swal2-backdrop
+nextpokies.com##.floating-icons-container
+nextpokies.com##.static-icon-container
+nextpokies.com##.floating-whatsapp
+spinkash.com###marquee > span
+spinkash.com##.notice-slider
+spinkash.com##.swal2-backdrop
+spinkash.com##.floating-icons-container
+spinkash.com##.static-icon-container
+spinkash.com##.floating-whatsapp
+winspin99.com###marquee > span
+winspin99.com##.notice-slider
+winspin99.com##.swal2-backdrop
+winspin99.com##.floating-icons-container
+winspin99.com##.static-icon-container
+winspin99.com##.floating-whatsapp
+spinwoo.com###marquee > span
+spinwoo.com##.notice-slider
+spinwoo.com##.swal2-backdrop
+spinwoo.com##.floating-icons-container
+spinwoo.com##.static-icon-container
+spinwoo.com##.floating-whatsapp
+stokedau.com###marquee > span
+stokedau.com##.notice-slider
+stokedau.com##.swal2-backdrop
+stokedau.com##.floating-icons-container
+stokedau.com##.static-icon-container
+stokedau.com##.floating-whatsapp
+creampokies.com###marquee > span
+creampokies.com##.notice-slider
+creampokies.com##.swal2-backdrop
+creampokies.com##.floating-icons-container
+creampokies.com##.static-icon-container
+creampokies.com##.floating-whatsapp
+yomate88.com###marquee > span
+yomate88.com##.notice-slider
+yomate88.com##.swal2-backdrop
+yomate88.com##.floating-icons-container
+yomate88.com##.static-icon-container
+yomate88.com##.floating-whatsapp
+rtspin.com###marquee > span
+rtspin.com##.notice-slider
+rtspin.com##.swal2-backdrop
+rtspin.com##.floating-icons-container
+rtspin.com##.static-icon-container
+rtspin.com##.floating-whatsapp
+unipokies.com###marquee > span
+unipokies.com##.notice-slider
+unipokies.com##.swal2-backdrop
+unipokies.com##.floating-icons-container
+unipokies.com##.static-icon-container
+unipokies.com##.floating-whatsapp
+lvpokies.com###marquee > span
+lvpokies.com##.notice-slider
+lvpokies.com##.swal2-backdrop
+lvpokies.com##.floating-icons-container
+lvpokies.com##.static-icon-container
+lvpokies.com##.floating-whatsapp
+cuntaus.com###marquee > span
+cuntaus.com##.notice-slider
+cuntaus.com##.swal2-backdrop
+cuntaus.com##.floating-icons-container
+cuntaus.com##.static-icon-container
+cuntaus.com##.floating-whatsapp
+betblaze.org###marquee > span
+betblaze.org##.notice-slider
+betblaze.org##.swal2-backdrop
+betblaze.org##.floating-icons-container
+betblaze.org##.static-icon-container
+betblaze.org##.floating-whatsapp
+joofred.com###marquee > span
+joofred.com##.notice-slider
+joofred.com##.swal2-backdrop
+joofred.com##.floating-icons-container
+joofred.com##.static-icon-container
+joofred.com##.floating-whatsapp
+beebee11.com###marquee > span
+beebee11.com##.notice-slider
+beebee11.com##.swal2-backdrop
+beebee11.com##.floating-icons-container
+beebee11.com##.static-icon-container
+beebee11.com##.floating-whatsapp
+spinbaby.co###marquee > span
+spinbaby.co##.notice-slider
+spinbaby.co##.swal2-backdrop
+spinbaby.co##.floating-icons-container
+spinbaby.co##.static-icon-container
+spinbaby.co##.floating-whatsapp
+scr55.com###marquee > span
+scr55.com##.notice-slider
+scr55.com##.swal2-backdrop
+scr55.com##.floating-icons-container
+scr55.com##.static-icon-container
+scr55.com##.floating-whatsapp
+wowbet9.net###marquee > span
+wowbet9.net##.notice-slider
+wowbet9.net##.swal2-backdrop
+wowbet9.net##.floating-icons-container
+wowbet9.net##.static-icon-container
+wowbet9.net##.floating-whatsapp
+wabet77.com###marquee > span
+wabet77.com##.notice-slider
+wabet77.com##.swal2-backdrop
+wabet77.com##.floating-icons-container
+wabet77.com##.static-icon-container
+wabet77.com##.floating-whatsapp
+fafabet9.com###marquee > span
+fafabet9.com##.notice-slider
+fafabet9.com##.swal2-backdrop
+fafabet9.com##.floating-icons-container
+fafabet9.com##.static-icon-container
+fafabet9.com##.floating-whatsapp
+waboom77.com###marquee > span
+waboom77.com##.notice-slider
+waboom77.com##.swal2-backdrop
+waboom77.com##.floating-icons-container
+waboom77.com##.static-icon-container
+waboom77.com##.floating-whatsapp
+pokiesokay.com###marquee > span
+pokiesokay.com##.notice-slider
+pokiesokay.com##.swal2-backdrop
+pokiesokay.com##.floating-icons-container
+pokiesokay.com##.static-icon-container
+pokiesokay.com##.floating-whatsapp
+88pokies.com###marquee > span
+88pokies.com##.notice-slider
+88pokies.com##.swal2-backdrop
+88pokies.com##.floating-icons-container
+88pokies.com##.static-icon-container
+88pokies.com##.floating-whatsapp
+cocainespin.com###marquee > span
+cocainespin.com##.notice-slider
+cocainespin.com##.swal2-backdrop
+cocainespin.com##.floating-icons-container
+cocainespin.com##.static-icon-container
+cocainespin.com##.floating-whatsapp
+tinniewin.com###marquee > span
+tinniewin.com##.notice-slider
+tinniewin.com##.swal2-backdrop
+tinniewin.com##.floating-icons-container
+tinniewin.com##.static-icon-container
+tinniewin.com##.floating-whatsapp
+juzspin.com###marquee > span
+juzspin.com##.notice-slider
+juzspin.com##.swal2-backdrop
+juzspin.com##.floating-icons-container
+juzspin.com##.static-icon-container
+juzspin.com##.floating-whatsapp
+jackpotmate88.com###marquee > span
+jackpotmate88.com##.notice-slider
+jackpotmate88.com##.swal2-backdrop
+jackpotmate88.com##.floating-icons-container
+jackpotmate88.com##.static-icon-container
+jackpotmate88.com##.floating-whatsapp
+methbet.com###marquee > span
+methbet.com##.notice-slider
+methbet.com##.swal2-backdrop
+methbet.com##.floating-icons-container
+methbet.com##.static-icon-container
+methbet.com##.floating-whatsapp
+masonspin.com###marquee > span
+masonspin.com##.notice-slider
+masonspin.com##.swal2-backdrop
+masonspin.com##.floating-icons-container
+masonspin.com##.static-icon-container
+masonspin.com##.floating-whatsapp
+gopokies.co###marquee > span
+gopokies.co##.notice-slider
+gopokies.co##.swal2-backdrop
+gopokies.co##.floating-icons-container
+gopokies.co##.static-icon-container
+gopokies.co##.floating-whatsapp
+minorspin.com###marquee > span
+minorspin.com##.notice-slider
+minorspin.com##.swal2-backdrop
+minorspin.com##.floating-icons-container
+minorspin.com##.static-icon-container
+minorspin.com##.floating-whatsapp
+ketawin.com###marquee > span
+ketawin.com##.notice-slider
+ketawin.com##.swal2-backdrop
+ketawin.com##.floating-icons-container
+ketawin.com##.static-icon-container
+ketawin.com##.floating-whatsapp
+pokiesgg.com###marquee > span
+pokiesgg.com##.notice-slider
+pokiesgg.com##.swal2-backdrop
+pokiesgg.com##.floating-icons-container
+pokiesgg.com##.static-icon-container
+pokiesgg.com##.floating-whatsapp
+roospin.com###marquee > span
+roospin.com##.notice-slider
+roospin.com##.swal2-backdrop
+roospin.com##.floating-icons-container
+roospin.com##.static-icon-container
+roospin.com##.floating-whatsapp
+tcl99aus.com###marquee > span
+tcl99aus.com##.notice-slider
+tcl99aus.com##.swal2-backdrop
+tcl99aus.com##.floating-icons-container
+tcl99aus.com##.static-icon-container
+tcl99aus.com##.floating-whatsapp
+tmzbet.com###marquee > span
+tmzbet.com##.notice-slider
+tmzbet.com##.swal2-backdrop
+tmzbet.com##.floating-icons-container
+tmzbet.com##.static-icon-container
+tmzbet.com##.floating-whatsapp
+lsdbaby.co###marquee > span
+lsdbaby.co##.notice-slider
+lsdbaby.co##.swal2-backdrop
+lsdbaby.co##.floating-icons-container
+lsdbaby.co##.static-icon-container
+lsdbaby.co##.floating-whatsapp
+winsavage.com###marquee > span
+winsavage.com##.notice-slider
+winsavage.com##.swal2-backdrop
+winsavage.com##.floating-icons-container
+winsavage.com##.static-icon-container
+winsavage.com##.floating-whatsapp
+winwin9.org###marquee > span
+winwin9.org##.notice-slider
+winwin9.org##.swal2-backdrop
+winwin9.org##.floating-icons-container
+winwin9.org##.static-icon-container
+winwin9.org##.floating-whatsapp
+fatdog9.com###marquee > span
+fatdog9.com##.notice-slider
+fatdog9.com##.swal2-backdrop
+fatdog9.com##.floating-icons-container
+fatdog9.com##.static-icon-container
+fatdog9.com##.floating-whatsapp
+luckyaus.com###marquee > span
+luckyaus.com##.notice-slider
+luckyaus.com##.swal2-backdrop
+luckyaus.com##.floating-icons-container
+luckyaus.com##.static-icon-container
+luckyaus.com##.floating-whatsapp
+mofospin.com###marquee > span
+mofospin.com##.notice-slider
+mofospin.com##.swal2-backdrop
+mofospin.com##.floating-icons-container
+mofospin.com##.static-icon-container
+mofospin.com##.floating-whatsapp
+methaus.com###marquee > span
+methaus.com##.notice-slider
+methaus.com##.swal2-backdrop
+methaus.com##.floating-icons-container
+methaus.com##.static-icon-container
+methaus.com##.floating-whatsapp
+maxcunt.com###marquee > span
+maxcunt.com##.notice-slider
+maxcunt.com##.swal2-backdrop
+maxcunt.com##.floating-icons-container
+maxcunt.com##.static-icon-container
+maxcunt.com##.floating-whatsapp
+hicunt.com###marquee > span
+hicunt.com##.notice-slider
+hicunt.com##.swal2-backdrop
+hicunt.com##.floating-icons-container
+hicunt.com##.static-icon-container
+hicunt.com##.floating-whatsapp
+dis8.com###marquee > span
+dis8.com##.notice-slider
+dis8.com##.swal2-backdrop
+dis8.com##.floating-icons-container
+dis8.com##.static-icon-container
+dis8.com##.floating-whatsapp
+scr66.com###marquee > span
+scr66.com##.notice-slider
+scr66.com##.swal2-backdrop
+scr66.com##.floating-icons-container
+scr66.com##.static-icon-container
+scr66.com##.floating-whatsapp
+popmolly.co###marquee > span
+popmolly.co##.notice-slider
+popmolly.co##.swal2-backdrop
+popmolly.co##.floating-icons-container
+popmolly.co##.static-icon-container
+popmolly.co##.floating-whatsapp
+pureluck9.com###marquee > span
+pureluck9.com##.notice-slider
+pureluck9.com##.swal2-backdrop
+pureluck9.com##.floating-icons-container
+pureluck9.com##.static-icon-container
+pureluck9.com##.floating-whatsapp
+methwin.com###marquee > span
+methwin.com##.notice-slider
+methwin.com##.swal2-backdrop
+methwin.com##.floating-icons-container
+methwin.com##.static-icon-container
+methwin.com##.floating-whatsapp
+spinmate88.com###marquee > span
+spinmate88.com##.notice-slider
+spinmate88.com##.swal2-backdrop
+spinmate88.com##.floating-icons-container
+spinmate88.com##.static-icon-container
+spinmate88.com##.floating-whatsapp
+methspin.com###marquee > span
+methspin.com##.notice-slider
+methspin.com##.swal2-backdrop
+methspin.com##.floating-icons-container
+methspin.com##.static-icon-container
+methspin.com##.floating-whatsapp
+justpokies9.com###marquee > span
+justpokies9.com##.notice-slider
+justpokies9.com##.swal2-backdrop
+justpokies9.com##.floating-icons-container
+justpokies9.com##.static-icon-container
+justpokies9.com##.floating-whatsapp
+methking.com###marquee > span
+methking.com##.notice-slider
+methking.com##.swal2-backdrop
+methking.com##.floating-icons-container
+methking.com##.static-icon-container
+methking.com##.floating-whatsapp
+pokiesww.org###marquee > span
+pokiesww.org##.notice-slider
+pokiesww.org##.swal2-backdrop
+pokiesww.org##.floating-icons-container
+pokiesww.org##.static-icon-container
+pokiesww.org##.floating-whatsapp
+liamcasino.com###marquee > span
+liamcasino.com##.notice-slider
+liamcasino.com##.swal2-backdrop
+liamcasino.com##.floating-icons-container
+liamcasino.com##.static-icon-container
+liamcasino.com##.floating-whatsapp
+joospin.com###marquee > span
+joospin.com##.notice-slider
+joospin.com##.swal2-backdrop
+joospin.com##.floating-icons-container
+joospin.com##.static-icon-container
+joospin.com##.floating-whatsapp
+anzspin.com###marquee > span
+anzspin.com##.notice-slider
+anzspin.com##.swal2-backdrop
+anzspin.com##.floating-icons-container
+anzspin.com##.static-icon-container
+anzspin.com##.floating-whatsapp
+jbagwin.com###marquee > span
+jbagwin.com##.notice-slider
+jbagwin.com##.swal2-backdrop
+jbagwin.com##.floating-icons-container
+jbagwin.com##.static-icon-container
+jbagwin.com##.floating-whatsapp
+madmofo7.com###marquee > span
+madmofo7.com##.notice-slider
+madmofo7.com##.swal2-backdrop
+madmofo7.com##.floating-icons-container
+madmofo7.com##.static-icon-container
+madmofo7.com##.floating-whatsapp
+aussieloot.com###marquee > span
+aussieloot.com##.notice-slider
+aussieloot.com##.swal2-backdrop
+aussieloot.com##.floating-icons-container
+aussieloot.com##.static-icon-container
+aussieloot.com##.floating-whatsapp
+twospin.com###marquee > span
+twospin.com##.notice-slider
+twospin.com##.swal2-backdrop
+twospin.com##.floating-icons-container
+twospin.com##.static-icon-container
+twospin.com##.floating-whatsapp
+funmeth.com###marquee > span
+funmeth.com##.notice-slider
+funmeth.com##.swal2-backdrop
+funmeth.com##.floating-icons-container
+funmeth.com##.static-icon-container
+funmeth.com##.floating-whatsapp
+woocunt.com###marquee > span
+woocunt.com##.notice-slider
+woocunt.com##.swal2-backdrop
+woocunt.com##.floating-icons-container
+woocunt.com##.static-icon-container
+woocunt.com##.floating-whatsapp
+slutaus.com###marquee > span
+slutaus.com##.notice-slider
+slutaus.com##.swal2-backdrop
+slutaus.com##.floating-icons-container
+slutaus.com##.static-icon-container
+slutaus.com##.floating-whatsapp
+weslot88.org###marquee > span
+weslot88.org##.notice-slider
+weslot88.org##.swal2-backdrop
+weslot88.org##.floating-icons-container
+weslot88.org##.static-icon-container
+weslot88.org##.floating-whatsapp
+clownwin.com###marquee > span
+clownwin.com##.notice-slider
+clownwin.com##.swal2-backdrop
+clownwin.com##.floating-icons-container
+clownwin.com##.static-icon-container
+clownwin.com##.floating-whatsapp
+fury9.com###marquee > span
+fury9.com##.notice-slider
+fury9.com##.swal2-backdrop
+fury9.com##.floating-icons-container
+fury9.com##.static-icon-container
+fury9.com##.floating-whatsapp
+spin420.com###marquee > span
+spin420.com##.notice-slider
+spin420.com##.swal2-backdrop
+spin420.com##.floating-icons-container
+spin420.com##.static-icon-container
+spin420.com##.floating-whatsapp
+kaboomwin.com###marquee > span
+kaboomwin.com##.notice-slider
+kaboomwin.com##.swal2-backdrop
+kaboomwin.com##.floating-icons-container
+kaboomwin.com##.static-icon-container
+kaboomwin.com##.floating-whatsapp
+kaboom77.com###marquee > span
+kaboom77.com##.notice-slider
+kaboom77.com##.swal2-backdrop
+kaboom77.com##.floating-icons-container
+kaboom77.com##.static-icon-container
+kaboom77.com##.floating-whatsapp
+spinfred.com###marquee > span
+spinfred.com##.notice-slider
+spinfred.com##.swal2-backdrop
+spinfred.com##.floating-icons-container
+spinfred.com##.static-icon-container
+spinfred.com##.floating-whatsapp
+goospin.com###marquee > span
+goospin.com##.notice-slider
+goospin.com##.swal2-backdrop
+goospin.com##.floating-icons-container
+goospin.com##.static-icon-container
+goospin.com##.floating-whatsapp
+pokiestt.com###marquee > span
+pokiestt.com##.notice-slider
+pokiestt.com##.swal2-backdrop
+pokiestt.com##.floating-icons-container
+pokiestt.com##.static-icon-container
+pokiestt.com##.floating-whatsapp
+heroinspin.com###marquee > span
+heroinspin.com##.notice-slider
+heroinspin.com##.swal2-backdrop
+heroinspin.com##.floating-icons-container
+heroinspin.com##.static-icon-container
+heroinspin.com##.floating-whatsapp
+woah99.com###marquee > span
+woah99.com##.notice-slider
+woah99.com##.swal2-backdrop
+woah99.com##.floating-icons-container
+woah99.com##.static-icon-container
+woah99.com##.floating-whatsapp
+gunspin9.com###marquee > span
+gunspin9.com##.notice-slider
+gunspin9.com##.swal2-backdrop
+gunspin9.com##.floating-icons-container
+gunspin9.com##.static-icon-container
+gunspin9.com##.floating-whatsapp
+bdmspin.com###marquee > span
+bdmspin.com##.notice-slider
+bdmspin.com##.swal2-backdrop
+bdmspin.com##.floating-icons-container
+bdmspin.com##.static-icon-container
+bdmspin.com##.floating-whatsapp
+bkx9.com###marquee > span
+bkx9.com##.notice-slider
+bkx9.com##.swal2-backdrop
+bkx9.com##.floating-icons-container
+bkx9.com##.static-icon-container
+bkx9.com##.floating-whatsapp
+kisspokies.com###marquee > span
+kisspokies.com##.notice-slider
+kisspokies.com##.swal2-backdrop
+kisspokies.com##.floating-icons-container
+kisspokies.com##.static-icon-container
+kisspokies.com##.floating-whatsapp
+lovepokies.com###marquee > span
+lovepokies.com##.notice-slider
+lovepokies.com##.swal2-backdrop
+lovepokies.com##.floating-icons-container
+lovepokies.com##.static-icon-container
+lovepokies.com##.floating-whatsapp
+ausclub.net###marquee > span
+ausclub.net##.notice-slider
+ausclub.net##.swal2-backdrop
+ausclub.net##.floating-icons-container
+ausclub.net##.static-icon-container
+ausclub.net##.floating-whatsapp
+sydspin.com###marquee > span
+sydspin.com##.notice-slider
+sydspin.com##.swal2-backdrop
+sydspin.com##.floating-icons-container
+sydspin.com##.static-icon-container
+sydspin.com##.floating-whatsapp
+crayspin.com###marquee > span
+crayspin.com##.notice-slider
+crayspin.com##.swal2-backdrop
+crayspin.com##.floating-icons-container
+crayspin.com##.static-icon-container
+crayspin.com##.floating-whatsapp
+extrawin9.com###marquee > span
+extrawin9.com##.notice-slider
+extrawin9.com##.swal2-backdrop
+extrawin9.com##.floating-icons-container
+extrawin9.com##.static-icon-container
+extrawin9.com##.floating-whatsapp
+finaplay.com###marquee > span
+finaplay.com##.notice-slider
+finaplay.com##.swal2-backdrop
+finaplay.com##.floating-icons-container
+finaplay.com##.static-icon-container
+finaplay.com##.floating-whatsapp
+spinmeth.com###marquee > span
+spinmeth.com##.notice-slider
+spinmeth.com##.swal2-backdrop
+spinmeth.com##.floating-icons-container
+spinmeth.com##.static-icon-container
+spinmeth.com##.floating-whatsapp
+jellospin.com###marquee > span
+jellospin.com##.notice-slider
+jellospin.com##.swal2-backdrop
+jellospin.com##.floating-icons-container
+jellospin.com##.static-icon-container
+jellospin.com##.floating-whatsapp
+miawin.com###marquee > span
+miawin.com##.notice-slider
+miawin.com##.swal2-backdrop
+miawin.com##.floating-icons-container
+miawin.com##.static-icon-container
+miawin.com##.floating-whatsapp
+paramax9.com###marquee > span
+paramax9.com##.notice-slider
+paramax9.com##.swal2-backdrop
+paramax9.com##.floating-icons-container
+paramax9.com##.static-icon-container
+paramax9.com##.floating-whatsapp
+raabet9.com###marquee > span
+raabet9.com##.notice-slider
+raabet9.com##.swal2-backdrop
+raabet9.com##.floating-icons-container
+raabet9.com##.static-icon-container
+raabet9.com##.floating-whatsapp
+slotfred.com###marquee > span
+slotfred.com##.notice-slider
+slotfred.com##.swal2-backdrop
+slotfred.com##.floating-icons-container
+slotfred.com##.static-icon-container
+slotfred.com##.floating-whatsapp
+damnpokies.com###marquee > span
+damnpokies.com##.notice-slider
+damnpokies.com##.swal2-backdrop
+damnpokies.com##.floating-icons-container
+damnpokies.com##.static-icon-container
+damnpokies.com##.floating-whatsapp
+drunkspin.com###marquee > span
+drunkspin.com##.notice-slider
+drunkspin.com##.swal2-backdrop
+drunkspin.com##.floating-icons-container
+drunkspin.com##.static-icon-container
+drunkspin.com##.floating-whatsapp
+lvbet33.com###marquee > span
+lvbet33.com##.notice-slider
+lvbet33.com##.swal2-backdrop
+lvbet33.com##.floating-icons-container
+lvbet33.com##.static-icon-container
+lvbet33.com##.floating-whatsapp
+aussie21.com###marquee > span
+aussie21.com##.notice-slider
+aussie21.com##.swal2-backdrop
+aussie21.com##.floating-icons-container
+aussie21.com##.static-icon-container
+aussie21.com##.floating-whatsapp
+witchspin.com###marquee > span
+witchspin.com##.notice-slider
+witchspin.com##.swal2-backdrop
+witchspin.com##.floating-icons-container
+witchspin.com##.static-icon-container
+witchspin.com##.floating-whatsapp
+breakspin.com###marquee > span
+breakspin.com##.notice-slider
+breakspin.com##.swal2-backdrop
+breakspin.com##.floating-icons-container
+breakspin.com##.static-icon-container
+breakspin.com##.floating-whatsapp
+dogdog11.com###marquee > span
+dogdog11.com##.notice-slider
+dogdog11.com##.swal2-backdrop
+dogdog11.com##.floating-icons-container
+dogdog11.com##.static-icon-container
+dogdog11.com##.floating-whatsapp
+heymeth.co###marquee > span
+heymeth.co##.notice-slider
+heymeth.co##.swal2-backdrop
+heymeth.co##.floating-icons-container
+heymeth.co##.static-icon-container
+heymeth.co##.floating-whatsapp
+donaldwin.com###marquee > span
+donaldwin.com##.notice-slider
+donaldwin.com##.swal2-backdrop
+donaldwin.com##.floating-icons-container
+donaldwin.com##.static-icon-container
+donaldwin.com##.floating-whatsapp
+woospin.org###marquee > span
+woospin.org##.notice-slider
+woospin.org##.swal2-backdrop
+woospin.org##.floating-icons-container
+woospin.org##.static-icon-container
+woospin.org##.floating-whatsapp
+melspin.com###marquee > span
+melspin.com##.notice-slider
+melspin.com##.swal2-backdrop
+melspin.com##.floating-icons-container
+melspin.com##.static-icon-container
+melspin.com##.floating-whatsapp
+rizspin.net###marquee > span
+rizspin.net##.notice-slider
+rizspin.net##.swal2-backdrop
+rizspin.net##.floating-icons-container
+rizspin.net##.static-icon-container
+rizspin.net##.floating-whatsapp
+betnet9.com###marquee > span
+betnet9.com##.notice-slider
+betnet9.com##.swal2-backdrop
+betnet9.com##.floating-icons-container
+betnet9.com##.static-icon-container
+betnet9.com##.floating-whatsapp
+crackspin.com###marquee > span
+crackspin.com##.notice-slider
+crackspin.com##.swal2-backdrop
+crackspin.com##.floating-icons-container
+crackspin.com##.static-icon-container
+crackspin.com##.floating-whatsapp
+tlcwin.com###marquee > span
+tlcwin.com##.notice-slider
+tlcwin.com##.swal2-backdrop
+tlcwin.com##.floating-icons-container
+tlcwin.com##.static-icon-container
+tlcwin.com##.floating-whatsapp
+slotmate88.com###marquee > span
+slotmate88.com##.notice-slider
+slotmate88.com##.swal2-backdrop
+slotmate88.com##.floating-icons-container
+slotmate88.com##.static-icon-container
+slotmate88.com##.floating-whatsapp
+tcl21.com###marquee > span
+tcl21.com##.notice-slider
+tcl21.com##.swal2-backdrop
+tcl21.com##.floating-icons-container
+tcl21.com##.static-icon-container
+tcl21.com##.floating-whatsapp
+n1win.net###marquee > span
+n1win.net##.notice-slider
+n1win.net##.swal2-backdrop
+n1win.net##.floating-icons-container
+n1win.net##.static-icon-container
+n1win.net##.floating-whatsapp
+oimate.co###marquee > span
+oimate.co##.notice-slider
+oimate.co##.swal2-backdrop
+oimate.co##.floating-icons-container
+oimate.co##.static-icon-container
+oimate.co##.floating-whatsapp
+cumspin.com###marquee > span
+cumspin.com##.notice-slider
+cumspin.com##.swal2-backdrop
+cumspin.com##.floating-icons-container
+cumspin.com##.static-icon-container
+cumspin.com##.floating-whatsapp
+west28.com###marquee > span
+west28.com##.notice-slider
+west28.com##.swal2-backdrop
+west28.com##.floating-icons-container
+west28.com##.static-icon-container
+west28.com##.floating-whatsapp
+muckerspin.com###marquee > span
+muckerspin.com##.notice-slider
+muckerspin.com##.swal2-backdrop
+muckerspin.com##.floating-icons-container
+muckerspin.com##.static-icon-container
+muckerspin.com##.floating-whatsapp
+scr111.com###marquee > span
+scr111.com##.notice-slider
+scr111.com##.swal2-backdrop
+scr111.com##.floating-icons-container
+scr111.com##.static-icon-container
+scr111.com##.floating-whatsapp
+maxmeth.com###marquee > span
+maxmeth.com##.notice-slider
+maxmeth.com##.swal2-backdrop
+maxmeth.com##.floating-icons-container
+maxmeth.com##.static-icon-container
+maxmeth.com##.floating-whatsapp
+n1spin.com###marquee > span
+n1spin.com##.notice-slider
+n1spin.com##.swal2-backdrop
+n1spin.com##.floating-icons-container
+n1spin.com##.static-icon-container
+n1spin.com##.floating-whatsapp
+legit99.com###marquee > span
+legit99.com##.notice-slider
+legit99.com##.swal2-backdrop
+legit99.com##.floating-icons-container
+legit99.com##.static-icon-container
+legit99.com##.floating-whatsapp
+betcody.com###marquee > span
+betcody.com##.notice-slider
+betcody.com##.swal2-backdrop
+betcody.com##.floating-icons-container
+betcody.com##.static-icon-container
+betcody.com##.floating-whatsapp
+blackpokies.com###marquee > span
+blackpokies.com##.notice-slider
+blackpokies.com##.swal2-backdrop
+blackpokies.com##.floating-icons-container
+blackpokies.com##.static-icon-container
+blackpokies.com##.floating-whatsapp
+methmeth.com###marquee > span
+methmeth.com##.notice-slider
+methmeth.com##.swal2-backdrop
+methmeth.com##.floating-icons-container
+methmeth.com##.static-icon-container
+methmeth.com##.floating-whatsapp
+click96.com###marquee > span
+click96.com##.notice-slider
+click96.com##.swal2-backdrop
+click96.com##.floating-icons-container
+click96.com##.static-icon-container
+click96.com##.floating-whatsapp
+deespin.com###marquee > span
+deespin.com##.notice-slider
+deespin.com##.swal2-backdrop
+deespin.com##.floating-icons-container
+deespin.com##.static-icon-container
+deespin.com##.floating-whatsapp
+double9.org###marquee > span
+double9.org##.notice-slider
+double9.org##.swal2-backdrop
+double9.org##.floating-icons-container
+double9.org##.static-icon-container
+double9.org##.floating-whatsapp
+nicemeth.com###marquee > span
+nicemeth.com##.notice-slider
+nicemeth.com##.swal2-backdrop
+nicemeth.com##.floating-icons-container
+nicemeth.com##.static-icon-container
+nicemeth.com##.floating-whatsapp
+ecstasybaby.com###marquee > span
+ecstasybaby.com##.notice-slider
+ecstasybaby.com##.swal2-backdrop
+ecstasybaby.com##.floating-icons-container
+ecstasybaby.com##.static-icon-container
+ecstasybaby.com##.floating-whatsapp
+kennycasino.com###marquee > span
+kennycasino.com##.notice-slider
+kennycasino.com##.swal2-backdrop
+kennycasino.com##.floating-icons-container
+kennycasino.com##.static-icon-container
+kennycasino.com##.floating-whatsapp
+richclub9.com###marquee > span
+richclub9.com##.notice-slider
+richclub9.com##.swal2-backdrop
+richclub9.com##.floating-icons-container
+richclub9.com##.static-icon-container
+richclub9.com##.floating-whatsapp
+crownaud.com###marquee > span
+crownaud.com##.notice-slider
+crownaud.com##.swal2-backdrop
+crownaud.com##.floating-icons-container
+crownaud.com##.static-icon-container
+crownaud.com##.floating-whatsapp
+fendipokies.com###marquee > span
+fendipokies.com##.notice-slider
+fendipokies.com##.swal2-backdrop
+fendipokies.com##.floating-icons-container
+fendipokies.com##.static-icon-container
+fendipokies.com##.floating-whatsapp
+drpokies.com###marquee > span
+drpokies.com##.notice-slider
+drpokies.com##.swal2-backdrop
+drpokies.com##.floating-icons-container
+drpokies.com##.static-icon-container
+drpokies.com##.floating-whatsapp
+furspin.com###marquee > span
+furspin.com##.notice-slider
+furspin.com##.swal2-backdrop
+furspin.com##.floating-icons-container
+furspin.com##.static-icon-container
+furspin.com##.floating-whatsapp
+ilovejili.net###marquee > span
+ilovejili.net##.notice-slider
+ilovejili.net##.swal2-backdrop
+ilovejili.net##.floating-icons-container
+ilovejili.net##.static-icon-container
+ilovejili.net##.floating-whatsapp
+freakwin.com###marquee > span
+freakwin.com##.notice-slider
+freakwin.com##.swal2-backdrop
+freakwin.com##.floating-icons-container
+freakwin.com##.static-icon-container
+freakwin.com##.floating-whatsapp
+spinvegas9.com###marquee > span
+spinvegas9.com##.notice-slider
+spinvegas9.com##.swal2-backdrop
+spinvegas9.com##.floating-icons-container
+spinvegas9.com##.static-icon-container
+spinvegas9.com##.floating-whatsapp
+28mars.net###marquee > span
+28mars.net##.notice-slider
+28mars.net##.swal2-backdrop
+28mars.net##.floating-icons-container
+28mars.net##.static-icon-container
+28mars.net##.floating-whatsapp
+himeth.com###marquee > span
+himeth.com##.notice-slider
+himeth.com##.swal2-backdrop
+himeth.com##.floating-icons-container
+himeth.com##.static-icon-container
+himeth.com##.floating-whatsapp
+woohoo9.com###marquee > span
+woohoo9.com##.notice-slider
+woohoo9.com##.swal2-backdrop
+woohoo9.com##.floating-icons-container
+woohoo9.com##.static-icon-container
+woohoo9.com##.floating-whatsapp
+aussiebt.net###marquee > span
+aussiebt.net##.notice-slider
+aussiebt.net##.swal2-backdrop
+aussiebt.net##.floating-icons-container
+aussiebt.net##.static-icon-container
+aussiebt.net##.floating-whatsapp
+rookash.com###marquee > span
+rookash.com##.notice-slider
+rookash.com##.swal2-backdrop
+rookash.com##.floating-icons-container
+rookash.com##.static-icon-container
+rookash.com##.floating-whatsapp
+petercasino.com###marquee > span
+petercasino.com##.notice-slider
+petercasino.com##.swal2-backdrop
+petercasino.com##.floating-icons-container
+petercasino.com##.static-icon-container
+petercasino.com##.floating-whatsapp
+slotmeth.com###marquee > span
+slotmeth.com##.notice-slider
+slotmeth.com##.swal2-backdrop
+slotmeth.com##.floating-icons-container
+slotmeth.com##.static-icon-container
+slotmeth.com##.floating-whatsapp
+winstreak9.com###marquee > span
+winstreak9.com##.notice-slider
+winstreak9.com##.swal2-backdrop
+winstreak9.com##.floating-icons-container
+winstreak9.com##.static-icon-container
+winstreak9.com##.floating-whatsapp
+betjason.com###marquee > span
+betjason.com##.notice-slider
+betjason.com##.swal2-backdrop
+betjason.com##.floating-icons-container
+betjason.com##.static-icon-container
+betjason.com##.floating-whatsapp
+nelspin.com###marquee > span
+nelspin.com##.notice-slider
+nelspin.com##.swal2-backdrop
+nelspin.com##.floating-icons-container
+nelspin.com##.static-icon-container
+nelspin.com##.floating-whatsapp
+breakwin.com###marquee > span
+breakwin.com##.notice-slider
+breakwin.com##.swal2-backdrop
+breakwin.com##.floating-icons-container
+breakwin.com##.static-icon-container
+breakwin.com##.floating-whatsapp
+spinbizzo.com###marquee > span
+spinbizzo.com##.notice-slider
+spinbizzo.com##.swal2-backdrop
+spinbizzo.com##.floating-icons-container
+spinbizzo.com##.static-icon-container
+spinbizzo.com##.floating-whatsapp
+heypokies.com###marquee > span
+heypokies.com##.notice-slider
+heypokies.com##.swal2-backdrop
+heypokies.com##.floating-icons-container
+heypokies.com##.static-icon-container
+heypokies.com##.floating-whatsapp
+masonspin.net##.floating-icons-container
+masonspin.net##.static-icon-container
+masonspin.net##.floating-whatsapp
+||masonspin.net/media/*.jpg$image
+cuntboom.com##.floating-icons-container
+cuntboom.com##.static-icon-container
+cuntboom.com##.floating-whatsapp
+||cuntboom.com/media/*.jpg$image
+methbet.net##.floating-icons-container
+methbet.net##.static-icon-container
+methbet.net##.floating-whatsapp
+||methbet.net/media/*.jpg$image
+cuntspin.com##.floating-icons-container
+cuntspin.com##.static-icon-container
+cuntspin.com##.floating-whatsapp
+||cuntspin.com/media/*.jpg$image
+paramax9.net##.floating-icons-container
+paramax9.net##.static-icon-container
+paramax9.net##.floating-whatsapp
+||paramax9.net/media/*.jpg$image
+fuckingmeth.org##.floating-icons-container
+fuckingmeth.org##.static-icon-container
+fuckingmeth.org##.floating-whatsapp
+||fuckingmeth.org/media/*.jpg$image
+spinmeth.org##.floating-icons-container
+spinmeth.org##.static-icon-container
+spinmeth.org##.floating-whatsapp
+||spinmeth.org/media/*.jpg$image
+gunspin9.net##.floating-icons-container
+gunspin9.net##.static-icon-container
+gunspin9.net##.floating-whatsapp
+||gunspin9.net/media/*.jpg$image
+goospin.org##.floating-icons-container
+goospin.org##.static-icon-container
+goospin.org##.floating-whatsapp
+||goospin.org/media/*.jpg$image
+woah99.org##.floating-icons-container
+woah99.org##.static-icon-container
+woah99.org##.floating-whatsapp
+||woah99.org/media/*.jpg$image
+jerkspin.com##.floating-icons-container
+jerkspin.com##.static-icon-container
+jerkspin.com##.floating-whatsapp
+||jerkspin.com/media/*.jpg$image
+pokiesokay.net##.floating-icons-container
+pokiesokay.net##.static-icon-container
+pokiesokay.net##.floating-whatsapp
+||pokiesokay.net/media/*.jpg$image
+beebee11.net##.floating-icons-container
+beebee11.net##.static-icon-container
+beebee11.net##.floating-whatsapp
+||beebee11.net/media/*.jpg$image
+joofred.org##.floating-icons-container
+joofred.org##.static-icon-container
+joofred.org##.floating-whatsapp
+||joofred.org/media/*.jpg$image
+popmolly.net##.floating-icons-container
+popmolly.net##.static-icon-container
+popmolly.net##.floating-whatsapp
+||popmolly.net/media/*.jpg$image
+justpokies9.net##.floating-icons-container
+justpokies9.net##.static-icon-container
+justpokies9.net##.floating-whatsapp
+||justpokies9.net/media/*.jpg$image
+mofospin.net##.floating-icons-container
+mofospin.net##.static-icon-container
+mofospin.net##.floating-whatsapp
+||mofospin.net/media/*.jpg$image
+fuckfuck.app##.floating-icons-container
+fuckfuck.app##.static-icon-container
+fuckfuck.app##.floating-whatsapp
+||fuckfuck.app/media/*.jpg$image
+rizspin.com##.floating-icons-container
+rizspin.com##.static-icon-container
+rizspin.com##.floating-whatsapp
+||rizspin.com/media/*.jpg$image
+cuntwin.com##.floating-icons-container
+cuntwin.com##.static-icon-container
+cuntwin.com##.floating-whatsapp
+||cuntwin.com/media/*.jpg$image
+spinking.net##.floating-icons-container
+spinking.net##.static-icon-container
+spinking.net##.floating-whatsapp
+||spinking.net/media/*.jpg$image
+scatter9.net##.floating-icons-container
+scatter9.net##.static-icon-container
+scatter9.net##.floating-whatsapp
+||scatter9.net/media/*.jpg$image
+slotmate88.net##.floating-icons-container
+slotmate88.net##.static-icon-container
+slotmate88.net##.floating-whatsapp
+||slotmate88.net/media/*.jpg$image
+cuntcunt.com##.floating-icons-container
+cuntcunt.com##.static-icon-container
+cuntcunt.com##.floating-whatsapp
+||cuntcunt.com/media/*.jpg$image
+heymeth.com##.floating-icons-container
+heymeth.com##.static-icon-container
+heymeth.com##.floating-whatsapp
+||heymeth.com/media/*.jpg$image
+
+! Rule for all domains in the list
+/media/*.jpg$image,domain=fuckwit9.com|heypokies.com|methpokies.com|psychospin.com|gronkspin.com|mofoclub.com|cuntpokies.com|spinsx.net|onya88.com|cuntmeth.com|methbaby.co|dickwin.com|f1pokies.com|pokiesdream.com|limitedpokies.com|fuckingluck.com|boombaby9.com|vicspin.com|adultsbet.com|punk11.com|potstrike.com|wonpokies.com|sawspin.com|bomboclat9.com|vanspin.com|bong21.com|f1spin.com|justwin9.com|wink9.com|devegas99.com|playmeth.com|roopokies.com|winmate88.com|lwin9.com|fastspin99.com|nextpokies.com|spinkash.com|winspin99.com|spinwoo.com|stokedau.com|creampokies.com|yomate88.com|rtspin.com|unipokies.com|lvpokies.com|cuntaus.com|betblaze.org|joofred.com|beebee11.com|spinbaby.co|scr55.com|wowbet9.net|wabet77.com|fafabet9.com|waboom77.com|pokiesokay.com|88pokies.com|cocainespin.com|tinniewin.com|juzspin.com|jackpotmate88.com|methbet.com|masonspin.com|gopokies.co|minorspin.com|ketawin.com|pokiesgg.com|roospin.com|tcl99aus.com|tmzbet.com|lsdbaby.co|winsavage.com|winwin9.org|fatdog9.com|luckyaus.com|mofospin.com|methaus.com|maxcunt.com|hicunt.com|dis8.com|scr66.com|popmolly.co|pureluck9.com|methwin.com|spinmate88.com|methspin.com|justpokies9.com|methking.com|pokiesww.org|liamcasino.com|joospin.com|anzspin.com|jbagwin.com|madmofo7.com|aussieloot.com|twospin.com|funmeth.com|woocunt.com|slutaus.com|weslot88.org|clownwin.com|fury9.com|spin420.com|kaboomwin.com|kaboom77.com|spinfred.com|goospin.com|pokiestt.com|heroinspin.com|woah99.com|gunspin9.com|bdmspin.com|bkx9.com|kisspokies.com|lovepokies.com|ausclub.net|sydspin.com|crayspin.com|extrawin9.com|finaplay.com|spinmeth.com|jellospin.com|miawin.com|paramax9.com|raabet9.com|slotfred.com|damnpokies.com|drunkspin.com|lvbet33.com|aussie21.com|witchspin.com|breakspin.com|dogdog11.com|heymeth.co|donaldwin.com|woospin.org|melspin.com|rizspin.net|betnet9.com|crackspin.com|tlcwin.com|slotmate88.com|tcl21.com|n1win.net|oimate.co|cumspin.com|west28.com|muckerspin.com|scr111.com|maxmeth.com|n1spin.com|legit99.com|betcody.com|blackpokies.com|methmeth.com|click96.com|deespin.com|double9.org|nicemeth.com|ecstasybaby.com|kennycasino.com|richclub9.com|crownaud.com|fendipokies.com|drpokies.com|furspin.com|ilovejili.net|freakwin.com|spinvegas9.com|28mars.net|himeth.com|woohoo9.com|aussiebt.net|rookash.com|petercasino.com|slotmeth.com|winstreak9.com|betjason.com|nelspin.com|breakwin.com|spinbizzo.com
 
 ! Rule for all domains in the list
 /media/*.jpg$image,domain=fuckwit9.com|heypokies.com|methpokies.com|psychospin.com|gronkspin.com|mofoclub.com|cuntpokies.com|spinsx.net|onya88.com|cuntmeth.com|methbaby.co|dickwin.com|f1pokies.com|pokiesdream.com|limitedpokies.com|fuckingluck.com|boombaby9.com|vicspin.com|adultsbet.com|punk11.com|potstrike.com|wonpokies.com|sawspin.com|bomboclat9.com|vanspin.com|bong21.com|f1spin.com|justwin9.com|wink9.com|devegas99.com|playmeth.com|roopokies.com|winmate88.com|lwin9.com|fastspin99.com|nextpokies.com|spinkash.com|winspin99.com|spinwoo.com|stokedau.com|creampokies.com|yomate88.com|rtspin.com|unipokies.com|lvpokies.com|cuntaus.com|betblaze.org|joofred.com|beebee11.com|spinbaby.co|scr55.com|wowbet9.net|wabet77.com|fafabet9.com|waboom77.com|pokiesokay.com|88pokies.com|cocainespin.com|tinniewin.com|juzspin.com|jackpotmate88.com|methbet.com|masonspin.com|gopokies.co|minorspin.com|ketawin.com|pokiesgg.com|roospin.com|tcl99aus.com|tmzbet.com|lsdbaby.co|winsavage.com|winwin9.org|fatdog9.com|luckyaus.com|mofospin.com|methaus.com|maxcunt.com|hicunt.com|dis8.com|scr66.com|popmolly.co|pureluck9.com|methwin.com|spinmate88.com|methspin.com|justpokies9.com|methking.com|pokiesww.org|liamcasino.com|joospin.com|anzspin.com|jbagwin.com|madmofo7.com|aussieloot.com|twospin.com|funmeth.com|woocunt.com|slutaus.com|weslot88.org|clownwin.com|fury9.com|spin420.com|kaboomwin.com|kaboom77.com|spinfred.com|goospin.com|pokiestt.com|heroinspin.com|woah99.com|gunspin9.com|bdmspin.com|bkx9.com|kisspokies.com|lovepokies.com|ausclub.net|sydspin.com|crayspin.com|extrawin9.com|finaplay.com|spinmeth.com|jellospin.com|miawin.com|paramax9.com|raabet9.com|slotfred.com|damnpokies.com|drunkspin.com|lvbet33.com|aussie21.com|witchspin.com|breakspin.com|dogdog11.com|heymeth.co|donaldwin.com|woospin.org|melspin.com|rizspin.net|betnet9.com|crackspin.com|tlcwin.com|slotmate88.com|tcl21.com|n1win.net|oimate.co|cumspin.com|west28.com|muckerspin.com|scr111.com|maxmeth.com|n1spin.com|legit99.com|betcody.com|blackpokies.com|methmeth.com|click96.com|deespin.com|double9.org|nicemeth.com|ecstasybaby.com|kennycasino.com|richclub9.com|crownaud.com|fendipokies.com|drpokies.com|furspin.com|ilovejili.net|freakwin.com|spinvegas9.com|28mars.net|himeth.com|woohoo9.com|aussiebt.net|rookash.com|petercasino.com|slotmeth.com|winstreak9.com|betjason.com|nelspin.com|breakwin.com|spinbizzo.com
