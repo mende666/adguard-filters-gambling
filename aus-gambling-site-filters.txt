@@ -1,5 +1,5 @@
-! Title: Gambling Site Cleanup
-! Description: Hides floating icons, social widgets, marquees, and pop-ups, and blocks some images on a curated list.
+! Title: aus-gambling-site-filters
+! Description: Hides floating icons, static icons and social widgets, blocks few image pop-ups as you enter url's.
 ! Last updated: 2025-08-08
 
 !###marquee > span
@@ -8,6 +8,9 @@
 ##.floating-icons-container
 ##.static-icon-container
 ##.floating-whatsapp
+!||pokiesww.org/*.jpg
+||pokiesww.org/media/c3e536cb378867916e1bd.jpg^$image
+||pokiesww.org/media/76ac6f2b73886dda64f52.jpg^$image
 ||fuckwit9.com/media/af82a9bc73886076c3b05.jpg^$image
 ||fuckwit9.com/media/38f9cd1e67886140730ff.jpg^$image
 ||methpokies.com/*.jpg
@@ -30,7 +33,6 @@
 ||adultsbet.com/*.jpg
 ||punk11.com/*.jpg
 ||potstrike.com/*.jpg
-||wonpokies.com/*.jpg
 ||sawspin.com/*.jpg
 ||bomboclat9.com/*.jpg
 ||bomboclat9.net/*.jpg
@@ -101,7 +103,6 @@
 ||methspin.com/*.jpg
 ||justpokies9.com/*.jpg
 ||methking.com/*.jpg
-||pokiesww.org/*.jpg
 ||liamcasino.com/*.jpg
 ||joospin.com/*.jpg
 ||anzspin.com/*.jpg
@@ -139,3 +140,5 @@
 ||spinbizzo.com/*.jpg
 ||heypokies.com/*.jpg
 ||fuckfuck.app/*.jpg
+||popmolly.net/*.jpg
+||anzspin.org/*.jpg
