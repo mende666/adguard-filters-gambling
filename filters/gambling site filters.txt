@@ -1,6 +1,10 @@
-! Title: aus-gambling-site-filters
+!
+! Title: Aus Gambling Site Filters
 ! Description: Hides floating icons, static icons and social widgets, blocks few image pop-ups as you enter url's.
-! Last updated: 2025-08-08
+! Version: 1.0.0.0
+! Homepage: https://github.com/mende666/adguard-filters-gambling/
+! Last modified: 2025-08-08
+!
 
 !###marquee > span
 !##.notice-slider
