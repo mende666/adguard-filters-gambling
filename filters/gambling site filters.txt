@@ -1,18 +1,13 @@
 !
 ! Title: Aus Gambling Site Filters
 ! Description: Hides floating icons, static icons and social widgets, blocks few image pop-ups as you enter url's.
-! Version: 1.0.0.0
+! Version: 1.0.0.1
 ! Homepage: https://github.com/mende666/adguard-filters-gambling/
-! Last modified: 2025-08-08
+! Last modified: 2025-08-09
 !
-
-!###marquee > span
-!##.notice-slider
-!##.swal2-backdrop
 ##.floating-icons-container
 ##.static-icon-container
 ##.floating-whatsapp
-!||pokiesww.org/*.jpg
 ||pokiesww.org/media/c3e536cb378867916e1bd.jpg^$image
 ||pokiesww.org/media/76ac6f2b73886dda64f52.jpg^$image
 ||fuckwit9.com/media/af82a9bc73886076c3b05.jpg^$image
@@ -137,7 +132,6 @@
 ||rookash.com/*.jpg
 ||petercasino.com/*.jpg
 ||slotmeth.com/*.jpg
-||winstreak9.com/*.jpg
 ||betjason.com/*.jpg
 ||nelspin.com/*.jpg
 ||breakwin.com/*.jpg
@@ -146,3 +140,63 @@
 ||fuckfuck.app/*.jpg
 ||popmolly.net/*.jpg
 ||anzspin.org/*.jpg
+||cuntwin.com/*.jpg
+||masonspin.net/*.jpg
+||cuntboom.com/*.jpg
+||methbet.net/*.jpg
+||28mars.net/*.jpg
+||woohoo9.com/*.jpg
+||aussiebt.com/*.jpg
+||spinvegas9.com/*.jpg
+||slotmeth.org/*.jpg
+||freakwin.com/*.jpg
+||ilovejili.net/*.jpg
+||himeth.com/*.jpg
+||crownaud.com/*.jpg
+||woospin.org/*.jpg
+||crackspin.com/*.jpg
+||tlcwin.com/*.jpg
+||betnet9.com/*.jpg
+||rizspin.com/*.jpg
+||melspin.com/*.jpg
+||dogdog11.com/*.jpg
+||cuntwin.com/*.jpg
+||breakspin.com/*.jpg
+||ausclub.net/*.jpg
+||slotmate88.net/*.jpg
+||scatter9.net/*.jpg
+||spinking.net/*.jpg
+||cuntcunt.com/*.jpg
+||heymeth.com/*.jpg
+||damnpokies.com/*.jpg
+||drunkspin.com/*.jpg
+||crayspin.net/*.jpg
+||cuntspin.com/*.jpg
+||extrawin9.com/*.jpg
+||finaplay.com/*.jpg
+||fuckspin.com/*.jpg
+||jellospin.com/*.jpg
+||paramax9.net/*.jpg
+||slotfred.com/*.jpg
+||spinmeth.org/*.jpg
+||gunspin9.net/*.jpg
+||madmofo7.net/*.jpg
+||weslot88.net/*.jpg
+||jerkspin.com/*.jpg
+||goospin.org/*.jpg
+||woah99.org/*.jpg
+!
+! Disabled Domains ---
+!
+! ||winstreak9.com/*.jpg
+!
+! Disabled Classes ---
+!
+! ###marquee > span
+! ##.notice-slider
+! ##.swal2-backdrop
+!
+! Disabled Rules ---
+!
+! ||pokiesww.org/*.jpg
+!
