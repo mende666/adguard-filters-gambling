@@ -1,1 +1,1 @@
-Copy straight to your adguard chrome extension 'settings/user-rules/toggle-on' then paste & save.
+_Copy straight to your adguard chrome extension_ 'settings/user-rules/toggle-on' _then paste & save._
