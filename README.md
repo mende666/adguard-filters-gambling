@@ -4,17 +4,13 @@ My first blocklist—targeting sites with pop-ups so bad they deserve their own 
 
 This tool cleans up the user interface by removing distracting and unnecessary elements. It specifically targets and removes:
 
-- **Pop-ups and Banners:** Gets rid of site-wide announcements, information banners, and other floating or sticky elements.
-- **Advertisements:** Eliminates embedded videos, promotional call-to-action buttons, and other advertisements.
-- **UI Clutter:** Hides scrolling text, cleans up inactive interface elements, and removes social media links, creating a cleaner and more focused Browse experience.
-
 ---
 
 ## Features
 
-- Blocks gambling pop-ups, icons, and widgets.
-- Targets aggressive advertising on gambling sites.
-- Designed for AdGuard Chrome extension and app.
+- **Pop-ups and Banners:** Gets rid of site-wide announcements, information banners, and other floating or sticky elements.
+- **Advertisements:** Eliminates embedded videos, promotional call-to-action buttons, and other advertisements.
+- **UI Clutter:** Hides scrolling text, cleans up inactive interface elements, and removes social media links, creating a cleaner and more focused Browse experience.
 
 ---
 
