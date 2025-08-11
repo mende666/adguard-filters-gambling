@@ -1,5 +1,8 @@
 ## Features
-- My first blocklist—targeting sites with pop-ups so bad they deserve their own horror category.
+
+### **My First Blocklist** ✔
+#### *Targeting sites with pop-ups so bad they deserve their own horror category.*
+
 - **Pop-ups and Banners:** Gets rid of site-wide announcements, information banners, and other floating or sticky elements.
 - **Advertisements:** Eliminates embedded videos, promotional call-to-action buttons, and other advertisements.
 - **UI Clutter:** Hides scrolling text, cleans up inactive interface elements, and removes social media links, creating a cleaner and more focused Browse experience.
