@@ -1,13 +1,5 @@
-# AdGuard Gambling Filter
-
-My first blocklist—targeting sites with pop-ups so bad they deserve their own horror category.
-
-This tool cleans up the user interface by removing distracting and unnecessary elements. It specifically targets and removes:
-
----
-
 ## Features
-
+- My first blocklist—targeting sites with pop-ups so bad they deserve their own horror category.
 - **Pop-ups and Banners:** Gets rid of site-wide announcements, information banners, and other floating or sticky elements.
 - **Advertisements:** Eliminates embedded videos, promotional call-to-action buttons, and other advertisements.
 - **UI Clutter:** Hides scrolling text, cleans up inactive interface elements, and removes social media links, creating a cleaner and more focused Browse experience.
@@ -19,7 +11,7 @@ This tool cleans up the user interface by removing distracting and unnecessary e
 1. Download `adguard-gambling-filter.txt` from this repo or copy its raw link.
 2. Open AdGuard (Chrome extension or app).
 3. Go to **Filters > Custom Filters**.
-4. Add a new filter by uploading the file or pasting the URL.
+4. Add a new filter by uploading the file or pasting the DOMAIN.
 
 ---
 
