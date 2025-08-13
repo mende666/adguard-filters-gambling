@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2025-08-13]
+### Changed
+- Standardized all domains in `filters/Clarity UI Gambling Site Filters.txt` to use the same set of 14 cosmetic selectors.
+- Added two new universal selectors for all domains:
+  - `##div.swal2-popup.swal2-modal.notice-popup.swal2-show`
+  - `##div[style*="padding-bottom: 1%"]`
+
 ## [2025-08-11]
 ### Added
 - Add MIT license to repository.
