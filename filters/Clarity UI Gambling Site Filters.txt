@@ -15,714 +15,1070 @@
 88pokies.com##.packet.ineligible
 88pokies.com##.banner-wrapper
 88pokies.com###marquee > span
+88pokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+88pokies.com##div[style*="padding-bottom: 1%"]
 adultsbet.com##.notice
 adultsbet.com##.packet.ineligible
 adultsbet.com##.banner-wrapper
 adultsbet.com###marquee > span
+adultsbet.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+adultsbet.com##div[style*="padding-bottom: 1%"]
 anzspin.com##.notice
 anzspin.com##.packet.ineligible
 anzspin.com##.banner-wrapper
 anzspin.com###marquee > span
+anzspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+anzspin.com##div[style*="padding-bottom: 1%"]
 ausclub.net##.notice
 ausclub.net##.packet.ineligible
 ausclub.net##.banner-wrapper
 ausclub.net###marquee > span
+ausclub.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+ausclub.net##div[style*="padding-bottom: 1%"]
 aussie21.com##.notice
 aussie21.com##.packet.ineligible
 aussie21.com##.banner-wrapper
 aussie21.com###marquee > span
+aussie21.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+aussie21.com##div[style*="padding-bottom: 1%"]
 aussiebt.net##.notice
 aussiebt.net##.packet.ineligible
 aussiebt.net##.banner-wrapper
 aussiebt.net###marquee > span
+aussiebt.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+aussiebt.net##div[style*="padding-bottom: 1%"]
 aussieloot.com##.notice
 aussieloot.com##.packet.ineligible
 aussieloot.com##.banner-wrapper
 aussieloot.com###marquee > span
+aussieloot.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+aussieloot.com##div[style*="padding-bottom: 1%"]
 bdmspin.com##.notice
 bdmspin.com##.packet.ineligible
 bdmspin.com##.banner-wrapper
 bdmspin.com###marquee > span
+bdmspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+bdmspin.com##div[style*="padding-bottom: 1%"]
 beebee11.com##.notice
 beebee11.com##.packet.ineligible
 beebee11.com##.banner-wrapper
 beebee11.com###marquee > span
+beebee11.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+beebee11.com##div[style*="padding-bottom: 1%"]
 betblaze.org##.notice
 betblaze.org##.packet.ineligible
 betblaze.org##.banner-wrapper
 betblaze.org###marquee > span
+betblaze.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+betblaze.org##div[style*="padding-bottom: 1%"]
 betcody.com##.notice
 betcody.com##.packet.ineligible
 betcody.com##.banner-wrapper
 betcody.com###marquee > span
+betcody.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+betcody.com##div[style*="padding-bottom: 1%"]
 betjason.com##.notice
 betjason.com##.packet.ineligible
 betjason.com##.banner-wrapper
 betjason.com###marquee > span
+betjason.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+betjason.com##div[style*="padding-bottom: 1%"]
 betnet9.com##.notice
 betnet9.com##.packet.ineligible
 betnet9.com##.banner-wrapper
 betnet9.com###marquee > span
+betnet9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+betnet9.com##div[style*="padding-bottom: 1%"]
 bkx9.com##.notice
 bkx9.com##.packet.ineligible
 bkx9.com##.banner-wrapper
 bkx9.com###marquee > span
+bkx9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+bkx9.com##div[style*="padding-bottom: 1%"]
 blackpokies.com##.notice
 blackpokies.com##.packet.ineligible
 blackpokies.com##.banner-wrapper
 blackpokies.com###marquee > span
+blackpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+blackpokies.com##div[style*="padding-bottom: 1%"]
 boombaby9.com##.notice
 boombaby9.com##.packet.ineligible
 boombaby9.com##.banner-wrapper
 boombaby9.com###marquee > span
+boombaby9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+boombaby9.com##div[style*="padding-bottom: 1%"]
 bomboclat9.com##.notice
 bomboclat9.com##.packet.ineligible
 bomboclat9.com##.banner-wrapper
 bomboclat9.com###marquee > span
+bomboclat9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+bomboclat9.com##div[style*="padding-bottom: 1%"]
 bong21.com##.notice
 bong21.com##.packet.ineligible
 bong21.com##.banner-wrapper
 bong21.com###marquee > span
+bong21.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+bong21.com##div[style*="padding-bottom: 1%"]
 breakspin.com##.notice
 breakspin.com##.packet.ineligible
 breakspin.com##.banner-wrapper
 breakspin.com###marquee > span
+breakspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+breakspin.com##div[style*="padding-bottom: 1%"]
 breakwin.com##.notice
 breakwin.com##.packet.ineligible
 breakwin.com##.banner-wrapper
 breakwin.com###marquee > span
+breakwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+breakwin.com##div[style*="padding-bottom: 1%"]
 clownwin.com##.notice
 clownwin.com##.packet.ineligible
 clownwin.com##.banner-wrapper
 clownwin.com###marquee > span
+clownwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+clownwin.com##div[style*="padding-bottom: 1%"]
 click96.com##.notice
 click96.com##.packet.ineligible
 click96.com##.banner-wrapper
 click96.com###marquee > span
+click96.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+click96.com##div[style*="padding-bottom: 1%"]
 cocainespin.com##.notice
 cocainespin.com##.packet.ineligible
 cocainespin.com##.banner-wrapper
 cocainespin.com###marquee > span
+cocainespin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+cocainespin.com##div[style*="padding-bottom: 1%"]
 crackspin.com##.notice
 crackspin.com##.packet.ineligible
 crackspin.com##.banner-wrapper
 crackspin.com###marquee > span
+crackspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+crackspin.com##div[style*="padding-bottom: 1%"]
 crayspin.com##.notice
 crayspin.com##.packet.ineligible
 crayspin.com##.banner-wrapper
 crayspin.com###marquee > span
+crayspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+crayspin.com##div[style*="padding-bottom: 1%"]
 creampokies.com##.notice
 creampokies.com##.packet.ineligible
 creampokies.com##.banner-wrapper
 creampokies.com###marquee > span
+creampokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+creampokies.com##div[style*="padding-bottom: 1%"]
 crownaud.com##.notice
 crownaud.com##.packet.ineligible
 crownaud.com##.banner-wrapper
 crownaud.com###marquee > span
+crownaud.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+crownaud.com##div[style*="padding-bottom: 1%"]
 cumspin.com##.notice
 cumspin.com##.packet.ineligible
 cumspin.com##.banner-wrapper
 cumspin.com###marquee > span
+cumspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+cumspin.com##div[style*="padding-bottom: 1%"]
 cuntaus.com##.notice
 cuntaus.com##.packet.ineligible
 cuntaus.com##.banner-wrapper
 cuntaus.com###marquee > span
+cuntaus.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+cuntaus.com##div[style*="padding-bottom: 1%"]
 cuntmeth.com##.notice
 cuntmeth.com##.packet.ineligible
 cuntmeth.com##.banner-wrapper
 cuntmeth.com###marquee > span
+cuntmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+cuntmeth.com##div[style*="padding-bottom: 1%"]
 cuntpokies.com##.notice
 cuntpokies.com##.packet.ineligible
 cuntpokies.com##.banner-wrapper
 cuntpokies.com###marquee > span
+cuntpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+cuntpokies.com##div[style*="padding-bottom: 1%"]
 damnpokies.com##.notice
 damnpokies.com##.packet.ineligible
 damnpokies.com##.banner-wrapper
 damnpokies.com###marquee > span
+damnpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+damnpokies.com##div[style*="padding-bottom: 1%"]
 deespin.com##.notice
 deespin.com##.packet.ineligible
 deespin.com##.banner-wrapper
 deespin.com###marquee > span
+deespin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+deespin.com##div[style*="padding-bottom: 1%"]
 devegas99.com##.notice
 devegas99.com##.packet.ineligible
 devegas99.com##.banner-wrapper
 devegas99.com###marquee > span
+devegas99.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+devegas99.com##div[style*="padding-bottom: 1%"]
 dickwin.com##.notice
 dickwin.com##.packet.ineligible
 dickwin.com##.banner-wrapper
 dickwin.com###marquee > span
+dickwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+dickwin.com##div[style*="padding-bottom: 1%"]
 dis8.com##.notice
 dis8.com##.packet.ineligible
 dis8.com##.banner-wrapper
 dis8.com###marquee > span
+dis8.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+dis8.com##div[style*="padding-bottom: 1%"]
 dogdog11.com##.notice
 dogdog11.com##.packet.ineligible
 dogdog11.com##.banner-wrapper
 dogdog11.com###marquee > span
+dogdog11.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+dogdog11.com##div[style*="padding-bottom: 1%"]
 donaldwin.com##.notice
 donaldwin.com##.packet.ineligible
 donaldwin.com##.banner-wrapper
 donaldwin.com###marquee > span
+donaldwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+donaldwin.com##div[style*="padding-bottom: 1%"]
 double9.org##.notice
 double9.org##.packet.ineligible
 double9.org##.banner-wrapper
 double9.org###marquee > span
+double9.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+double9.org##div[style*="padding-bottom: 1%"]
 drpokies.com##.notice
 drpokies.com##.packet.ineligible
 drpokies.com##.banner-wrapper
 drpokies.com###marquee > span
+drpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+drpokies.com##div[style*="padding-bottom: 1%"]
 drunkspin.com##.notice
 drunkspin.com##.packet.ineligible
 drunkspin.com##.banner-wrapper
 drunkspin.com###marquee > span
+drunkspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+drunkspin.com##div[style*="padding-bottom: 1%"]
 ecstasybaby.com##.notice
 ecstasybaby.com##.packet.ineligible
 ecstasybaby.com##.banner-wrapper
 ecstasybaby.com###marquee > span
+ecstasybaby.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+ecstasybaby.com##div[style*="padding-bottom: 1%"]
 extrawin9.com##.notice
 extrawin9.com##.packet.ineligible
 extrawin9.com##.banner-wrapper
 extrawin9.com###marquee > span
+extrawin9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+extrawin9.com##div[style*="padding-bottom: 1%"]
 f1pokies.com##.notice
 f1pokies.com##.packet.ineligible
 f1pokies.com##.banner-wrapper
 f1pokies.com###marquee > span
+f1pokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+f1pokies.com##div[style*="padding-bottom: 1%"]
 f1spin.com##.notice
 f1spin.com##.packet.ineligible
 f1spin.com##.banner-wrapper
 f1spin.com###marquee > span
+f1spin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+f1spin.com##div[style*="padding-bottom: 1%"]
 fafabet9.com##.notice
 fafabet9.com##.packet.ineligible
 fafabet9.com##.banner-wrapper
 fafabet9.com###marquee > span
+fafabet9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fafabet9.com##div[style*="padding-bottom: 1%"]
 fastspin99.com##.notice
 fastspin99.com##.packet.ineligible
 fastspin99.com##.banner-wrapper
 fastspin99.com###marquee > span
+fastspin99.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fastspin99.com##div[style*="padding-bottom: 1%"]
 fatdog9.com##.notice
 fatdog9.com##.packet.ineligible
 fatdog9.com##.banner-wrapper
 fatdog9.com###marquee > span
+fatdog9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fatdog9.com##div[style*="padding-bottom: 1%"]
 fendipokies.com##.notice
 fendipokies.com##.packet.ineligible
 fendipokies.com##.banner-wrapper
 fendipokies.com###marquee > span
+fendipokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fendipokies.com##div[style*="padding-bottom: 1%"]
 finaplay.com##.notice
 finaplay.com##.packet.ineligible
 finaplay.com##.banner-wrapper
 finaplay.com###marquee > span
+finaplay.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+finaplay.com##div[style*="padding-bottom: 1%"]
 freakwin.com##.notice
 freakwin.com##.packet.ineligible
 freakwin.com##.banner-wrapper
 freakwin.com###marquee > span
+freakwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+freakwin.com##div[style*="padding-bottom: 1%"]
 fuckingluck.com##.notice
 fuckingluck.com##.packet.ineligible
 fuckingluck.com##.banner-wrapper
 fuckingluck.com###marquee > span
+fuckingluck.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fuckingluck.com##div[style*="padding-bottom: 1%"]
 funmeth.com##.notice
 funmeth.com##.packet.ineligible
 funmeth.com##.banner-wrapper
 funmeth.com###marquee > span
+funmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+funmeth.com##div[style*="padding-bottom: 1%"]
 furspin.com##.notice
 furspin.com##.packet.ineligible
 furspin.com##.banner-wrapper
 furspin.com###marquee > span
+furspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+furspin.com##div[style*="padding-bottom: 1%"]
 fury9.com##.notice
 fury9.com##.packet.ineligible
 fury9.com##.banner-wrapper
 fury9.com###marquee > span
+fury9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+fury9.com##div[style*="padding-bottom: 1%"]
 goospin.com##.notice
 goospin.com##.packet.ineligible
 goospin.com##.banner-wrapper
 goospin.com###marquee > span
+goospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+goospin.com##div[style*="padding-bottom: 1%"]
 gopokies.co##.notice
 gopokies.co##.packet.ineligible
 gopokies.co##.banner-wrapper
 gopokies.co###marquee > span
+gopokies.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+gopokies.co##div[style*="padding-bottom: 1%"]
 gronkspin.com##.notice
 gronkspin.com##.packet.ineligible
 gronkspin.com##.banner-wrapper
 gronkspin.com###marquee > span
+gronkspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+gronkspin.com##div[style*="padding-bottom: 1%"]
 gunspin9.com##.notice
 gunspin9.com##.packet.ineligible
 gunspin9.com##.banner-wrapper
 gunspin9.com###marquee > span
+gunspin9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+gunspin9.com##div[style*="padding-bottom: 1%"]
 heroinspin.com##.notice
 heroinspin.com##.packet.ineligible
 heroinspin.com##.banner-wrapper
 heroinspin.com###marquee > span
+heroinspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+heroinspin.com##div[style*="padding-bottom: 1%"]
 heymeth.co##.notice
 heymeth.co##.packet.ineligible
 heymeth.co##.banner-wrapper
 heymeth.co###marquee > span
+heymeth.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+heymeth.co##div[style*="padding-bottom: 1%"]
 hicunt.com##.notice
 hicunt.com##.packet.ineligible
 hicunt.com##.banner-wrapper
 hicunt.com###marquee > span
+hicunt.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+hicunt.com##div[style*="padding-bottom: 1%"]
 himeth.com##.notice
 himeth.com##.packet.ineligible
 himeth.com##.banner-wrapper
 himeth.com###marquee > span
+himeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+himeth.com##div[style*="padding-bottom: 1%"]
 ilovejili.net##.notice
 ilovejili.net##.packet.ineligible
 ilovejili.net##.banner-wrapper
 ilovejili.net###marquee > span
+ilovejili.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+ilovejili.net##div[style*="padding-bottom: 1%"]
 jackpotmate88.com##.notice
 jackpotmate88.com##.packet.ineligible
 jackpotmate88.com##.banner-wrapper
 jackpotmate88.com###marquee > span
+jackpotmate88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+jackpotmate88.com##div[style*="padding-bottom: 1%"]
 jbagwin.com##.notice
 jbagwin.com##.packet.ineligible
 jbagwin.com##.banner-wrapper
 jbagwin.com###marquee > span
+jbagwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+jbagwin.com##div[style*="padding-bottom: 1%"]
 jellospin.com##.notice
 jellospin.com##.packet.ineligible
 jellospin.com##.banner-wrapper
 jellospin.com###marquee > span
+jellospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+jellospin.com##div[style*="padding-bottom: 1%"]
 joofred.com##.notice
 joofred.com##.packet.ineligible
 joofred.com##.banner-wrapper
 joofred.com###marquee > span
+joofred.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+joofred.com##div[style*="padding-bottom: 1%"]
 joospin.com##.notice
 joospin.com##.packet.ineligible
 joospin.com##.banner-wrapper
 joospin.com###marquee > span
+joospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+joospin.com##div[style*="padding-bottom: 1%"]
 justpokies9.com##.notice
 justpokies9.com##.packet.ineligible
 justpokies9.com##.banner-wrapper
 justpokies9.com###marquee > span
+justpokies9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+justpokies9.com##div[style*="padding-bottom: 1%"]
 justwin9.com##.notice
 justwin9.com##.packet.ineligible
 justwin9.com##.banner-wrapper
 justwin9.com###marquee > span
+justwin9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+justwin9.com##div[style*="padding-bottom: 1%"]
 juzspin.com##.notice
 juzspin.com##.packet.ineligible
 juzspin.com##.banner-wrapper
 juzspin.com###marquee > span
+juzspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+juzspin.com##div[style*="padding-bottom: 1%"]
 kaboom77.com##.notice
 kaboom77.com##.packet.ineligible
 kaboom77.com##.banner-wrapper
 kaboom77.com###marquee > span
+kaboom77.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+kaboom77.com##div[style*="padding-bottom: 1%"]
 kaboomwin.com##.notice
 kaboomwin.com##.packet.ineligible
 kaboomwin.com##.banner-wrapper
 kaboomwin.com###marquee > span
+kaboomwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+kaboomwin.com##div[style*="padding-bottom: 1%"]
 kennycasino.com##.notice
 kennycasino.com##.packet.ineligible
 kennycasino.com##.banner-wrapper
 kennycasino.com###marquee > span
+kennycasino.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+kennycasino.com##div[style*="padding-bottom: 1%"]
 ketawin.com##.notice
 ketawin.com##.packet.ineligible
 ketawin.com##.banner-wrapper
 ketawin.com###marquee > span
+ketawin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+ketawin.com##div[style*="padding-bottom: 1%"]
 kisspokies.com##.notice
 kisspokies.com##.packet.ineligible
 kisspokies.com##.banner-wrapper
 kisspokies.com###marquee > span
+kisspokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+kisspokies.com##div[style*="padding-bottom: 1%"]
 legit99.com##.notice
 legit99.com##.packet.ineligible
 legit99.com##.banner-wrapper
 legit99.com###marquee > span
+legit99.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+legit99.com##div[style*="padding-bottom: 1%"]
 liamcasino.com##.notice
 liamcasino.com##.packet.ineligible
 liamcasino.com##.banner-wrapper
 liamcasino.com###marquee > span
+liamcasino.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+liamcasino.com##div[style*="padding-bottom: 1%"]
 limitedpokies.com##.notice
 limitedpokies.com##.packet.ineligible
 limitedpokies.com##.banner-wrapper
 limitedpokies.com###marquee > span
+limitedpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+limitedpokies.com##div[style*="padding-bottom: 1%"]
 lovepokies.com##.notice
 lovepokies.com##.packet.ineligible
 lovepokies.com##.banner-wrapper
 lovepokies.com###marquee > span
+lovepokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+lovepokies.com##div[style*="padding-bottom: 1%"]
 lsdbaby.co##.notice
 lsdbaby.co##.packet.ineligible
 lsdbaby.co##.banner-wrapper
 lsdbaby.co###marquee > span
+lsdbaby.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+lsdbaby.co##div[style*="padding-bottom: 1%"]
 luckyaus.com##.notice
 luckyaus.com##.packet.ineligible
 luckyaus.com##.banner-wrapper
 luckyaus.com###marquee > span
+luckyaus.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+luckyaus.com##div[style*="padding-bottom: 1%"]
 lvbet33.com##.notice
 lvbet33.com##.packet.ineligible
 lvbet33.com##.banner-wrapper
 lvbet33.com###marquee > span
+lvbet33.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+lvbet33.com##div[style*="padding-bottom: 1%"]
 lvpokies.com##.notice
 lvpokies.com##.packet.ineligible
 lvpokies.com##.banner-wrapper
 lvpokies.com###marquee > span
+lvpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+lvpokies.com##div[style*="padding-bottom: 1%"]
 lwin9.com##.notice
 lwin9.com##.packet.ineligible
 lwin9.com##.banner-wrapper
 lwin9.com###marquee > span
+lwin9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+lwin9.com##div[style*="padding-bottom: 1%"]
 madmofo7.com##.notice
 madmofo7.com##.packet.ineligible
 madmofo7.com##.banner-wrapper
 madmofo7.com###marquee > span
+madmofo7.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+madmofo7.com##div[style*="padding-bottom: 1%"]
 masonspin.com##.notice
 masonspin.com##.packet.ineligible
 masonspin.com##.banner-wrapper
 masonspin.com###marquee > span
+masonspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+masonspin.com##div[style*="padding-bottom: 1%"]
 maxcunt.com##.notice
 maxcunt.com##.packet.ineligible
 maxcunt.com##.banner-wrapper
 maxcunt.com###marquee > span
+maxcunt.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+maxcunt.com##div[style*="padding-bottom: 1%"]
 maxmeth.com##.notice
 maxmeth.com##.packet.ineligible
 maxmeth.com##.banner-wrapper
 maxmeth.com###marquee > span
+maxmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+maxmeth.com##div[style*="padding-bottom: 1%"]
 melspin.com##.notice
 melspin.com##.packet.ineligible
 melspin.com##.banner-wrapper
 melspin.com###marquee > span
+melspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+melspin.com##div[style*="padding-bottom: 1%"]
 methaus.com##.notice
 methaus.com##.packet.ineligible
 methaus.com##.banner-wrapper
 methaus.com###marquee > span
+methaus.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methaus.com##div[style*="padding-bottom: 1%"]
 methbaby.co##.notice
 methbaby.co##.packet.ineligible
 methbaby.co##.banner-wrapper
 methbaby.co###marquee > span
+methbaby.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methbaby.co##div[style*="padding-bottom: 1%"]
 methbet.com##.notice
 methbet.com##.packet.ineligible
 methbet.com##.banner-wrapper
 methbet.com###marquee > span
+methbet.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methbet.com##div[style*="padding-bottom: 1%"]
 methking.com##.notice
 methking.com##.packet.ineligible
 methking.com##.banner-wrapper
 methking.com###marquee > span
+methking.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methking.com##div[style*="padding-bottom: 1%"]
 methmeth.com##.notice
 methmeth.com##.packet.ineligible
 methmeth.com##.banner-wrapper
 methmeth.com###marquee > span
+methmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methmeth.com##div[style*="padding-bottom: 1%"]
 methpokies.com##.notice
 methpokies.com##.packet.ineligible
 methpokies.com##.banner-wrapper
 methpokies.com###marquee > span
+methpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methpokies.com##div[style*="padding-bottom: 1%"]
 methspin.com##.notice
 methspin.com##.packet.ineligible
 methspin.com##.banner-wrapper
 methspin.com###marquee > span
+methspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methspin.com##div[style*="padding-bottom: 1%"]
 methwin.com##.notice
 methwin.com##.packet.ineligible
 methwin.com##.banner-wrapper
 methwin.com###marquee > span
+methwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+methwin.com##div[style*="padding-bottom: 1%"]
 miawin.com##.notice
 miawin.com##.packet.ineligible
 miawin.com##.banner-wrapper
 miawin.com###marquee > span
+miawin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+miawin.com##div[style*="padding-bottom: 1%"]
 minorspin.com##.notice
 minorspin.com##.packet.ineligible
 minorspin.com##.banner-wrapper
 minorspin.com###marquee > span
+minorspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+minorspin.com##div[style*="padding-bottom: 1%"]
 mofoclub.com##.notice
 mofoclub.com##.packet.ineligible
 mofoclub.com##.banner-wrapper
 mofoclub.com###marquee > span
+mofoclub.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+mofoclub.com##div[style*="padding-bottom: 1%"]
 mofospin.com##.notice
 mofospin.com##.packet.ineligible
 mofospin.com##.banner-wrapper
 mofospin.com###marquee > span
+mofospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+mofospin.com##div[style*="padding-bottom: 1%"]
 muckerspin.com##.notice
 muckerspin.com##.packet.ineligible
 muckerspin.com##.banner-wrapper
 muckerspin.com###marquee > span
+muckerspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+muckerspin.com##div[style*="padding-bottom: 1%"]
 n1spin.com##.notice
 n1spin.com##.packet.ineligible
 n1spin.com##.banner-wrapper
 n1spin.com###marquee > span
+n1spin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+n1spin.com##div[style*="padding-bottom: 1%"]
 n1win.net##.notice
 n1win.net##.packet.ineligible
 n1win.net##.banner-wrapper
 n1win.net###marquee > span
+n1win.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+n1win.net##div[style*="padding-bottom: 1%"]
 nelspin.com##.notice
 nelspin.com##.packet.ineligible
 nelspin.com##.banner-wrapper
 nelspin.com###marquee > span
+nelspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+nelspin.com##div[style*="padding-bottom: 1%"]
 nextpokies.com##.notice
 nextpokies.com##.packet.ineligible
 nextpokies.com##.banner-wrapper
 nextpokies.com###marquee > span
+nextpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+nextpokies.com##div[style*="padding-bottom: 1%"]
 nicemeth.com##.notice
 nicemeth.com##.packet.ineligible
 nicemeth.com##.banner-wrapper
 nicemeth.com###marquee > span
+nicemeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+nicemeth.com##div[style*="padding-bottom: 1%"]
 oimate.co##.notice
 oimate.co##.packet.ineligible
 oimate.co##.banner-wrapper
 oimate.co###marquee > span
+oimate.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+oimate.co##div[style*="padding-bottom: 1%"]
 onya88.com##.notice
 onya88.com##.packet.ineligible
 onya88.com##.banner-wrapper
 onya88.com###marquee > span
+onya88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+onya88.com##div[style*="padding-bottom: 1%"]
 paramax9.com##.notice
 paramax9.com##.packet.ineligible
 paramax9.com##.banner-wrapper
 paramax9.com###marquee > span
+paramax9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+paramax9.com##div[style*="padding-bottom: 1%"]
 petercasino.com##.notice
 petercasino.com##.packet.ineligible
 petercasino.com##.banner-wrapper
 petercasino.com###marquee > span
+petercasino.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+petercasino.com##div[style*="padding-bottom: 1%"]
 playmeth.com##.notice
 playmeth.com##.packet.ineligible
 playmeth.com##.banner-wrapper
 playmeth.com###marquee > span
+playmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+playmeth.com##div[style*="padding-bottom: 1%"]
 pokiesdream.com##.notice
 pokiesdream.com##.packet.ineligible
 pokiesdream.com##.banner-wrapper
 pokiesdream.com###marquee > span
+pokiesdream.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pokiesdream.com##div[style*="padding-bottom: 1%"]
 pokiesgg.com##.notice
 pokiesgg.com##.packet.ineligible
 pokiesgg.com##.banner-wrapper
 pokiesgg.com###marquee > span
+pokiesgg.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pokiesgg.com##div[style*="padding-bottom: 1%"]
 pokiesokay.com##.notice
 pokiesokay.com##.packet.ineligible
 pokiesokay.com##.banner-wrapper
 pokiesokay.com###marquee > span
+pokiesokay.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pokiesokay.com##div[style*="padding-bottom: 1%"]
 pokiestt.com##.notice
 pokiestt.com##.packet.ineligible
 pokiestt.com##.banner-wrapper
 pokiestt.com###marquee > span
+pokiestt.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pokiestt.com##div[style*="padding-bottom: 1%"]
 pokiesww.org##.notice
 pokiesww.org##.packet.ineligible
 pokiesww.org##.banner-wrapper
 pokiesww.org###marquee > span
+pokiesww.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pokiesww.org##div[style*="padding-bottom: 1%"]
 popmolly.co##.notice
 popmolly.co##.packet.ineligible
 popmolly.co##.banner-wrapper
 popmolly.co###marquee > span
+popmolly.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+popmolly.co##div[style*="padding-bottom: 1%"]
 potstrike.com##.notice
 potstrike.com##.packet.ineligible
 potstrike.com##.banner-wrapper
 potstrike.com###marquee > span
+potstrike.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+potstrike.com##div[style*="padding-bottom: 1%"]
 psychospin.com##.notice
 psychospin.com##.packet.ineligible
 psychospin.com##.banner-wrapper
 psychospin.com###marquee > span
+psychospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+psychospin.com##div[style*="padding-bottom: 1%"]
 punk11.com##.notice
 punk11.com##.packet.ineligible
 punk11.com##.banner-wrapper
 punk11.com###marquee > span
+punk11.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+punk11.com##div[style*="padding-bottom: 1%"]
 pureluck9.com##.notice
 pureluck9.com##.packet.ineligible
 pureluck9.com##.banner-wrapper
 pureluck9.com###marquee > span
+pureluck9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+pureluck9.com##div[style*="padding-bottom: 1%"]
 raabet9.com##.notice
 raabet9.com##.packet.ineligible
 raabet9.com##.banner-wrapper
 raabet9.com###marquee > span
+raabet9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+raabet9.com##div[style*="padding-bottom: 1%"]
 richclub9.com##.notice
 richclub9.com##.packet.ineligible
 richclub9.com##.banner-wrapper
 richclub9.com###marquee > span
+richclub9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+richclub9.com##div[style*="padding-bottom: 1%"]
 rizspin.net##.notice
 rizspin.net##.packet.ineligible
 rizspin.net##.banner-wrapper
 rizspin.net###marquee > span
+rizspin.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+rizspin.net##div[style*="padding-bottom: 1%"]
 rookash.com##.notice
 rookash.com##.packet.ineligible
 rookash.com##.banner-wrapper
 rookash.com###marquee > span
+rookash.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+rookash.com##div[style*="padding-bottom: 1%"]
 roopokies.com##.notice
 roopokies.com##.packet.ineligible
 roopokies.com##.banner-wrapper
 roopokies.com###marquee > span
+roopokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+roopokies.com##div[style*="padding-bottom: 1%"]
 roospin.com##.notice
 roospin.com##.packet.ineligible
 roospin.com##.banner-wrapper
 roospin.com###marquee > span
+roospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+roospin.com##div[style*="padding-bottom: 1%"]
 rtspin.com##.notice
 rtspin.com##.packet.ineligible
 rtspin.com##.banner-wrapper
 rtspin.com###marquee > span
+rtspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+rtspin.com##div[style*="padding-bottom: 1%"]
 sawspin.com##.notice
 sawspin.com##.packet.ineligible
 sawspin.com##.banner-wrapper
 sawspin.com###marquee > span
+sawspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+sawspin.com##div[style*="padding-bottom: 1%"]
 scr111.com##.notice
 scr111.com##.packet.ineligible
 scr111.com##.banner-wrapper
 scr111.com###marquee > span
+scr111.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+scr111.com##div[style*="padding-bottom: 1%"]
 scr55.com##.notice
 scr55.com##.packet.ineligible
 scr55.com##.banner-wrapper
 scr55.com###marquee > span
+scr55.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+scr55.com##div[style*="padding-bottom: 1%"]
 scr66.com##.notice
 scr66.com##.packet.ineligible
 scr66.com##.banner-wrapper
 scr66.com###marquee > span
+scr66.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+scr66.com##div[style*="padding-bottom: 1%"]
 slotfred.com##.notice
 slotfred.com##.packet.ineligible
 slotfred.com##.banner-wrapper
 slotfred.com###marquee > span
+slotfred.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+slotfred.com##div[style*="padding-bottom: 1%"]
 slotmate88.com##.notice
 slotmate88.com##.packet.ineligible
 slotmate88.com##.banner-wrapper
 slotmate88.com###marquee > span
+slotmate88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+slotmate88.com##div[style*="padding-bottom: 1%"]
 slotmeth.com##.notice
 slotmeth.com##.packet.ineligible
 slotmeth.com##.banner-wrapper
 slotmeth.com###marquee > span
+slotmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+slotmeth.com##div[style*="padding-bottom: 1%"]
 slutaus.com##.notice
 slutaus.com##.packet.ineligible
 slutaus.com##.banner-wrapper
 slutaus.com###marquee > span
+slutaus.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+slutaus.com##div[style*="padding-bottom: 1%"]
 spin420.com##.notice
 spin420.com##.packet.ineligible
 spin420.com##.banner-wrapper
 spin420.com###marquee > span
+spin420.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spin420.com##div[style*="padding-bottom: 1%"]
 spinbaby.co##.notice
 spinbaby.co##.packet.ineligible
 spinbaby.co##.banner-wrapper
 spinbaby.co###marquee > span
+spinbaby.co##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinbaby.co##div[style*="padding-bottom: 1%"]
 spinbizzo.com##.notice
 spinbizzo.com##.packet.ineligible
 spinbizzo.com##.banner-wrapper
 spinbizzo.com###marquee > span
+spinbizzo.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinbizzo.com##div[style*="padding-bottom: 1%"]
 spinfred.com##.notice
 spinfred.com##.packet.ineligible
 spinfred.com##.banner-wrapper
 spinfred.com###marquee > span
+spinfred.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinfred.com##div[style*="padding-bottom: 1%"]
 spinkash.com##.notice
 spinkash.com##.packet.ineligible
 spinkash.com##.banner-wrapper
 spinkash.com###marquee > span
+spinkash.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinkash.com##div[style*="padding-bottom: 1%"]
 spinmate88.com##.notice
 spinmate88.com##.packet.ineligible
 spinmate88.com##.banner-wrapper
 spinmate88.com###marquee > span
+spinmate88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinmate88.com##div[style*="padding-bottom: 1%"]
 spinmeth.com##.notice
 spinmeth.com##.packet.ineligible
 spinmeth.com##.banner-wrapper
 spinmeth.com###marquee > span
+spinmeth.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinmeth.com##div[style*="padding-bottom: 1%"]
 spinsx.net##.notice
 spinsx.net##.packet.ineligible
 spinsx.net##.banner-wrapper
 spinsx.net###marquee > span
+spinsx.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinsx.net##div[style*="padding-bottom: 1%"]
 spinvegas9.com##.notice
 spinvegas9.com##.packet.ineligible
 spinvegas9.com##.banner-wrapper
 spinvegas9.com###marquee > span
+spinvegas9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinvegas9.com##div[style*="padding-bottom: 1%"]
 spinwoo.com##.notice
 spinwoo.com##.packet.ineligible
 spinwoo.com##.banner-wrapper
 spinwoo.com###marquee > span
+spinwoo.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+spinwoo.com##div[style*="padding-bottom: 1%"]
 stokedau.com##.notice
 stokedau.com##.packet.ineligible
 stokedau.com##.banner-wrapper
 stokedau.com###marquee > span
+stokedau.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+stokedau.com##div[style*="padding-bottom: 1%"]
 sydspin.com##.notice
 sydspin.com##.packet.ineligible
 sydspin.com##.banner-wrapper
 sydspin.com###marquee > span
+sydspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+sydspin.com##div[style*="padding-bottom: 1%"]
 tcl21.com##.notice
 tcl21.com##.packet.ineligible
 tcl21.com##.banner-wrapper
 tcl21.com###marquee > span
+tcl21.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+tcl21.com##div[style*="padding-bottom: 1%"]
 tcl99aus.com##.notice
 tcl99aus.com##.packet.ineligible
 tcl99aus.com##.banner-wrapper
 tcl99aus.com###marquee > span
+tcl99aus.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+tcl99aus.com##div[style*="padding-bottom: 1%"]
 tinniewin.com##.notice
 tinniewin.com##.packet.ineligible
 tinniewin.com##.banner-wrapper
 tinniewin.com###marquee > span
+tinniewin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+tinniewin.com##div[style*="padding-bottom: 1%"]
 tlcwin.com##.notice
 tlcwin.com##.packet.ineligible
 tlcwin.com##.banner-wrapper
 tlcwin.com###marquee > span
+tlcwin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+tlcwin.com##div[style*="padding-bottom: 1%"]
 tmzbet.com##.notice
 tmzbet.com##.packet.ineligible
 tmzbet.com##.banner-wrapper
 tmzbet.com###marquee > span
+tmzbet.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+tmzbet.com##div[style*="padding-bottom: 1%"]
 twospin.com##.notice
 twospin.com##.packet.ineligible
 twospin.com##.banner-wrapper
 twospin.com###marquee > span
+twospin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+twospin.com##div[style*="padding-bottom: 1%"]
 unipokies.com##.notice
 unipokies.com##.packet.ineligible
 unipokies.com##.banner-wrapper
 unipokies.com###marquee > span
+unipokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+unipokies.com##div[style*="padding-bottom: 1%"]
 vanspin.com##.notice
 vanspin.com##.packet.ineligible
 vanspin.com##.banner-wrapper
 vanspin.com###marquee > span
+vanspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+vanspin.com##div[style*="padding-bottom: 1%"]
 vicspin.com##.notice
 vicspin.com##.packet.ineligible
 vicspin.com##.banner-wrapper
 vicspin.com###marquee > span
+vicspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+vicspin.com##div[style*="padding-bottom: 1%"]
 wabet77.com##.notice
 wabet77.com##.packet.ineligible
 wabet77.com##.banner-wrapper
 wabet77.com###marquee > span
+wabet77.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+wabet77.com##div[style*="padding-bottom: 1%"]
 waboom77.com##.notice
 waboom77.com##.packet.ineligible
 waboom77.com##.banner-wrapper
 waboom77.com###marquee > span
+waboom77.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+waboom77.com##div[style*="padding-bottom: 1%"]
 weslot88.org##.notice
 weslot88.org##.packet.ineligible
 weslot88.org##.banner-wrapper
 weslot88.org###marquee > span
+weslot88.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+weslot88.org##div[style*="padding-bottom: 1%"]
 west28.com##.notice
 west28.com##.packet.ineligible
 west28.com##.banner-wrapper
 west28.com###marquee > span
+west28.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+west28.com##div[style*="padding-bottom: 1%"]
 winmate88.com##.notice
 winmate88.com##.packet.ineligible
 winmate88.com##.banner-wrapper
 winmate88.com###marquee > span
+winmate88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+winmate88.com##div[style*="padding-bottom: 1%"]
 winsavage.com##.notice
 winsavage.com##.packet.ineligible
 winsavage.com##.banner-wrapper
 winsavage.com###marquee > span
+winsavage.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+winsavage.com##div[style*="padding-bottom: 1%"]
 winspin99.com##.notice
 winspin99.com##.packet.ineligible
 winspin99.com##.banner-wrapper
 winspin99.com###marquee > span
+winspin99.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+winspin99.com##div[style*="padding-bottom: 1%"]
 winstreak9.com##.notice
 winstreak9.com##.packet.ineligible
 winstreak9.com##.banner-wrapper
 winstreak9.com###marquee > span
+winstreak9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+winstreak9.com##div[style*="padding-bottom: 1%"]
 winwin9.org##.notice
 winwin9.org##.packet.ineligible
 winwin9.org##.banner-wrapper
 winwin9.org###marquee > span
+winwin9.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+winwin9.org##div[style*="padding-bottom: 1%"]
 wink9.com##.notice
 wink9.com##.packet.ineligible
 wink9.com##.banner-wrapper
 wink9.com###marquee > span
+wink9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+wink9.com##div[style*="padding-bottom: 1%"]
 witchspin.com##.notice
 witchspin.com##.packet.ineligible
 witchspin.com##.banner-wrapper
 witchspin.com###marquee > span
+witchspin.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+witchspin.com##div[style*="padding-bottom: 1%"]
 woah99.com##.notice
 woah99.com##.packet.ineligible
 woah99.com##.banner-wrapper
 woah99.com###marquee > span
+woah99.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+woah99.com##div[style*="padding-bottom: 1%"]
 wonpokies.com##.notice
 wonpokies.com##.packet.ineligible
 wonpokies.com##.banner-wrapper
 wonpokies.com###marquee > span
+wonpokies.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+wonpokies.com##div[style*="padding-bottom: 1%"]
 woocunt.com##.notice
 woocunt.com##.packet.ineligible
 woocunt.com##.banner-wrapper
 woocunt.com###marquee > span
+woocunt.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+woocunt.com##div[style*="padding-bottom: 1%"]
 woohoo9.com##.notice
 woohoo9.com##.packet.ineligible
 woohoo9.com##.banner-wrapper
 woohoo9.com###marquee > span
+woohoo9.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+woohoo9.com##div[style*="padding-bottom: 1%"]
 woospin.org##.notice
 woospin.org##.packet.ineligible
 woospin.org##.banner-wrapper
 woospin.org###marquee > span
+woospin.org##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+woospin.org##div[style*="padding-bottom: 1%"]
 wowbet9.net##.notice
 wowbet9.net##.packet.ineligible
 wowbet9.net##.banner-wrapper
 wowbet9.net###marquee > span
+wowbet9.net##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+wowbet9.net##div[style*="padding-bottom: 1%"]
 yomate88.com##.notice
 yomate88.com##.packet.ineligible
 yomate88.com##.banner-wrapper
 yomate88.com###marquee > span
+yomate88.com##div.swal2-popup.swal2-modal.notice-popup.swal2-show
+yomate88.com##div[style*="padding-bottom: 1%"]
 
 ! =============================
 ! FLOATING / STICKY ELEMENT REMOVAL
