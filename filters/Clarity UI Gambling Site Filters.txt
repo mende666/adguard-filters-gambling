@@ -15,2152 +15,2139 @@
 88pokies.com##.packet.ineligible
 88pokies.com##.banner-wrapper
 88pokies.com###marquee > span
-adultsbet.com##.notice
-adultsbet.com##.packet.ineligible
-adultsbet.com##.banner-wrapper
-adultsbet.com###marquee > span
-anzspin.com##.notice
-anzspin.com##.packet.ineligible
-anzspin.com##.banner-wrapper
-anzspin.com###marquee > span
-ausclub.net##.notice
-ausclub.net##.packet.ineligible
-ausclub.net##.banner-wrapper
-ausclub.net###marquee > span
-aussie21.com##.notice
-aussie21.com##.packet.ineligible
-aussie21.com##.banner-wrapper
-aussie21.com###marquee > span
-aussiebt.net##.notice
-aussiebt.net##.packet.ineligible
-aussiebt.net##.banner-wrapper
-aussiebt.net###marquee > span
-aussieloot.com##.notice
-aussieloot.com##.packet.ineligible
-aussieloot.com##.banner-wrapper
-aussieloot.com###marquee > span
-bdmspin.com##.notice
-bdmspin.com##.packet.ineligible
-bdmspin.com##.banner-wrapper
-bdmspin.com###marquee > span
-beebee11.com##.notice
-beebee11.com##.packet.ineligible
-beebee11.com##.banner-wrapper
-beebee11.com###marquee > span
-betblaze.org##.notice
-betblaze.org##.packet.ineligible
-betblaze.org##.banner-wrapper
-betblaze.org###marquee > span
-betcody.com##.notice
-betcody.com##.packet.ineligible
-betcody.com##.banner-wrapper
-betcody.com###marquee > span
-betjason.com##.notice
-betjason.com##.packet.ineligible
-betjason.com##.banner-wrapper
-betjason.com###marquee > span
-betnet9.com##.notice
-betnet9.com##.packet.ineligible
-betnet9.com##.banner-wrapper
-betnet9.com###marquee > span
-bkx9.com##.notice
-bkx9.com##.packet.ineligible
-bkx9.com##.banner-wrapper
-bkx9.com###marquee > span
-blackpokies.com##.notice
-blackpokies.com##.packet.ineligible
-blackpokies.com##.banner-wrapper
-blackpokies.com###marquee > span
-boombaby9.com##.notice
-boombaby9.com##.packet.ineligible
-boombaby9.com##.banner-wrapper
-boombaby9.com###marquee > span
-bomboclat9.com##.notice
-bomboclat9.com##.packet.ineligible
-bomboclat9.com##.banner-wrapper
-bomboclat9.com###marquee > span
-bong21.com##.notice
-bong21.com##.packet.ineligible
-bong21.com##.banner-wrapper
-bong21.com###marquee > span
-breakspin.com##.notice
-breakspin.com##.packet.ineligible
-breakspin.com##.banner-wrapper
-breakspin.com###marquee > span
-breakwin.com##.notice
-breakwin.com##.packet.ineligible
-breakwin.com##.banner-wrapper
-breakwin.com###marquee > span
-clownwin.com##.notice
-clownwin.com##.packet.ineligible
-clownwin.com##.banner-wrapper
-clownwin.com###marquee > span
-click96.com##.notice
-click96.com##.packet.ineligible
-click96.com##.banner-wrapper
-click96.com###marquee > span
-cocainespin.com##.notice
-cocainespin.com##.packet.ineligible
-cocainespin.com##.banner-wrapper
-cocainespin.com###marquee > span
-crackspin.com##.notice
-crackspin.com##.packet.ineligible
-crackspin.com##.banner-wrapper
-crackspin.com###marquee > span
-crayspin.com##.notice
-crayspin.com##.packet.ineligible
-crayspin.com##.banner-wrapper
-crayspin.com###marquee > span
-creampokies.com##.notice
-creampokies.com##.packet.ineligible
-creampokies.com##.banner-wrapper
-creampokies.com###marquee > span
-crownaud.com##.notice
-crownaud.com##.packet.ineligible
-crownaud.com##.banner-wrapper
-crownaud.com###marquee > span
-cumspin.com##.notice
-cumspin.com##.packet.ineligible
-cumspin.com##.banner-wrapper
-cumspin.com###marquee > span
-cuntaus.com##.notice
-cuntaus.com##.packet.ineligible
-cuntaus.com##.banner-wrapper
-cuntaus.com###marquee > span
-cuntmeth.com##.notice
-cuntmeth.com##.packet.ineligible
-cuntmeth.com##.banner-wrapper
-cuntmeth.com###marquee > span
-cuntpokies.com##.notice
-cuntpokies.com##.packet.ineligible
-cuntpokies.com##.banner-wrapper
-cuntpokies.com###marquee > span
-damnpokies.com##.notice
-damnpokies.com##.packet.ineligible
-damnpokies.com##.banner-wrapper
-damnpokies.com###marquee > span
-deespin.com##.notice
-deespin.com##.packet.ineligible
-deespin.com##.banner-wrapper
-deespin.com###marquee > span
-devegas99.com##.notice
-devegas99.com##.packet.ineligible
-devegas99.com##.banner-wrapper
-devegas99.com###marquee > span
-dickwin.com##.notice
-dickwin.com##.packet.ineligible
-dickwin.com##.banner-wrapper
-dickwin.com###marquee > span
-dis8.com##.notice
-dis8.com##.packet.ineligible
-dis8.com##.banner-wrapper
-dis8.com###marquee > span
-dogdog11.com##.notice
-dogdog11.com##.packet.ineligible
-dogdog11.com##.banner-wrapper
-dogdog11.com###marquee > span
-donaldwin.com##.notice
-donaldwin.com##.packet.ineligible
-donaldwin.com##.banner-wrapper
-donaldwin.com###marquee > span
-double9.org##.notice
-double9.org##.packet.ineligible
-double9.org##.banner-wrapper
-double9.org###marquee > span
-drpokies.com##.notice
-drpokies.com##.packet.ineligible
-drpokies.com##.banner-wrapper
-drpokies.com###marquee > span
-drunkspin.com##.notice
-drunkspin.com##.packet.ineligible
-drunkspin.com##.banner-wrapper
-drunkspin.com###marquee > span
-ecstasybaby.com##.notice
-ecstasybaby.com##.packet.ineligible
-ecstasybaby.com##.banner-wrapper
-ecstasybaby.com###marquee > span
-extrawin9.com##.notice
-extrawin9.com##.packet.ineligible
-extrawin9.com##.banner-wrapper
-extrawin9.com###marquee > span
-f1pokies.com##.notice
-f1pokies.com##.packet.ineligible
-f1pokies.com##.banner-wrapper
-f1pokies.com###marquee > span
-f1spin.com##.notice
-f1spin.com##.packet.ineligible
-f1spin.com##.banner-wrapper
-f1spin.com###marquee > span
-fafabet9.com##.notice
-fafabet9.com##.packet.ineligible
-fafabet9.com##.banner-wrapper
-fafabet9.com###marquee > span
-fastspin99.com##.notice
-fastspin99.com##.packet.ineligible
-fastspin99.com##.banner-wrapper
-fastspin99.com###marquee > span
-fatdog9.com##.notice
-fatdog9.com##.packet.ineligible
-fatdog9.com##.banner-wrapper
-fatdog9.com###marquee > span
-fendipokies.com##.notice
-fendipokies.com##.packet.ineligible
-fendipokies.com##.banner-wrapper
-fendipokies.com###marquee > span
-finaplay.com##.notice
-finaplay.com##.packet.ineligible
-finaplay.com##.banner-wrapper
-finaplay.com###marquee > span
-freakwin.com##.notice
-freakwin.com##.packet.ineligible
-freakwin.com##.banner-wrapper
-freakwin.com###marquee > span
-fuckingluck.com##.notice
-fuckingluck.com##.packet.ineligible
-fuckingluck.com##.banner-wrapper
-fuckingluck.com###marquee > span
-funmeth.com##.notice
-funmeth.com##.packet.ineligible
-funmeth.com##.banner-wrapper
-funmeth.com###marquee > span
-furspin.com##.notice
-furspin.com##.packet.ineligible
-furspin.com##.banner-wrapper
-furspin.com###marquee > span
-fury9.com##.notice
-fury9.com##.packet.ineligible
-fury9.com##.banner-wrapper
-fury9.com###marquee > span
-goospin.com##.notice
-goospin.com##.packet.ineligible
-goospin.com##.banner-wrapper
-goospin.com###marquee > span
-gopokies.co##.notice
-gopokies.co##.packet.ineligible
-gopokies.co##.banner-wrapper
-gopokies.co###marquee > span
-gronkspin.com##.notice
-gronkspin.com##.packet.ineligible
-gronkspin.com##.banner-wrapper
-gronkspin.com###marquee > span
-gunspin9.com##.notice
-gunspin9.com##.packet.ineligible
-gunspin9.com##.banner-wrapper
-gunspin9.com###marquee > span
-heroinspin.com##.notice
-heroinspin.com##.packet.ineligible
-heroinspin.com##.banner-wrapper
-heroinspin.com###marquee > span
-heymeth.co##.notice
-heymeth.co##.packet.ineligible
-heymeth.co##.banner-wrapper
-heymeth.co###marquee > span
-hicunt.com##.notice
-hicunt.com##.packet.ineligible
-hicunt.com##.banner-wrapper
-hicunt.com###marquee > span
-himeth.com##.notice
-himeth.com##.packet.ineligible
-himeth.com##.banner-wrapper
-himeth.com###marquee > span
-ilovejili.net##.notice
-ilovejili.net##.packet.ineligible
-ilovejili.net##.banner-wrapper
-ilovejili.net###marquee > span
-jackpotmate88.com##.notice
-jackpotmate88.com##.packet.ineligible
-jackpotmate88.com##.banner-wrapper
-jackpotmate88.com###marquee > span
-jbagwin.com##.notice
-jbagwin.com##.packet.ineligible
-jbagwin.com##.banner-wrapper
-jbagwin.com###marquee > span
-jellospin.com##.notice
-jellospin.com##.packet.ineligible
-jellospin.com##.banner-wrapper
-jellospin.com###marquee > span
-joofred.com##.notice
-joofred.com##.packet.ineligible
-joofred.com##.banner-wrapper
-joofred.com###marquee > span
-joospin.com##.notice
-joospin.com##.packet.ineligible
-joospin.com##.banner-wrapper
-joospin.com###marquee > span
-justpokies9.com##.notice
-justpokies9.com##.packet.ineligible
-justpokies9.com##.banner-wrapper
-justpokies9.com###marquee > span
-justwin9.com##.notice
-justwin9.com##.packet.ineligible
-justwin9.com##.banner-wrapper
-justwin9.com###marquee > span
-juzspin.com##.notice
-juzspin.com##.packet.ineligible
-juzspin.com##.banner-wrapper
-juzspin.com###marquee > span
-kaboom77.com##.notice
-kaboom77.com##.packet.ineligible
-kaboom77.com##.banner-wrapper
-kaboom77.com###marquee > span
-kaboomwin.com##.notice
-kaboomwin.com##.packet.ineligible
-kaboomwin.com##.banner-wrapper
-kaboomwin.com###marquee > span
-kennycasino.com##.notice
-kennycasino.com##.packet.ineligible
-kennycasino.com##.banner-wrapper
-kennycasino.com###marquee > span
-ketawin.com##.notice
-ketawin.com##.packet.ineligible
-ketawin.com##.banner-wrapper
-ketawin.com###marquee > span
-kisspokies.com##.notice
-kisspokies.com##.packet.ineligible
-kisspokies.com##.banner-wrapper
-kisspokies.com###marquee > span
-legit99.com##.notice
-legit99.com##.packet.ineligible
-legit99.com##.banner-wrapper
-legit99.com###marquee > span
-liamcasino.com##.notice
-liamcasino.com##.packet.ineligible
-liamcasino.com##.banner-wrapper
-liamcasino.com###marquee > span
-limitedpokies.com##.notice
-limitedpokies.com##.packet.ineligible
-limitedpokies.com##.banner-wrapper
-limitedpokies.com###marquee > span
-lovepokies.com##.notice
-lovepokies.com##.packet.ineligible
-lovepokies.com##.banner-wrapper
-lovepokies.com###marquee > span
-lsdbaby.co##.notice
-lsdbaby.co##.packet.ineligible
-lsdbaby.co##.banner-wrapper
-lsdbaby.co###marquee > span
-luckyaus.com##.notice
-luckyaus.com##.packet.ineligible
-luckyaus.com##.banner-wrapper
-luckyaus.com###marquee > span
-lvbet33.com##.notice
-lvbet33.com##.packet.ineligible
-lvbet33.com##.banner-wrapper
-lvbet33.com###marquee > span
-lvpokies.com##.notice
-lvpokies.com##.packet.ineligible
-lvpokies.com##.banner-wrapper
-lvpokies.com###marquee > span
-lwin9.com##.notice
-lwin9.com##.packet.ineligible
-lwin9.com##.banner-wrapper
-lwin9.com###marquee > span
-madmofo7.com##.notice
-madmofo7.com##.packet.ineligible
-madmofo7.com##.banner-wrapper
-madmofo7.com###marquee > span
-masonspin.com##.notice
-masonspin.com##.packet.ineligible
-masonspin.com##.banner-wrapper
-masonspin.com###marquee > span
-maxcunt.com##.notice
-maxcunt.com##.packet.ineligible
-maxcunt.com##.banner-wrapper
-maxcunt.com###marquee > span
-maxmeth.com##.notice
-maxmeth.com##.packet.ineligible
-maxmeth.com##.banner-wrapper
-maxmeth.com###marquee > span
-melspin.com##.notice
-melspin.com##.packet.ineligible
-melspin.com##.banner-wrapper
-melspin.com###marquee > span
-methaus.com##.notice
-methaus.com##.packet.ineligible
-methaus.com##.banner-wrapper
-methaus.com###marquee > span
-methbaby.co##.notice
-methbaby.co##.packet.ineligible
-methbaby.co##.banner-wrapper
-methbaby.co###marquee > span
-methbet.com##.notice
-methbet.com##.packet.ineligible
-methbet.com##.banner-wrapper
-methbet.com###marquee > span
-methking.com##.notice
-methking.com##.packet.ineligible
-methking.com##.banner-wrapper
-methking.com###marquee > span
-methmeth.com##.notice
-methmeth.com##.packet.ineligible
-methmeth.com##.banner-wrapper
-methmeth.com###marquee > span
-methpokies.com##.notice
-methpokies.com##.packet.ineligible
-methpokies.com##.banner-wrapper
-methpokies.com###marquee > span
-methspin.com##.notice
-methspin.com##.packet.ineligible
-methspin.com##.banner-wrapper
-methspin.com###marquee > span
-methwin.com##.notice
-methwin.com##.packet.ineligible
-methwin.com##.banner-wrapper
-methwin.com###marquee > span
-miawin.com##.notice
-miawin.com##.packet.ineligible
-miawin.com##.banner-wrapper
-miawin.com###marquee > span
-minorspin.com##.notice
-minorspin.com##.packet.ineligible
-minorspin.com##.banner-wrapper
-minorspin.com###marquee > span
-mofoclub.com##.notice
-mofoclub.com##.packet.ineligible
-mofoclub.com##.banner-wrapper
-mofoclub.com###marquee > span
-mofospin.com##.notice
-mofospin.com##.packet.ineligible
-mofospin.com##.banner-wrapper
-mofospin.com###marquee > span
-muckerspin.com##.notice
-muckerspin.com##.packet.ineligible
-muckerspin.com##.banner-wrapper
-muckerspin.com###marquee > span
-n1spin.com##.notice
-n1spin.com##.packet.ineligible
-n1spin.com##.banner-wrapper
-n1spin.com###marquee > span
-n1win.net##.notice
-n1win.net##.packet.ineligible
-n1win.net##.banner-wrapper
-n1win.net###marquee > span
-nelspin.com##.notice
-nelspin.com##.packet.ineligible
-nelspin.com##.banner-wrapper
-nelspin.com###marquee > span
-nextpokies.com##.notice
-nextpokies.com##.packet.ineligible
-nextpokies.com##.banner-wrapper
-nextpokies.com###marquee > span
-nicemeth.com##.notice
-nicemeth.com##.packet.ineligible
-nicemeth.com##.banner-wrapper
-nicemeth.com###marquee > span
-oimate.co##.notice
-oimate.co##.packet.ineligible
-oimate.co##.banner-wrapper
-oimate.co###marquee > span
-onya88.com##.notice
-onya88.com##.packet.ineligible
-onya88.com##.banner-wrapper
-onya88.com###marquee > span
-paramax9.com##.notice
-paramax9.com##.packet.ineligible
-paramax9.com##.banner-wrapper
-paramax9.com###marquee > span
-petercasino.com##.notice
-petercasino.com##.packet.ineligible
-petercasino.com##.banner-wrapper
-petercasino.com###marquee > span
-playmeth.com##.notice
-playmeth.com##.packet.ineligible
-playmeth.com##.banner-wrapper
-playmeth.com###marquee > span
-pokiesdream.com##.notice
-pokiesdream.com##.packet.ineligible
-pokiesdream.com##.banner-wrapper
-pokiesdream.com###marquee > span
-pokiesgg.com##.notice
-pokiesgg.com##.packet.ineligible
-pokiesgg.com##.banner-wrapper
-pokiesgg.com###marquee > span
-pokiesokay.com##.notice
-pokiesokay.com##.packet.ineligible
-pokiesokay.com##.banner-wrapper
-pokiesokay.com###marquee > span
-pokiestt.com##.notice
-pokiestt.com##.packet.ineligible
-pokiestt.com##.banner-wrapper
-pokiestt.com###marquee > span
-pokiesww.org##.notice
-pokiesww.org##.packet.ineligible
-pokiesww.org##.banner-wrapper
-pokiesww.org###marquee > span
-popmolly.co##.notice
-popmolly.co##.packet.ineligible
-popmolly.co##.banner-wrapper
-popmolly.co###marquee > span
-potstrike.com##.notice
-potstrike.com##.packet.ineligible
-potstrike.com##.banner-wrapper
-potstrike.com###marquee > span
-psychospin.com##.notice
-psychospin.com##.packet.ineligible
-psychospin.com##.banner-wrapper
-psychospin.com###marquee > span
-punk11.com##.notice
-punk11.com##.packet.ineligible
-punk11.com##.banner-wrapper
-punk11.com###marquee > span
-pureluck9.com##.notice
-pureluck9.com##.packet.ineligible
-pureluck9.com##.banner-wrapper
-pureluck9.com###marquee > span
-raabet9.com##.notice
-raabet9.com##.packet.ineligible
-raabet9.com##.banner-wrapper
-raabet9.com###marquee > span
-richclub9.com##.notice
-richclub9.com##.packet.ineligible
-richclub9.com##.banner-wrapper
-richclub9.com###marquee > span
-rizspin.net##.notice
-rizspin.net##.packet.ineligible
-rizspin.net##.banner-wrapper
-rizspin.net###marquee > span
-rookash.com##.notice
-rookash.com##.packet.ineligible
-rookash.com##.banner-wrapper
-rookash.com###marquee > span
-roopokies.com##.notice
-roopokies.com##.packet.ineligible
-roopokies.com##.banner-wrapper
-roopokies.com###marquee > span
-roospin.com##.notice
-roospin.com##.packet.ineligible
-roospin.com##.banner-wrapper
-roospin.com###marquee > span
-rtspin.com##.notice
-rtspin.com##.packet.ineligible
-rtspin.com##.banner-wrapper
-rtspin.com###marquee > span
-sawspin.com##.notice
-sawspin.com##.packet.ineligible
-sawspin.com##.banner-wrapper
-sawspin.com###marquee > span
-scr111.com##.notice
-scr111.com##.packet.ineligible
-scr111.com##.banner-wrapper
-scr111.com###marquee > span
-scr55.com##.notice
-scr55.com##.packet.ineligible
-scr55.com##.banner-wrapper
-scr55.com###marquee > span
-scr66.com##.notice
-scr66.com##.packet.ineligible
-scr66.com##.banner-wrapper
-scr66.com###marquee > span
-slotfred.com##.notice
-slotfred.com##.packet.ineligible
-slotfred.com##.banner-wrapper
-slotfred.com###marquee > span
-slotmate88.com##.notice
-slotmate88.com##.packet.ineligible
-slotmate88.com##.banner-wrapper
-slotmate88.com###marquee > span
-slotmeth.com##.notice
-slotmeth.com##.packet.ineligible
-slotmeth.com##.banner-wrapper
-slotmeth.com###marquee > span
-slutaus.com##.notice
-slutaus.com##.packet.ineligible
-slutaus.com##.banner-wrapper
-slutaus.com###marquee > span
-spin420.com##.notice
-spin420.com##.packet.ineligible
-spin420.com##.banner-wrapper
-spin420.com###marquee > span
-spinbaby.co##.notice
-spinbaby.co##.packet.ineligible
-spinbaby.co##.banner-wrapper
-spinbaby.co###marquee > span
-spinbizzo.com##.notice
-spinbizzo.com##.packet.ineligible
-spinbizzo.com##.banner-wrapper
-spinbizzo.com###marquee > span
-spinfred.com##.notice
-spinfred.com##.packet.ineligible
-spinfred.com##.banner-wrapper
-spinfred.com###marquee > span
-spinkash.com##.notice
-spinkash.com##.packet.ineligible
-spinkash.com##.banner-wrapper
-spinkash.com###marquee > span
-spinmate88.com##.notice
-spinmate88.com##.packet.ineligible
-spinmate88.com##.banner-wrapper
-spinmate88.com###marquee > span
-spinmeth.com##.notice
-spinmeth.com##.packet.ineligible
-spinmeth.com##.banner-wrapper
-spinmeth.com###marquee > span
-spinsx.net##.notice
-spinsx.net##.packet.ineligible
-spinsx.net##.banner-wrapper
-spinsx.net###marquee > span
-spinvegas9.com##.notice
-spinvegas9.com##.packet.ineligible
-spinvegas9.com##.banner-wrapper
-spinvegas9.com###marquee > span
-spinwoo.com##.notice
-spinwoo.com##.packet.ineligible
-spinwoo.com##.banner-wrapper
-spinwoo.com###marquee > span
-stokedau.com##.notice
-stokedau.com##.packet.ineligible
-stokedau.com##.banner-wrapper
-stokedau.com###marquee > span
-sydspin.com##.notice
-sydspin.com##.packet.ineligible
-sydspin.com##.banner-wrapper
-sydspin.com###marquee > span
-tcl21.com##.notice
-tcl21.com##.packet.ineligible
-tcl21.com##.banner-wrapper
-tcl21.com###marquee > span
-tcl99aus.com##.notice
-tcl99aus.com##.packet.ineligible
-tcl99aus.com##.banner-wrapper
-tcl99aus.com###marquee > span
-tinniewin.com##.notice
-tinniewin.com##.packet.ineligible
-tinniewin.com##.banner-wrapper
-tinniewin.com###marquee > span
-tlcwin.com##.notice
-tlcwin.com##.packet.ineligible
-tlcwin.com##.banner-wrapper
-tlcwin.com###marquee > span
-tmzbet.com##.notice
-tmzbet.com##.packet.ineligible
-tmzbet.com##.banner-wrapper
-tmzbet.com###marquee > span
-twospin.com##.notice
-twospin.com##.packet.ineligible
-twospin.com##.banner-wrapper
-twospin.com###marquee > span
-unipokies.com##.notice
-unipokies.com##.packet.ineligible
-unipokies.com##.banner-wrapper
-unipokies.com###marquee > span
-vanspin.com##.notice
-vanspin.com##.packet.ineligible
-vanspin.com##.banner-wrapper
-vanspin.com###marquee > span
-vicspin.com##.notice
-vicspin.com##.packet.ineligible
-vicspin.com##.banner-wrapper
-vicspin.com###marquee > span
-wabet77.com##.notice
-wabet77.com##.packet.ineligible
-wabet77.com##.banner-wrapper
-wabet77.com###marquee > span
-waboom77.com##.notice
-waboom77.com##.packet.ineligible
-waboom77.com##.banner-wrapper
-waboom77.com###marquee > span
-weslot88.org##.notice
-weslot88.org##.packet.ineligible
-weslot88.org##.banner-wrapper
-weslot88.org###marquee > span
-west28.com##.notice
-west28.com##.packet.ineligible
-west28.com##.banner-wrapper
-west28.com###marquee > span
-winmate88.com##.notice
-winmate88.com##.packet.ineligible
-winmate88.com##.banner-wrapper
-winmate88.com###marquee > span
-winsavage.com##.notice
-winsavage.com##.packet.ineligible
-winsavage.com##.banner-wrapper
-winsavage.com###marquee > span
-winspin99.com##.notice
-winspin99.com##.packet.ineligible
-winspin99.com##.banner-wrapper
-winspin99.com###marquee > span
-winstreak9.com##.notice
-winstreak9.com##.packet.ineligible
-winstreak9.com##.banner-wrapper
-winstreak9.com###marquee > span
-winwin9.org##.notice
-winwin9.org##.packet.ineligible
-winwin9.org##.banner-wrapper
-winwin9.org###marquee > span
-wink9.com##.notice
-wink9.com##.packet.ineligible
-wink9.com##.banner-wrapper
-wink9.com###marquee > span
-witchspin.com##.notice
-witchspin.com##.packet.ineligible
-witchspin.com##.banner-wrapper
-witchspin.com###marquee > span
-woah99.com##.notice
-woah99.com##.packet.ineligible
-woah99.com##.banner-wrapper
-woah99.com###marquee > span
-wonpokies.com##.notice
-wonpokies.com##.packet.ineligible
-wonpokies.com##.banner-wrapper
-wonpokies.com###marquee > span
-woocunt.com##.notice
-woocunt.com##.packet.ineligible
-woocunt.com##.banner-wrapper
-woocunt.com###marquee > span
-woohoo9.com##.notice
-woohoo9.com##.packet.ineligible
-woohoo9.com##.banner-wrapper
-woohoo9.com###marquee > span
-woospin.org##.notice
-woospin.org##.packet.ineligible
-woospin.org##.banner-wrapper
-woospin.org###marquee > span
-wowbet9.net##.notice
-wowbet9.net##.packet.ineligible
-wowbet9.net##.banner-wrapper
-wowbet9.net###marquee > span
-yomate88.com##.notice
-yomate88.com##.packet.ineligible
-yomate88.com##.banner-wrapper
-yomate88.com###marquee > span
-
-! =============================
-! FLOATING / STICKY ELEMENT REMOVAL
-! =============================
 88pokies.com##.floating-whatsapp
 88pokies.com##.floating-telegram
 88pokies.com##a.floating-p2
-adultsbet.com##.floating-whatsapp
-adultsbet.com##.floating-telegram
-adultsbet.com##a.floating-p2
-anzspin.com##.floating-whatsapp
-anzspin.com##.floating-telegram
-anzspin.com##a.floating-p2
-ausclub.net##.floating-whatsapp
-ausclub.net##.floating-telegram
-ausclub.net##a.floating-p2
-aussie21.com##.floating-whatsapp
-aussie21.com##.floating-telegram
-aussie21.com##a.floating-p2
-aussiebt.net##.floating-whatsapp
-aussiebt.net##.floating-telegram
-aussiebt.net##a.floating-p2
-aussieloot.com##.floating-whatsapp
-aussieloot.com##.floating-telegram
-aussieloot.com##a.floating-p2
-bdmspin.com##.floating-whatsapp
-bdmspin.com##.floating-telegram
-bdmspin.com##a.floating-p2
-beebee11.com##.floating-whatsapp
-beebee11.com##.floating-telegram
-beebee11.com##a.floating-p2
-betblaze.org##.floating-whatsapp
-betblaze.org##.floating-telegram
-betblaze.org##a.floating-p2
-betcody.com##.floating-whatsapp
-betcody.com##.floating-telegram
-betcody.com##a.floating-p2
-betjason.com##.floating-whatsapp
-betjason.com##.floating-telegram
-betjason.com##a.floating-p2
-betnet9.com##.floating-whatsapp
-betnet9.com##.floating-telegram
-betnet9.com##a.floating-p2
-bkx9.com##.floating-whatsapp
-bkx9.com##.floating-telegram
-bkx9.com##a.floating-p2
-blackpokies.com##.floating-whatsapp
-blackpokies.com##.floating-telegram
-blackpokies.com##a.floating-p2
-boombaby9.com##.floating-whatsapp
-boombaby9.com##.floating-telegram
-boombaby9.com##a.floating-p2
-bomboclat9.com##.floating-whatsapp
-bomboclat9.com##.floating-telegram
-bomboclat9.com##a.floating-p2
-bong21.com##.floating-whatsapp
-bong21.com##.floating-telegram
-bong21.com##a.floating-p2
-breakspin.com##.floating-whatsapp
-breakspin.com##.floating-telegram
-breakspin.com##a.floating-p2
-breakwin.com##.floating-whatsapp
-breakwin.com##.floating-telegram
-breakwin.com##a.floating-p2
-clownwin.com##.floating-whatsapp
-clownwin.com##.floating-telegram
-clownwin.com##a.floating-p2
-click96.com##.floating-whatsapp
-click96.com##.floating-telegram
-click96.com##a.floating-p2
-cocainespin.com##.floating-whatsapp
-cocainespin.com##.floating-telegram
-cocainespin.com##a.floating-p2
-crackspin.com##.floating-whatsapp
-crackspin.com##.floating-telegram
-crackspin.com##a.floating-p2
-crayspin.com##.floating-whatsapp
-crayspin.com##.floating-telegram
-crayspin.com##a.floating-p2
-creampokies.com##.floating-whatsapp
-creampokies.com##.floating-telegram
-creampokies.com##a.floating-p2
-crownaud.com##.floating-whatsapp
-crownaud.com##.floating-telegram
-crownaud.com##a.floating-p2
-cumspin.com##.floating-whatsapp
-cumspin.com##.floating-telegram
-cumspin.com##a.floating-p2
-cuntaus.com##.floating-whatsapp
-cuntaus.com##.floating-telegram
-cuntaus.com##a.floating-p2
-cuntmeth.com##.floating-whatsapp
-cuntmeth.com##.floating-telegram
-cuntmeth.com##a.floating-p2
-cuntpokies.com##.floating-whatsapp
-cuntpokies.com##.floating-telegram
-cuntpokies.com##a.floating-p2
-damnpokies.com##.floating-whatsapp
-damnpokies.com##.floating-telegram
-damnpokies.com##a.floating-p2
-deespin.com##.floating-whatsapp
-deespin.com##.floating-telegram
-deespin.com##a.floating-p2
-devegas99.com##.floating-whatsapp
-devegas99.com##.floating-telegram
-devegas99.com##a.floating-p2
-dickwin.com##.floating-whatsapp
-dickwin.com##.floating-telegram
-dickwin.com##a.floating-p2
-dis8.com##.floating-whatsapp
-dis8.com##.floating-telegram
-dis8.com##a.floating-p2
-dogdog11.com##.floating-whatsapp
-dogdog11.com##.floating-telegram
-dogdog11.com##a.floating-p2
-donaldwin.com##.floating-whatsapp
-donaldwin.com##.floating-telegram
-donaldwin.com##a.floating-p2
-double9.org##.floating-whatsapp
-double9.org##.floating-telegram
-double9.org##a.floating-p2
-drpokies.com##.floating-whatsapp
-drpokies.com##.floating-telegram
-drpokies.com##a.floating-p2
-drunkspin.com##.floating-whatsapp
-drunkspin.com##.floating-telegram
-drunkspin.com##a.floating-p2
-ecstasybaby.com##.floating-whatsapp
-ecstasybaby.com##.floating-telegram
-ecstasybaby.com##a.floating-p2
-extrawin9.com##.floating-whatsapp
-extrawin9.com##.floating-telegram
-extrawin9.com##a.floating-p2
-f1pokies.com##.floating-whatsapp
-f1pokies.com##.floating-telegram
-f1pokies.com##a.floating-p2
-f1spin.com##.floating-whatsapp
-f1spin.com##.floating-telegram
-f1spin.com##a.floating-p2
-fafabet9.com##.floating-whatsapp
-fafabet9.com##.floating-telegram
-fafabet9.com##a.floating-p2
-fastspin99.com##.floating-whatsapp
-fastspin99.com##.floating-telegram
-fastspin99.com##a.floating-p2
-fatdog9.com##.floating-whatsapp
-fatdog9.com##.floating-telegram
-fatdog9.com##a.floating-p2
-fendipokies.com##.floating-whatsapp
-fendipokies.com##.floating-telegram
-fendipokies.com##a.floating-p2
-finaplay.com##.floating-whatsapp
-finaplay.com##.floating-telegram
-finaplay.com##a.floating-p2
-freakwin.com##.floating-whatsapp
-freakwin.com##.floating-telegram
-freakwin.com##a.floating-p2
-fuckingluck.com##.floating-whatsapp
-fuckingluck.com##.floating-telegram
-fuckingluck.com##a.floating-p2
-funmeth.com##.floating-whatsapp
-funmeth.com##.floating-telegram
-funmeth.com##a.floating-p2
-furspin.com##.floating-whatsapp
-furspin.com##.floating-telegram
-furspin.com##a.floating-p2
-fury9.com##.floating-whatsapp
-fury9.com##.floating-telegram
-fury9.com##a.floating-p2
-goospin.com##.floating-whatsapp
-goospin.com##.floating-telegram
-goospin.com##a.floating-p2
-gopokies.co##.floating-whatsapp
-gopokies.co##.floating-telegram
-gopokies.co##a.floating-p2
-gronkspin.com##.floating-whatsapp
-gronkspin.com##.floating-telegram
-gronkspin.com##a.floating-p2
-gunspin9.com##.floating-whatsapp
-gunspin9.com##.floating-telegram
-gunspin9.com##a.floating-p2
-heroinspin.com##.floating-whatsapp
-heroinspin.com##.floating-telegram
-heroinspin.com##a.floating-p2
-heymeth.co##.floating-whatsapp
-heymeth.co##.floating-telegram
-heymeth.co##a.floating-p2
-hicunt.com##.floating-whatsapp
-hicunt.com##.floating-telegram
-hicunt.com##a.floating-p2
-himeth.com##.floating-whatsapp
-himeth.com##.floating-telegram
-himeth.com##a.floating-p2
-ilovejili.net##.floating-whatsapp
-ilovejili.net##.floating-telegram
-ilovejili.net##a.floating-p2
-jackpotmate88.com##.floating-whatsapp
-jackpotmate88.com##.floating-telegram
-jackpotmate88.com##a.floating-p2
-jbagwin.com##.floating-whatsapp
-jbagwin.com##.floating-telegram
-jbagwin.com##a.floating-p2
-jellospin.com##.floating-whatsapp
-jellospin.com##.floating-telegram
-jellospin.com##a.floating-p2
-joofred.com##.floating-whatsapp
-joofred.com##.floating-telegram
-joofred.com##a.floating-p2
-joospin.com##.floating-whatsapp
-joospin.com##.floating-telegram
-joospin.com##a.floating-p2
-justpokies9.com##.floating-whatsapp
-justpokies9.com##.floating-telegram
-justpokies9.com##a.floating-p2
-justwin9.com##.floating-whatsapp
-justwin9.com##.floating-telegram
-justwin9.com##a.floating-p2
-juzspin.com##.floating-whatsapp
-juzspin.com##.floating-telegram
-juzspin.com##a.floating-p2
-kaboom77.com##.floating-whatsapp
-kaboom77.com##.floating-telegram
-kaboom77.com##a.floating-p2
-kaboomwin.com##.floating-whatsapp
-kaboomwin.com##.floating-telegram
-kaboomwin.com##a.floating-p2
-kennycasino.com##.floating-whatsapp
-kennycasino.com##.floating-telegram
-kennycasino.com##a.floating-p2
-ketawin.com##.floating-whatsapp
-ketawin.com##.floating-telegram
-ketawin.com##a.floating-p2
-kisspokies.com##.floating-whatsapp
-kisspokies.com##.floating-telegram
-kisspokies.com##a.floating-p2
-legit99.com##.floating-whatsapp
-legit99.com##.floating-telegram
-legit99.com##a.floating-p2
-liamcasino.com##.floating-whatsapp
-liamcasino.com##.floating-telegram
-liamcasino.com##a.floating-p2
-limitedpokies.com##.floating-whatsapp
-limitedpokies.com##.floating-telegram
-limitedpokies.com##a.floating-p2
-lovepokies.com##.floating-whatsapp
-lovepokies.com##.floating-telegram
-lovepokies.com##a.floating-p2
-lsdbaby.co##.floating-whatsapp
-lsdbaby.co##.floating-telegram
-lsdbaby.co##a.floating-p2
-luckyaus.com##.floating-whatsapp
-luckyaus.com##.floating-telegram
-luckyaus.com##a.floating-p2
-lvbet33.com##.floating-whatsapp
-lvbet33.com##.floating-telegram
-lvbet33.com##a.floating-p2
-lvpokies.com##.floating-whatsapp
-lvpokies.com##.floating-telegram
-lvpokies.com##a.floating-p2
-lwin9.com##.floating-whatsapp
-lwin9.com##.floating-telegram
-lwin9.com##a.floating-p2
-madmofo7.com##.floating-whatsapp
-madmofo7.com##.floating-telegram
-madmofo7.com##a.floating-p2
-masonspin.com##.floating-whatsapp
-masonspin.com##.floating-telegram
-masonspin.com##a.floating-p2
-maxcunt.com##.floating-whatsapp
-maxcunt.com##.floating-telegram
-maxcunt.com##a.floating-p2
-maxmeth.com##.floating-whatsapp
-maxmeth.com##.floating-telegram
-maxmeth.com##a.floating-p2
-melspin.com##.floating-whatsapp
-melspin.com##.floating-telegram
-melspin.com##a.floating-p2
-methaus.com##.floating-whatsapp
-methaus.com##.floating-telegram
-methaus.com##a.floating-p2
-methbaby.co##.floating-whatsapp
-methbaby.co##.floating-telegram
-methbaby.co##a.floating-p2
-methbet.com##.floating-whatsapp
-methbet.com##.floating-telegram
-methbet.com##a.floating-p2
-methking.com##.floating-whatsapp
-methking.com##.floating-telegram
-methking.com##a.floating-p2
-methmeth.com##.floating-whatsapp
-methmeth.com##.floating-telegram
-methmeth.com##a.floating-p2
-methpokies.com##.floating-whatsapp
-methpokies.com##.floating-telegram
-methpokies.com##a.floating-p2
-methspin.com##.floating-whatsapp
-methspin.com##.floating-telegram
-methspin.com##a.floating-p2
-methwin.com##.floating-whatsapp
-methwin.com##.floating-telegram
-methwin.com##a.floating-p2
-miawin.com##.floating-whatsapp
-miawin.com##.floating-telegram
-miawin.com##a.floating-p2
-minorspin.com##.floating-whatsapp
-minorspin.com##.floating-telegram
-minorspin.com##a.floating-p2
-mofoclub.com##.floating-whatsapp
-mofoclub.com##.floating-telegram
-mofoclub.com##a.floating-p2
-mofospin.com##.floating-whatsapp
-mofospin.com##.floating-telegram
-mofospin.com##a.floating-p2
-muckerspin.com##.floating-whatsapp
-muckerspin.com##.floating-telegram
-muckerspin.com##a.floating-p2
-n1spin.com##.floating-whatsapp
-n1spin.com##.floating-telegram
-n1spin.com##a.floating-p2
-n1win.net##.floating-whatsapp
-n1win.net##.floating-telegram
-n1win.net##a.floating-p2
-nelspin.com##.floating-whatsapp
-nelspin.com##.floating-telegram
-nelspin.com##a.floating-p2
-nextpokies.com##.floating-whatsapp
-nextpokies.com##.floating-telegram
-nextpokies.com##a.floating-p2
-nicemeth.com##.floating-whatsapp
-nicemeth.com##.floating-telegram
-nicemeth.com##a.floating-p2
-oimate.co##.floating-whatsapp
-oimate.co##.floating-telegram
-oimate.co##a.floating-p2
-onya88.com##.floating-whatsapp
-onya88.com##.floating-telegram
-onya88.com##a.floating-p2
-paramax9.com##.floating-whatsapp
-paramax9.com##.floating-telegram
-paramax9.com##a.floating-p2
-petercasino.com##.floating-whatsapp
-petercasino.com##.floating-telegram
-petercasino.com##a.floating-p2
-playmeth.com##.floating-whatsapp
-playmeth.com##.floating-telegram
-playmeth.com##a.floating-p2
-pokiesdream.com##.floating-whatsapp
-pokiesdream.com##.floating-telegram
-pokiesdream.com##a.floating-p2
-pokiesgg.com##.floating-whatsapp
-pokiesgg.com##.floating-telegram
-pokiesgg.com##a.floating-p2
-pokiesokay.com##.floating-whatsapp
-pokiesokay.com##.floating-telegram
-pokiesokay.com##a.floating-p2
-pokiestt.com##.floating-whatsapp
-pokiestt.com##.floating-telegram
-pokiestt.com##a.floating-p2
-pokiesww.org##.floating-whatsapp
-pokiesww.org##.floating-telegram
-pokiesww.org##a.floating-p2
-popmolly.co##.floating-whatsapp
-popmolly.co##.floating-telegram
-popmolly.co##a.floating-p2
-potstrike.com##.floating-whatsapp
-potstrike.com##.floating-telegram
-potstrike.com##a.floating-p2
-psychospin.com##.floating-whatsapp
-psychospin.com##.floating-telegram
-psychospin.com##a.floating-p2
-punk11.com##.floating-whatsapp
-punk11.com##.floating-telegram
-punk11.com##a.floating-p2
-pureluck9.com##.floating-whatsapp
-pureluck9.com##.floating-telegram
-pureluck9.com##a.floating-p2
-raabet9.com##.floating-whatsapp
-raabet9.com##.floating-telegram
-raabet9.com##a.floating-p2
-richclub9.com##.floating-whatsapp
-richclub9.com##.floating-telegram
-richclub9.com##a.floating-p2
-rizspin.net##.floating-whatsapp
-rizspin.net##.floating-telegram
-rizspin.net##a.floating-p2
-rookash.com##.floating-whatsapp
-rookash.com##.floating-telegram
-rookash.com##a.floating-p2
-roopokies.com##.floating-whatsapp
-roopokies.com##.floating-telegram
-roopokies.com##a.floating-p2
-roospin.com##.floating-whatsapp
-roospin.com##.floating-telegram
-roospin.com##a.floating-p2
-rtspin.com##.floating-whatsapp
-rtspin.com##.floating-telegram
-rtspin.com##a.floating-p2
-sawspin.com##.floating-whatsapp
-sawspin.com##.floating-telegram
-sawspin.com##a.floating-p2
-scr111.com##.floating-whatsapp
-scr111.com##.floating-telegram
-scr111.com##a.floating-p2
-scr55.com##.floating-whatsapp
-scr55.com##.floating-telegram
-scr55.com##a.floating-p2
-scr66.com##.floating-whatsapp
-scr66.com##.floating-telegram
-scr66.com##a.floating-p2
-slotfred.com##.floating-whatsapp
-slotfred.com##.floating-telegram
-slotfred.com##a.floating-p2
-slotmate88.com##.floating-whatsapp
-slotmate88.com##.floating-telegram
-slotmate88.com##a.floating-p2
-slotmeth.com##.floating-whatsapp
-slotmeth.com##.floating-telegram
-slotmeth.com##a.floating-p2
-slutaus.com##.floating-whatsapp
-slutaus.com##.floating-telegram
-slutaus.com##a.floating-p2
-spin420.com##.floating-whatsapp
-spin420.com##.floating-telegram
-spin420.com##a.floating-p2
-spinbaby.co##.floating-whatsapp
-spinbaby.co##.floating-telegram
-spinbaby.co##a.floating-p2
-spinbizzo.com##.floating-whatsapp
-spinbizzo.com##.floating-telegram
-spinbizzo.com##a.floating-p2
-spinfred.com##.floating-whatsapp
-spinfred.com##.floating-telegram
-spinfred.com##a.floating-p2
-spinkash.com##.floating-whatsapp
-spinkash.com##.floating-telegram
-spinkash.com##a.floating-p2
-spinmate88.com##.floating-whatsapp
-spinmate88.com##.floating-telegram
-spinmate88.com##a.floating-p2
-spinmeth.com##.floating-whatsapp
-spinmeth.com##.floating-telegram
-spinmeth.com##a.floating-p2
-spinsx.net##.floating-whatsapp
-spinsx.net##.floating-telegram
-spinsx.net##a.floating-p2
-spinvegas9.com##.floating-whatsapp
-spinvegas9.com##.floating-telegram
-spinvegas9.com##a.floating-p2
-spinwoo.com##.floating-whatsapp
-spinwoo.com##.floating-telegram
-spinwoo.com##a.floating-p2
-stokedau.com##.floating-whatsapp
-stokedau.com##.floating-telegram
-stokedau.com##a.floating-p2
-sydspin.com##.floating-whatsapp
-sydspin.com##.floating-telegram
-sydspin.com##a.floating-p2
-tcl21.com##.floating-whatsapp
-tcl21.com##.floating-telegram
-tcl21.com##a.floating-p2
-tcl99aus.com##.floating-whatsapp
-tcl99aus.com##.floating-telegram
-tcl99aus.com##a.floating-p2
-tinniewin.com##.floating-whatsapp
-tinniewin.com##.floating-telegram
-tinniewin.com##a.floating-p2
-tlcwin.com##.floating-whatsapp
-tlcwin.com##.floating-telegram
-tlcwin.com##a.floating-p2
-tmzbet.com##.floating-whatsapp
-tmzbet.com##.floating-telegram
-tmzbet.com##a.floating-p2
-twospin.com##.floating-whatsapp
-twospin.com##.floating-telegram
-twospin.com##a.floating-p2
-unipokies.com##.floating-whatsapp
-unipokies.com##.floating-telegram
-unipokies.com##a.floating-p2
-vanspin.com##.floating-whatsapp
-vanspin.com##.floating-telegram
-vanspin.com##a.floating-p2
-vicspin.com##.floating-whatsapp
-vicspin.com##.floating-telegram
-vicspin.com##a.floating-p2
-wabet77.com##.floating-whatsapp
-wabet77.com##.floating-telegram
-wabet77.com##a.floating-p2
-waboom77.com##.floating-whatsapp
-waboom77.com##.floating-telegram
-waboom77.com##a.floating-p2
-weslot88.org##.floating-whatsapp
-weslot88.org##.floating-telegram
-weslot88.org##a.floating-p2
-west28.com##.floating-whatsapp
-west28.com##.floating-telegram
-west28.com##a.floating-p2
-winmate88.com##.floating-whatsapp
-winmate88.com##.floating-telegram
-winmate88.com##a.floating-p2
-winsavage.com##.floating-whatsapp
-winsavage.com##.floating-telegram
-winsavage.com##a.floating-p2
-winspin99.com##.floating-whatsapp
-winspin99.com##.floating-telegram
-winspin99.com##a.floating-p2
-winstreak9.com##.floating-whatsapp
-winstreak9.com##.floating-telegram
-winstreak9.com##a.floating-p2
-winwin9.org##.floating-whatsapp
-winwin9.org##.floating-telegram
-winwin9.org##a.floating-p2
-wink9.com##.floating-whatsapp
-wink9.com##.floating-telegram
-wink9.com##a.floating-p2
-witchspin.com##.floating-whatsapp
-witchspin.com##.floating-telegram
-witchspin.com##a.floating-p2
-woah99.com##.floating-whatsapp
-woah99.com##.floating-telegram
-woah99.com##a.floating-p2
-wonpokies.com##.floating-whatsapp
-wonpokies.com##.floating-telegram
-wonpokies.com##a.floating-p2
-woocunt.com##.floating-whatsapp
-woocunt.com##.floating-telegram
-woocunt.com##a.floating-p2
-woohoo9.com##.floating-whatsapp
-woohoo9.com##.floating-telegram
-woohoo9.com##a.floating-p2
-woospin.org##.floating-whatsapp
-woospin.org##.floating-telegram
-woospin.org##a.floating-p2
-wowbet9.net##.floating-whatsapp
-wowbet9.net##.floating-telegram
-wowbet9.net##a.floating-p2
-yomate88.com##.floating-whatsapp
-yomate88.com##.floating-telegram
-yomate88.com##a.floating-p2
-
-! =============================
-! EMBEDDED MEDIA & WIDGET REMOVAL
-! =============================
-
-! =============================
-! DOMAIN SPECIFIC RULES
-! =============================
 88pokies.com##.movie-wrapper
 88pokies.com##.livetx-wrapper
 88pokies.com##.game-list
 88pokies.com##div#downloadapp
 88pokies.com##div#icons-container
+adultsbet.com##.notice
+adultsbet.com##.packet.ineligible
+adultsbet.com##.banner-wrapper
+adultsbet.com###marquee > span
+adultsbet.com##.floating-whatsapp
+adultsbet.com##.floating-telegram
+adultsbet.com##a.floating-p2
 adultsbet.com##.movie-wrapper
 adultsbet.com##.livetx-wrapper
 adultsbet.com##.game-list
 adultsbet.com##div#downloadapp
 adultsbet.com##div#icons-container
+anzspin.com##.notice
+anzspin.com##.packet.ineligible
+anzspin.com##.banner-wrapper
+anzspin.com###marquee > span
+anzspin.com##.floating-whatsapp
+anzspin.com##.floating-telegram
+anzspin.com##a.floating-p2
 anzspin.com##.movie-wrapper
 anzspin.com##.livetx-wrapper
 anzspin.com##.game-list
 anzspin.com##div#downloadapp
 anzspin.com##div#icons-container
+ausclub.net##.notice
+ausclub.net##.packet.ineligible
+ausclub.net##.banner-wrapper
+ausclub.net###marquee > span
+ausclub.net##.floating-whatsapp
+ausclub.net##.floating-telegram
+ausclub.net##a.floating-p2
 ausclub.net##.movie-wrapper
 ausclub.net##.livetx-wrapper
 ausclub.net##.game-list
 ausclub.net##div#downloadapp
 ausclub.net##div#icons-container
+aussie21.com##.notice
+aussie21.com##.packet.ineligible
+aussie21.com##.banner-wrapper
+aussie21.com###marquee > span
+aussie21.com##.floating-whatsapp
+aussie21.com##.floating-telegram
+aussie21.com##a.floating-p2
 aussie21.com##.movie-wrapper
 aussie21.com##.livetx-wrapper
 aussie21.com##.game-list
 aussie21.com##div#downloadapp
 aussie21.com##div#icons-container
+aussiebt.net##.notice
+aussiebt.net##.packet.ineligible
+aussiebt.net##.banner-wrapper
+aussiebt.net###marquee > span
+aussiebt.net##.floating-whatsapp
+aussiebt.net##.floating-telegram
+aussiebt.net##a.floating-p2
 aussiebt.net##.movie-wrapper
 aussiebt.net##.livetx-wrapper
 aussiebt.net##.game-list
 aussiebt.net##div#downloadapp
 aussiebt.net##div#icons-container
+aussieloot.com##.notice
+aussieloot.com##.packet.ineligible
+aussieloot.com##.banner-wrapper
+aussieloot.com###marquee > span
+aussieloot.com##.floating-whatsapp
+aussieloot.com##.floating-telegram
+aussieloot.com##a.floating-p2
 aussieloot.com##.movie-wrapper
 aussieloot.com##.livetx-wrapper
 aussieloot.com##.game-list
 aussieloot.com##div#downloadapp
 aussieloot.com##div#icons-container
+bdmspin.com##.notice
+bdmspin.com##.packet.ineligible
+bdmspin.com##.banner-wrapper
+bdmspin.com###marquee > span
+bdmspin.com##.floating-whatsapp
+bdmspin.com##.floating-telegram
+bdmspin.com##a.floating-p2
 bdmspin.com##.movie-wrapper
 bdmspin.com##.livetx-wrapper
 bdmspin.com##.game-list
 bdmspin.com##div#downloadapp
 bdmspin.com##div#icons-container
+beebee11.com##.notice
+beebee11.com##.packet.ineligible
+beebee11.com##.banner-wrapper
+beebee11.com###marquee > span
+beebee11.com##.floating-whatsapp
+beebee11.com##.floating-telegram
+beebee11.com##a.floating-p2
 beebee11.com##.movie-wrapper
 beebee11.com##.livetx-wrapper
 beebee11.com##.game-list
 beebee11.com##div#downloadapp
 beebee11.com##div#icons-container
+betblaze.org##.notice
+betblaze.org##.packet.ineligible
+betblaze.org##.banner-wrapper
+betblaze.org###marquee > span
+betblaze.org##.floating-whatsapp
+betblaze.org##.floating-telegram
+betblaze.org##a.floating-p2
 betblaze.org##.movie-wrapper
 betblaze.org##.livetx-wrapper
 betblaze.org##.game-list
 betblaze.org##div#downloadapp
 betblaze.org##div#icons-container
+betcody.com##.notice
+betcody.com##.packet.ineligible
+betcody.com##.banner-wrapper
+betcody.com###marquee > span
+betcody.com##.floating-whatsapp
+betcody.com##.floating-telegram
+betcody.com##a.floating-p2
 betcody.com##.movie-wrapper
 betcody.com##.livetx-wrapper
 betcody.com##.game-list
 betcody.com##div#downloadapp
 betcody.com##div#icons-container
+betjason.com##.notice
+betjason.com##.packet.ineligible
+betjason.com##.banner-wrapper
+betjason.com###marquee > span
+betjason.com##.floating-whatsapp
+betjason.com##.floating-telegram
+betjason.com##a.floating-p2
 betjason.com##.movie-wrapper
 betjason.com##.livetx-wrapper
 betjason.com##.game-list
 betjason.com##div#downloadapp
 betjason.com##div#icons-container
+betnet9.com##.notice
+betnet9.com##.packet.ineligible
+betnet9.com##.banner-wrapper
+betnet9.com###marquee > span
+betnet9.com##.floating-whatsapp
+betnet9.com##.floating-telegram
+betnet9.com##a.floating-p2
 betnet9.com##.movie-wrapper
 betnet9.com##.livetx-wrapper
 betnet9.com##.game-list
 betnet9.com##div#downloadapp
 betnet9.com##div#icons-container
+bkx9.com##.notice
+bkx9.com##.packet.ineligible
+bkx9.com##.banner-wrapper
+bkx9.com###marquee > span
+bkx9.com##.floating-whatsapp
+bkx9.com##.floating-telegram
+bkx9.com##a.floating-p2
 bkx9.com##.movie-wrapper
 bkx9.com##.livetx-wrapper
 bkx9.com##.game-list
 bkx9.com##div#downloadapp
 bkx9.com##div#icons-container
+blackpokies.com##.notice
+blackpokies.com##.packet.ineligible
+blackpokies.com##.banner-wrapper
+blackpokies.com###marquee > span
+blackpokies.com##.floating-whatsapp
+blackpokies.com##.floating-telegram
+blackpokies.com##a.floating-p2
 blackpokies.com##.movie-wrapper
 blackpokies.com##.livetx-wrapper
 blackpokies.com##.game-list
 blackpokies.com##div#downloadapp
 blackpokies.com##div#icons-container
-boombaby9.com##.movie-wrapper
-boombaby9.com##.livetx-wrapper
-boombaby9.com##.game-list
-boombaby9.com##div#downloadapp
-boombaby9.com##div#icons-container
+bomboclat9.com##.notice
+bomboclat9.com##.packet.ineligible
+bomboclat9.com##.banner-wrapper
+bomboclat9.com###marquee > span
+bomboclat9.com##.floating-whatsapp
+bomboclat9.com##.floating-telegram
+bomboclat9.com##a.floating-p2
 bomboclat9.com##.movie-wrapper
 bomboclat9.com##.livetx-wrapper
 bomboclat9.com##.game-list
 bomboclat9.com##div#downloadapp
 bomboclat9.com##div#icons-container
+bong21.com##.notice
+bong21.com##.packet.ineligible
+bong21.com##.banner-wrapper
+bong21.com###marquee > span
+bong21.com##.floating-whatsapp
+bong21.com##.floating-telegram
+bong21.com##a.floating-p2
 bong21.com##.movie-wrapper
 bong21.com##.livetx-wrapper
 bong21.com##.game-list
 bong21.com##div#downloadapp
 bong21.com##div#icons-container
+boombaby9.com##.notice
+boombaby9.com##.packet.ineligible
+boombaby9.com##.banner-wrapper
+boombaby9.com###marquee > span
+boombaby9.com##.floating-whatsapp
+boombaby9.com##.floating-telegram
+boombaby9.com##a.floating-p2
+boombaby9.com##.movie-wrapper
+boombaby9.com##.livetx-wrapper
+boombaby9.com##.game-list
+boombaby9.com##div#downloadapp
+boombaby9.com##div#icons-container
+breakspin.com##.notice
+breakspin.com##.packet.ineligible
+breakspin.com##.banner-wrapper
+breakspin.com###marquee > span
+breakspin.com##.floating-whatsapp
+breakspin.com##.floating-telegram
+breakspin.com##a.floating-p2
 breakspin.com##.movie-wrapper
 breakspin.com##.livetx-wrapper
 breakspin.com##.game-list
 breakspin.com##div#downloadapp
 breakspin.com##div#icons-container
+breakwin.com##.notice
+breakwin.com##.packet.ineligible
+breakwin.com##.banner-wrapper
+breakwin.com###marquee > span
+breakwin.com##.floating-whatsapp
+breakwin.com##.floating-telegram
+breakwin.com##a.floating-p2
 breakwin.com##.movie-wrapper
 breakwin.com##.livetx-wrapper
 breakwin.com##.game-list
 breakwin.com##div#downloadapp
 breakwin.com##div#icons-container
-clownwin.com##.movie-wrapper
-clownwin.com##.livetx-wrapper
-clownwin.com##.game-list
-clownwin.com##div#downloadapp
-clownwin.com##div#icons-container
+click96.com##.notice
+click96.com##.packet.ineligible
+click96.com##.banner-wrapper
+click96.com###marquee > span
+click96.com##.floating-whatsapp
+click96.com##.floating-telegram
+click96.com##a.floating-p2
 click96.com##.movie-wrapper
 click96.com##.livetx-wrapper
 click96.com##.game-list
 click96.com##div#downloadapp
 click96.com##div#icons-container
+clownwin.com##.notice
+clownwin.com##.packet.ineligible
+clownwin.com##.banner-wrapper
+clownwin.com###marquee > span
+clownwin.com##.floating-whatsapp
+clownwin.com##.floating-telegram
+clownwin.com##a.floating-p2
+clownwin.com##.movie-wrapper
+clownwin.com##.livetx-wrapper
+clownwin.com##.game-list
+clownwin.com##div#downloadapp
+clownwin.com##div#icons-container
+cocainespin.com##.notice
+cocainespin.com##.packet.ineligible
+cocainespin.com##.banner-wrapper
+cocainespin.com###marquee > span
+cocainespin.com##.floating-whatsapp
+cocainespin.com##.floating-telegram
+cocainespin.com##a.floating-p2
 cocainespin.com##.movie-wrapper
 cocainespin.com##.livetx-wrapper
 cocainespin.com##.game-list
 cocainespin.com##div#downloadapp
 cocainespin.com##div#icons-container
+crackspin.com##.notice
+crackspin.com##.packet.ineligible
+crackspin.com##.banner-wrapper
+crackspin.com###marquee > span
+crackspin.com##.floating-whatsapp
+crackspin.com##.floating-telegram
+crackspin.com##a.floating-p2
 crackspin.com##.movie-wrapper
 crackspin.com##.livetx-wrapper
 crackspin.com##.game-list
 crackspin.com##div#downloadapp
 crackspin.com##div#icons-container
+crayspin.com##.notice
+crayspin.com##.packet.ineligible
+crayspin.com##.banner-wrapper
+crayspin.com###marquee > span
+crayspin.com##.floating-whatsapp
+crayspin.com##.floating-telegram
+crayspin.com##a.floating-p2
 crayspin.com##.movie-wrapper
 crayspin.com##.livetx-wrapper
 crayspin.com##.game-list
 crayspin.com##div#downloadapp
 crayspin.com##div#icons-container
+creampokies.com##.notice
+creampokies.com##.packet.ineligible
+creampokies.com##.banner-wrapper
+creampokies.com###marquee > span
+creampokies.com##.floating-whatsapp
+creampokies.com##.floating-telegram
+creampokies.com##a.floating-p2
 creampokies.com##.movie-wrapper
 creampokies.com##.livetx-wrapper
 creampokies.com##.game-list
 creampokies.com##div#downloadapp
 creampokies.com##div#icons-container
+crownaud.com##.notice
+crownaud.com##.packet.ineligible
+crownaud.com##.banner-wrapper
+crownaud.com###marquee > span
+crownaud.com##.floating-whatsapp
+crownaud.com##.floating-telegram
+crownaud.com##a.floating-p2
 crownaud.com##.movie-wrapper
 crownaud.com##.livetx-wrapper
 crownaud.com##.game-list
 crownaud.com##div#downloadapp
 crownaud.com##div#icons-container
+cumspin.com##.notice
+cumspin.com##.packet.ineligible
+cumspin.com##.banner-wrapper
+cumspin.com###marquee > span
+cumspin.com##.floating-whatsapp
+cumspin.com##.floating-telegram
+cumspin.com##a.floating-p2
 cumspin.com##.movie-wrapper
 cumspin.com##.livetx-wrapper
 cumspin.com##.game-list
 cumspin.com##div#downloadapp
 cumspin.com##div#icons-container
+cuntaus.com##.notice
+cuntaus.com##.packet.ineligible
+cuntaus.com##.banner-wrapper
+cuntaus.com###marquee > span
+cuntaus.com##.floating-whatsapp
+cuntaus.com##.floating-telegram
+cuntaus.com##a.floating-p2
 cuntaus.com##.movie-wrapper
 cuntaus.com##.livetx-wrapper
 cuntaus.com##.game-list
 cuntaus.com##div#downloadapp
 cuntaus.com##div#icons-container
+cuntmeth.com##.notice
+cuntmeth.com##.packet.ineligible
+cuntmeth.com##.banner-wrapper
+cuntmeth.com###marquee > span
+cuntmeth.com##.floating-whatsapp
+cuntmeth.com##.floating-telegram
+cuntmeth.com##a.floating-p2
 cuntmeth.com##.movie-wrapper
 cuntmeth.com##.livetx-wrapper
 cuntmeth.com##.game-list
 cuntmeth.com##div#downloadapp
 cuntmeth.com##div#icons-container
+cuntpokies.com##.notice
+cuntpokies.com##.packet.ineligible
+cuntpokies.com##.banner-wrapper
+cuntpokies.com###marquee > span
+cuntpokies.com##.floating-whatsapp
+cuntpokies.com##.floating-telegram
+cuntpokies.com##a.floating-p2
 cuntpokies.com##.movie-wrapper
 cuntpokies.com##.livetx-wrapper
 cuntpokies.com##.game-list
 cuntpokies.com##div#downloadapp
 cuntpokies.com##div#icons-container
+damnpokies.com##.notice
+damnpokies.com##.packet.ineligible
+damnpokies.com##.banner-wrapper
+damnpokies.com###marquee > span
+damnpokies.com##.floating-whatsapp
+damnpokies.com##.floating-telegram
+damnpokies.com##a.floating-p2
 damnpokies.com##.movie-wrapper
 damnpokies.com##.livetx-wrapper
 damnpokies.com##.game-list
 damnpokies.com##div#downloadapp
 damnpokies.com##div#icons-container
+deespin.com##.notice
+deespin.com##.packet.ineligible
+deespin.com##.banner-wrapper
+deespin.com###marquee > span
+deespin.com##.floating-whatsapp
+deespin.com##.floating-telegram
+deespin.com##a.floating-p2
 deespin.com##.movie-wrapper
 deespin.com##.livetx-wrapper
 deespin.com##.game-list
 deespin.com##div#downloadapp
 deespin.com##div#icons-container
+devegas99.com##.notice
+devegas99.com##.packet.ineligible
+devegas99.com##.banner-wrapper
+devegas99.com###marquee > span
+devegas99.com##.floating-whatsapp
+devegas99.com##.floating-telegram
+devegas99.com##a.floating-p2
 devegas99.com##.movie-wrapper
 devegas99.com##.livetx-wrapper
 devegas99.com##.game-list
 devegas99.com##div#downloadapp
 devegas99.com##div#icons-container
+dickwin.com##.notice
+dickwin.com##.packet.ineligible
+dickwin.com##.banner-wrapper
+dickwin.com###marquee > span
+dickwin.com##.floating-whatsapp
+dickwin.com##.floating-telegram
+dickwin.com##a.floating-p2
 dickwin.com##.movie-wrapper
 dickwin.com##.livetx-wrapper
 dickwin.com##.game-list
 dickwin.com##div#downloadapp
 dickwin.com##div#icons-container
+dis8.com##.notice
+dis8.com##.packet.ineligible
+dis8.com##.banner-wrapper
+dis8.com###marquee > span
+dis8.com##.floating-whatsapp
+dis8.com##.floating-telegram
+dis8.com##a.floating-p2
 dis8.com##.movie-wrapper
 dis8.com##.livetx-wrapper
 dis8.com##.game-list
 dis8.com##div#downloadapp
 dis8.com##div#icons-container
+dogdog11.com##.notice
+dogdog11.com##.packet.ineligible
+dogdog11.com##.banner-wrapper
+dogdog11.com###marquee > span
+dogdog11.com##.floating-whatsapp
+dogdog11.com##.floating-telegram
+dogdog11.com##a.floating-p2
 dogdog11.com##.movie-wrapper
 dogdog11.com##.livetx-wrapper
 dogdog11.com##.game-list
 dogdog11.com##div#downloadapp
 dogdog11.com##div#icons-container
+donaldwin.com##.notice
+donaldwin.com##.packet.ineligible
+donaldwin.com##.banner-wrapper
+donaldwin.com###marquee > span
+donaldwin.com##.floating-whatsapp
+donaldwin.com##.floating-telegram
+donaldwin.com##a.floating-p2
 donaldwin.com##.movie-wrapper
 donaldwin.com##.livetx-wrapper
 donaldwin.com##.game-list
 donaldwin.com##div#downloadapp
 donaldwin.com##div#icons-container
+double9.org##.notice
+double9.org##.packet.ineligible
+double9.org##.banner-wrapper
+double9.org###marquee > span
+double9.org##.floating-whatsapp
+double9.org##.floating-telegram
+double9.org##a.floating-p2
 double9.org##.movie-wrapper
 double9.org##.livetx-wrapper
 double9.org##.game-list
 double9.org##div#downloadapp
 double9.org##div#icons-container
+drpokies.com##.notice
+drpokies.com##.packet.ineligible
+drpokies.com##.banner-wrapper
+drpokies.com###marquee > span
+drpokies.com##.floating-whatsapp
+drpokies.com##.floating-telegram
+drpokies.com##a.floating-p2
 drpokies.com##.movie-wrapper
 drpokies.com##.livetx-wrapper
 drpokies.com##.game-list
 drpokies.com##div#downloadapp
 drpokies.com##div#icons-container
+drunkspin.com##.notice
+drunkspin.com##.packet.ineligible
+drunkspin.com##.banner-wrapper
+drunkspin.com###marquee > span
+drunkspin.com##.floating-whatsapp
+drunkspin.com##.floating-telegram
+drunkspin.com##a.floating-p2
 drunkspin.com##.movie-wrapper
 drunkspin.com##.livetx-wrapper
 drunkspin.com##.game-list
 drunkspin.com##div#downloadapp
 drunkspin.com##div#icons-container
+ecstasybaby.com##.notice
+ecstasybaby.com##.packet.ineligible
+ecstasybaby.com##.banner-wrapper
+ecstasybaby.com###marquee > span
+ecstasybaby.com##.floating-whatsapp
+ecstasybaby.com##.floating-telegram
+ecstasybaby.com##a.floating-p2
 ecstasybaby.com##.movie-wrapper
 ecstasybaby.com##.livetx-wrapper
 ecstasybaby.com##.game-list
 ecstasybaby.com##div#downloadapp
 ecstasybaby.com##div#icons-container
+extrawin9.com##.notice
+extrawin9.com##.packet.ineligible
+extrawin9.com##.banner-wrapper
+extrawin9.com###marquee > span
+extrawin9.com##.floating-whatsapp
+extrawin9.com##.floating-telegram
+extrawin9.com##a.floating-p2
 extrawin9.com##.movie-wrapper
 extrawin9.com##.livetx-wrapper
 extrawin9.com##.game-list
 extrawin9.com##div#downloadapp
 extrawin9.com##div#icons-container
+f1pokies.com##.notice
+f1pokies.com##.packet.ineligible
+f1pokies.com##.banner-wrapper
+f1pokies.com###marquee > span
+f1pokies.com##.floating-whatsapp
+f1pokies.com##.floating-telegram
+f1pokies.com##a.floating-p2
 f1pokies.com##.movie-wrapper
 f1pokies.com##.livetx-wrapper
 f1pokies.com##.game-list
 f1pokies.com##div#downloadapp
 f1pokies.com##div#icons-container
+f1spin.com##.notice
+f1spin.com##.packet.ineligible
+f1spin.com##.banner-wrapper
+f1spin.com###marquee > span
+f1spin.com##.floating-whatsapp
+f1spin.com##.floating-telegram
+f1spin.com##a.floating-p2
 f1spin.com##.movie-wrapper
 f1spin.com##.livetx-wrapper
 f1spin.com##.game-list
 f1spin.com##div#downloadapp
 f1spin.com##div#icons-container
+fafabet9.com##.notice
+fafabet9.com##.packet.ineligible
+fafabet9.com##.banner-wrapper
+fafabet9.com###marquee > span
+fafabet9.com##.floating-whatsapp
+fafabet9.com##.floating-telegram
+fafabet9.com##a.floating-p2
 fafabet9.com##.movie-wrapper
 fafabet9.com##.livetx-wrapper
 fafabet9.com##.game-list
 fafabet9.com##div#downloadapp
 fafabet9.com##div#icons-container
+fastspin99.com##.notice
+fastspin99.com##.packet.ineligible
+fastspin99.com##.banner-wrapper
+fastspin99.com###marquee > span
+fastspin99.com##.floating-whatsapp
+fastspin99.com##.floating-telegram
+fastspin99.com##a.floating-p2
 fastspin99.com##.movie-wrapper
 fastspin99.com##.livetx-wrapper
 fastspin99.com##.game-list
 fastspin99.com##div#downloadapp
 fastspin99.com##div#icons-container
+fatdog9.com##.notice
+fatdog9.com##.packet.ineligible
+fatdog9.com##.banner-wrapper
+fatdog9.com###marquee > span
+fatdog9.com##.floating-whatsapp
+fatdog9.com##.floating-telegram
+fatdog9.com##a.floating-p2
 fatdog9.com##.movie-wrapper
 fatdog9.com##.livetx-wrapper
 fatdog9.com##.game-list
 fatdog9.com##div#downloadapp
 fatdog9.com##div#icons-container
+fendipokies.com##.notice
+fendipokies.com##.packet.ineligible
+fendipokies.com##.banner-wrapper
+fendipokies.com###marquee > span
+fendipokies.com##.floating-whatsapp
+fendipokies.com##.floating-telegram
+fendipokies.com##a.floating-p2
 fendipokies.com##.movie-wrapper
 fendipokies.com##.livetx-wrapper
 fendipokies.com##.game-list
 fendipokies.com##div#downloadapp
 fendipokies.com##div#icons-container
+finaplay.com##.notice
+finaplay.com##.packet.ineligible
+finaplay.com##.banner-wrapper
+finaplay.com###marquee > span
+finaplay.com##.floating-whatsapp
+finaplay.com##.floating-telegram
+finaplay.com##a.floating-p2
 finaplay.com##.movie-wrapper
 finaplay.com##.livetx-wrapper
 finaplay.com##.game-list
 finaplay.com##div#downloadapp
 finaplay.com##div#icons-container
+freakwin.com##.notice
+freakwin.com##.packet.ineligible
+freakwin.com##.banner-wrapper
+freakwin.com###marquee > span
+freakwin.com##.floating-whatsapp
+freakwin.com##.floating-telegram
+freakwin.com##a.floating-p2
 freakwin.com##.movie-wrapper
 freakwin.com##.livetx-wrapper
 freakwin.com##.game-list
 freakwin.com##div#downloadapp
 freakwin.com##div#icons-container
+fuckingluck.com##.notice
+fuckingluck.com##.packet.ineligible
+fuckingluck.com##.banner-wrapper
+fuckingluck.com###marquee > span
+fuckingluck.com##.floating-whatsapp
+fuckingluck.com##.floating-telegram
+fuckingluck.com##a.floating-p2
 fuckingluck.com##.movie-wrapper
 fuckingluck.com##.livetx-wrapper
 fuckingluck.com##.game-list
 fuckingluck.com##div#downloadapp
 fuckingluck.com##div#icons-container
+funmeth.com##.notice
+funmeth.com##.packet.ineligible
+funmeth.com##.banner-wrapper
+funmeth.com###marquee > span
+funmeth.com##.floating-whatsapp
+funmeth.com##.floating-telegram
+funmeth.com##a.floating-p2
 funmeth.com##.movie-wrapper
 funmeth.com##.livetx-wrapper
 funmeth.com##.game-list
 funmeth.com##div#downloadapp
 funmeth.com##div#icons-container
+furspin.com##.notice
+furspin.com##.packet.ineligible
+furspin.com##.banner-wrapper
+furspin.com###marquee > span
+furspin.com##.floating-whatsapp
+furspin.com##.floating-telegram
+furspin.com##a.floating-p2
 furspin.com##.movie-wrapper
 furspin.com##.livetx-wrapper
 furspin.com##.game-list
 furspin.com##div#downloadapp
 furspin.com##div#icons-container
+fury9.com##.notice
+fury9.com##.packet.ineligible
+fury9.com##.banner-wrapper
+fury9.com###marquee > span
+fury9.com##.floating-whatsapp
+fury9.com##.floating-telegram
+fury9.com##a.floating-p2
 fury9.com##.movie-wrapper
 fury9.com##.livetx-wrapper
 fury9.com##.game-list
 fury9.com##div#downloadapp
 fury9.com##div#icons-container
+goospin.com##.notice
+goospin.com##.packet.ineligible
+goospin.com##.banner-wrapper
+goospin.com###marquee > span
+goospin.com##.floating-whatsapp
+goospin.com##.floating-telegram
+goospin.com##a.floating-p2
 goospin.com##.movie-wrapper
 goospin.com##.livetx-wrapper
 goospin.com##.game-list
 goospin.com##div#downloadapp
 goospin.com##div#icons-container
+gopokies.co##.notice
+gopokies.co##.packet.ineligible
+gopokies.co##.banner-wrapper
+gopokies.co###marquee > span
+gopokies.co##.floating-whatsapp
+gopokies.co##.floating-telegram
+gopokies.co##a.floating-p2
 gopokies.co##.movie-wrapper
 gopokies.co##.livetx-wrapper
 gopokies.co##.game-list
 gopokies.co##div#downloadapp
 gopokies.co##div#icons-container
+gronkspin.com##.notice
+gronkspin.com##.packet.ineligible
+gronkspin.com##.banner-wrapper
+gronkspin.com###marquee > span
+gronkspin.com##.floating-whatsapp
+gronkspin.com##.floating-telegram
+gronkspin.com##a.floating-p2
 gronkspin.com##.movie-wrapper
 gronkspin.com##.livetx-wrapper
 gronkspin.com##.game-list
 gronkspin.com##div#downloadapp
 gronkspin.com##div#icons-container
+gunspin9.com##.notice
+gunspin9.com##.packet.ineligible
+gunspin9.com##.banner-wrapper
+gunspin9.com###marquee > span
+gunspin9.com##.floating-whatsapp
+gunspin9.com##.floating-telegram
+gunspin9.com##a.floating-p2
 gunspin9.com##.movie-wrapper
 gunspin9.com##.livetx-wrapper
 gunspin9.com##.game-list
 gunspin9.com##div#downloadapp
 gunspin9.com##div#icons-container
+heroinspin.com##.notice
+heroinspin.com##.packet.ineligible
+heroinspin.com##.banner-wrapper
+heroinspin.com###marquee > span
+heroinspin.com##.floating-whatsapp
+heroinspin.com##.floating-telegram
+heroinspin.com##a.floating-p2
 heroinspin.com##.movie-wrapper
 heroinspin.com##.livetx-wrapper
 heroinspin.com##.game-list
 heroinspin.com##div#downloadapp
 heroinspin.com##div#icons-container
+heymeth.co##.notice
+heymeth.co##.packet.ineligible
+heymeth.co##.banner-wrapper
+heymeth.co###marquee > span
+heymeth.co##.floating-whatsapp
+heymeth.co##.floating-telegram
+heymeth.co##a.floating-p2
 heymeth.co##.movie-wrapper
 heymeth.co##.livetx-wrapper
 heymeth.co##.game-list
 heymeth.co##div#downloadapp
 heymeth.co##div#icons-container
+hicunt.com##.notice
+hicunt.com##.packet.ineligible
+hicunt.com##.banner-wrapper
+hicunt.com###marquee > span
+hicunt.com##.floating-whatsapp
+hicunt.com##.floating-telegram
+hicunt.com##a.floating-p2
 hicunt.com##.movie-wrapper
 hicunt.com##.livetx-wrapper
 hicunt.com##.game-list
 hicunt.com##div#downloadapp
 hicunt.com##div#icons-container
+himeth.com##.notice
+himeth.com##.packet.ineligible
+himeth.com##.banner-wrapper
+himeth.com###marquee > span
+himeth.com##.floating-whatsapp
+himeth.com##.floating-telegram
+himeth.com##a.floating-p2
 himeth.com##.movie-wrapper
 himeth.com##.livetx-wrapper
 himeth.com##.game-list
 himeth.com##div#downloadapp
 himeth.com##div#icons-container
+ilovejili.net##.notice
+ilovejili.net##.packet.ineligible
+ilovejili.net##.banner-wrapper
+ilovejili.net###marquee > span
+ilovejili.net##.floating-whatsapp
+ilovejili.net##.floating-telegram
+ilovejili.net##a.floating-p2
 ilovejili.net##.movie-wrapper
 ilovejili.net##.livetx-wrapper
 ilovejili.net##.game-list
 ilovejili.net##div#downloadapp
 ilovejili.net##div#icons-container
+jackpotmate88.com##.notice
+jackpotmate88.com##.packet.ineligible
+jackpotmate88.com##.banner-wrapper
+jackpotmate88.com###marquee > span
+jackpotmate88.com##.floating-whatsapp
+jackpotmate88.com##.floating-telegram
+jackpotmate88.com##a.floating-p2
 jackpotmate88.com##.movie-wrapper
 jackpotmate88.com##.livetx-wrapper
 jackpotmate88.com##.game-list
 jackpotmate88.com##div#downloadapp
 jackpotmate88.com##div#icons-container
+jbagwin.com##.notice
+jbagwin.com##.packet.ineligible
+jbagwin.com##.banner-wrapper
+jbagwin.com###marquee > span
+jbagwin.com##.floating-whatsapp
+jbagwin.com##.floating-telegram
+jbagwin.com##a.floating-p2
 jbagwin.com##.movie-wrapper
 jbagwin.com##.livetx-wrapper
 jbagwin.com##.game-list
 jbagwin.com##div#downloadapp
 jbagwin.com##div#icons-container
+jellospin.com##.notice
+jellospin.com##.packet.ineligible
+jellospin.com##.banner-wrapper
+jellospin.com###marquee > span
+jellospin.com##.floating-whatsapp
+jellospin.com##.floating-telegram
+jellospin.com##a.floating-p2
 jellospin.com##.movie-wrapper
 jellospin.com##.livetx-wrapper
 jellospin.com##.game-list
 jellospin.com##div#downloadapp
 jellospin.com##div#icons-container
+joofred.com##.notice
+joofred.com##.packet.ineligible
+joofred.com##.banner-wrapper
+joofred.com###marquee > span
+joofred.com##.floating-whatsapp
+joofred.com##.floating-telegram
+joofred.com##a.floating-p2
 joofred.com##.movie-wrapper
 joofred.com##.livetx-wrapper
 joofred.com##.game-list
 joofred.com##div#downloadapp
 joofred.com##div#icons-container
+joospin.com##.notice
+joospin.com##.packet.ineligible
+joospin.com##.banner-wrapper
+joospin.com###marquee > span
+joospin.com##.floating-whatsapp
+joospin.com##.floating-telegram
+joospin.com##a.floating-p2
 joospin.com##.movie-wrapper
 joospin.com##.livetx-wrapper
 joospin.com##.game-list
 joospin.com##div#downloadapp
 joospin.com##div#icons-container
+justpokies9.com##.notice
+justpokies9.com##.packet.ineligible
+justpokies9.com##.banner-wrapper
+justpokies9.com###marquee > span
+justpokies9.com##.floating-whatsapp
+justpokies9.com##.floating-telegram
+justpokies9.com##a.floating-p2
 justpokies9.com##.movie-wrapper
 justpokies9.com##.livetx-wrapper
 justpokies9.com##.game-list
 justpokies9.com##div#downloadapp
 justpokies9.com##div#icons-container
+justwin9.com##.notice
+justwin9.com##.packet.ineligible
+justwin9.com##.banner-wrapper
+justwin9.com###marquee > span
+justwin9.com##.floating-whatsapp
+justwin9.com##.floating-telegram
+justwin9.com##a.floating-p2
 justwin9.com##.movie-wrapper
 justwin9.com##.livetx-wrapper
 justwin9.com##.game-list
 justwin9.com##div#downloadapp
 justwin9.com##div#icons-container
+juzspin.com##.notice
+juzspin.com##.packet.ineligible
+juzspin.com##.banner-wrapper
+juzspin.com###marquee > span
+juzspin.com##.floating-whatsapp
+juzspin.com##.floating-telegram
+juzspin.com##a.floating-p2
 juzspin.com##.movie-wrapper
 juzspin.com##.livetx-wrapper
 juzspin.com##.game-list
 juzspin.com##div#downloadapp
 juzspin.com##div#icons-container
+kaboom77.com##.notice
+kaboom77.com##.packet.ineligible
+kaboom77.com##.banner-wrapper
+kaboom77.com###marquee > span
+kaboom77.com##.floating-whatsapp
+kaboom77.com##.floating-telegram
+kaboom77.com##a.floating-p2
 kaboom77.com##.movie-wrapper
 kaboom77.com##.livetx-wrapper
 kaboom77.com##.game-list
 kaboom77.com##div#downloadapp
 kaboom77.com##div#icons-container
+kaboomwin.com##.notice
+kaboomwin.com##.packet.ineligible
+kaboomwin.com##.banner-wrapper
+kaboomwin.com###marquee > span
+kaboomwin.com##.floating-whatsapp
+kaboomwin.com##.floating-telegram
+kaboomwin.com##a.floating-p2
 kaboomwin.com##.movie-wrapper
 kaboomwin.com##.livetx-wrapper
 kaboomwin.com##.game-list
 kaboomwin.com##div#downloadapp
 kaboomwin.com##div#icons-container
+kennycasino.com##.notice
+kennycasino.com##.packet.ineligible
+kennycasino.com##.banner-wrapper
+kennycasino.com###marquee > span
+kennycasino.com##.floating-whatsapp
+kennycasino.com##.floating-telegram
+kennycasino.com##a.floating-p2
 kennycasino.com##.movie-wrapper
 kennycasino.com##.livetx-wrapper
 kennycasino.com##.game-list
 kennycasino.com##div#downloadapp
 kennycasino.com##div#icons-container
+ketawin.com##.notice
+ketawin.com##.packet.ineligible
+ketawin.com##.banner-wrapper
+ketawin.com###marquee > span
+ketawin.com##.floating-whatsapp
+ketawin.com##.floating-telegram
+ketawin.com##a.floating-p2
 ketawin.com##.movie-wrapper
 ketawin.com##.livetx-wrapper
 ketawin.com##.game-list
 ketawin.com##div#downloadapp
 ketawin.com##div#icons-container
+kisspokies.com##.notice
+kisspokies.com##.packet.ineligible
+kisspokies.com##.banner-wrapper
+kisspokies.com###marquee > span
+kisspokies.com##.floating-whatsapp
+kisspokies.com##.floating-telegram
+kisspokies.com##a.floating-p2
 kisspokies.com##.movie-wrapper
 kisspokies.com##.livetx-wrapper
 kisspokies.com##.game-list
 kisspokies.com##div#downloadapp
 kisspokies.com##div#icons-container
+legit99.com##.notice
+legit99.com##.packet.ineligible
+legit99.com##.banner-wrapper
+legit99.com###marquee > span
+legit99.com##.floating-whatsapp
+legit99.com##.floating-telegram
+legit99.com##a.floating-p2
 legit99.com##.movie-wrapper
 legit99.com##.livetx-wrapper
 legit99.com##.game-list
 legit99.com##div#downloadapp
 legit99.com##div#icons-container
+liamcasino.com##.notice
+liamcasino.com##.packet.ineligible
+liamcasino.com##.banner-wrapper
+liamcasino.com###marquee > span
+liamcasino.com##.floating-whatsapp
+liamcasino.com##.floating-telegram
+liamcasino.com##a.floating-p2
 liamcasino.com##.movie-wrapper
 liamcasino.com##.livetx-wrapper
 liamcasino.com##.game-list
 liamcasino.com##div#downloadapp
 liamcasino.com##div#icons-container
+limitedpokies.com##.notice
+limitedpokies.com##.packet.ineligible
+limitedpokies.com##.banner-wrapper
+limitedpokies.com###marquee > span
+limitedpokies.com##.floating-whatsapp
+limitedpokies.com##.floating-telegram
+limitedpokies.com##a.floating-p2
 limitedpokies.com##.movie-wrapper
 limitedpokies.com##.livetx-wrapper
 limitedpokies.com##.game-list
 limitedpokies.com##div#downloadapp
 limitedpokies.com##div#icons-container
+lovepokies.com##.notice
+lovepokies.com##.packet.ineligible
+lovepokies.com##.banner-wrapper
+lovepokies.com###marquee > span
+lovepokies.com##.floating-whatsapp
+lovepokies.com##.floating-telegram
+lovepokies.com##a.floating-p2
 lovepokies.com##.movie-wrapper
 lovepokies.com##.livetx-wrapper
 lovepokies.com##.game-list
 lovepokies.com##div#downloadapp
 lovepokies.com##div#icons-container
+lsdbaby.co##.notice
+lsdbaby.co##.packet.ineligible
+lsdbaby.co##.banner-wrapper
+lsdbaby.co###marquee > span
+lsdbaby.co##.floating-whatsapp
+lsdbaby.co##.floating-telegram
+lsdbaby.co##a.floating-p2
 lsdbaby.co##.movie-wrapper
 lsdbaby.co##.livetx-wrapper
 lsdbaby.co##.game-list
 lsdbaby.co##div#downloadapp
 lsdbaby.co##div#icons-container
+luckyaus.com##.notice
+luckyaus.com##.packet.ineligible
+luckyaus.com##.banner-wrapper
+luckyaus.com###marquee > span
+luckyaus.com##.floating-whatsapp
+luckyaus.com##.floating-telegram
+luckyaus.com##a.floating-p2
 luckyaus.com##.movie-wrapper
 luckyaus.com##.livetx-wrapper
 luckyaus.com##.game-list
 luckyaus.com##div#downloadapp
 luckyaus.com##div#icons-container
+lvbet33.com##.notice
+lvbet33.com##.packet.ineligible
+lvbet33.com##.banner-wrapper
+lvbet33.com###marquee > span
+lvbet33.com##.floating-whatsapp
+lvbet33.com##.floating-telegram
+lvbet33.com##a.floating-p2
 lvbet33.com##.movie-wrapper
 lvbet33.com##.livetx-wrapper
 lvbet33.com##.game-list
 lvbet33.com##div#downloadapp
 lvbet33.com##div#icons-container
+lvpokies.com##.notice
+lvpokies.com##.packet.ineligible
+lvpokies.com##.banner-wrapper
+lvpokies.com###marquee > span
+lvpokies.com##.floating-whatsapp
+lvpokies.com##.floating-telegram
+lvpokies.com##a.floating-p2
 lvpokies.com##.movie-wrapper
 lvpokies.com##.livetx-wrapper
 lvpokies.com##.game-list
 lvpokies.com##div#downloadapp
 lvpokies.com##div#icons-container
+lwin9.com##.notice
+lwin9.com##.packet.ineligible
+lwin9.com##.banner-wrapper
+lwin9.com###marquee > span
+lwin9.com##.floating-whatsapp
+lwin9.com##.floating-telegram
+lwin9.com##a.floating-p2
 lwin9.com##.movie-wrapper
 lwin9.com##.livetx-wrapper
 lwin9.com##.game-list
 lwin9.com##div#downloadapp
 lwin9.com##div#icons-container
+madmofo7.com##.notice
+madmofo7.com##.packet.ineligible
+madmofo7.com##.banner-wrapper
+madmofo7.com###marquee > span
+madmofo7.com##.floating-whatsapp
+madmofo7.com##.floating-telegram
+madmofo7.com##a.floating-p2
 madmofo7.com##.movie-wrapper
 madmofo7.com##.livetx-wrapper
 madmofo7.com##.game-list
 madmofo7.com##div#downloadapp
 madmofo7.com##div#icons-container
+masonspin.com##.notice
+masonspin.com##.packet.ineligible
+masonspin.com##.banner-wrapper
+masonspin.com###marquee > span
+masonspin.com##.floating-whatsapp
+masonspin.com##.floating-telegram
+masonspin.com##a.floating-p2
 masonspin.com##.movie-wrapper
 masonspin.com##.livetx-wrapper
 masonspin.com##.game-list
 masonspin.com##div#downloadapp
 masonspin.com##div#icons-container
+maxcunt.com##.notice
+maxcunt.com##.packet.ineligible
+maxcunt.com##.banner-wrapper
+maxcunt.com###marquee > span
+maxcunt.com##.floating-whatsapp
+maxcunt.com##.floating-telegram
+maxcunt.com##a.floating-p2
 maxcunt.com##.movie-wrapper
 maxcunt.com##.livetx-wrapper
 maxcunt.com##.game-list
 maxcunt.com##div#downloadapp
 maxcunt.com##div#icons-container
+maxmeth.com##.notice
+maxmeth.com##.packet.ineligible
+maxmeth.com##.banner-wrapper
+maxmeth.com###marquee > span
+maxmeth.com##.floating-whatsapp
+maxmeth.com##.floating-telegram
+maxmeth.com##a.floating-p2
 maxmeth.com##.movie-wrapper
 maxmeth.com##.livetx-wrapper
 maxmeth.com##.game-list
 maxmeth.com##div#downloadapp
 maxmeth.com##div#icons-container
+melspin.com##.notice
+melspin.com##.packet.ineligible
+melspin.com##.banner-wrapper
+melspin.com###marquee > span
+melspin.com##.floating-whatsapp
+melspin.com##.floating-telegram
+melspin.com##a.floating-p2
 melspin.com##.movie-wrapper
 melspin.com##.livetx-wrapper
 melspin.com##.game-list
 melspin.com##div#downloadapp
 melspin.com##div#icons-container
+methaus.com##.notice
+methaus.com##.packet.ineligible
+methaus.com##.banner-wrapper
+methaus.com###marquee > span
+methaus.com##.floating-whatsapp
+methaus.com##.floating-telegram
+methaus.com##a.floating-p2
 methaus.com##.movie-wrapper
 methaus.com##.livetx-wrapper
 methaus.com##.game-list
 methaus.com##div#downloadapp
 methaus.com##div#icons-container
+methbaby.co##.notice
+methbaby.co##.packet.ineligible
+methbaby.co##.banner-wrapper
+methbaby.co###marquee > span
+methbaby.co##.floating-whatsapp
+methbaby.co##.floating-telegram
+methbaby.co##a.floating-p2
 methbaby.co##.movie-wrapper
 methbaby.co##.livetx-wrapper
 methbaby.co##.game-list
 methbaby.co##div#downloadapp
 methbaby.co##div#icons-container
+methbet.com##.notice
+methbet.com##.packet.ineligible
+methbet.com##.banner-wrapper
+methbet.com###marquee > span
+methbet.com##.floating-whatsapp
+methbet.com##.floating-telegram
+methbet.com##a.floating-p2
 methbet.com##.movie-wrapper
 methbet.com##.livetx-wrapper
 methbet.com##.game-list
 methbet.com##div#downloadapp
 methbet.com##div#icons-container
+methking.com##.notice
+methking.com##.packet.ineligible
+methking.com##.banner-wrapper
+methking.com###marquee > span
+methking.com##.floating-whatsapp
+methking.com##.floating-telegram
+methking.com##a.floating-p2
 methking.com##.movie-wrapper
 methking.com##.livetx-wrapper
 methking.com##.game-list
 methking.com##div#downloadapp
 methking.com##div#icons-container
+methmeth.com##.notice
+methmeth.com##.packet.ineligible
+methmeth.com##.banner-wrapper
+methmeth.com###marquee > span
+methmeth.com##.floating-whatsapp
+methmeth.com##.floating-telegram
+methmeth.com##a.floating-p2
 methmeth.com##.movie-wrapper
 methmeth.com##.livetx-wrapper
 methmeth.com##.game-list
 methmeth.com##div#downloadapp
 methmeth.com##div#icons-container
+methpokies.com##.notice
+methpokies.com##.packet.ineligible
+methpokies.com##.banner-wrapper
+methpokies.com###marquee > span
+methpokies.com##.floating-whatsapp
+methpokies.com##.floating-telegram
+methpokies.com##a.floating-p2
 methpokies.com##.movie-wrapper
 methpokies.com##.livetx-wrapper
 methpokies.com##.game-list
 methpokies.com##div#downloadapp
 methpokies.com##div#icons-container
+methspin.com##.notice
+methspin.com##.packet.ineligible
+methspin.com##.banner-wrapper
+methspin.com###marquee > span
+methspin.com##.floating-whatsapp
+methspin.com##.floating-telegram
+methspin.com##a.floating-p2
 methspin.com##.movie-wrapper
 methspin.com##.livetx-wrapper
 methspin.com##.game-list
 methspin.com##div#downloadapp
 methspin.com##div#icons-container
+methwin.com##.notice
+methwin.com##.packet.ineligible
+methwin.com##.banner-wrapper
+methwin.com###marquee > span
+methwin.com##.floating-whatsapp
+methwin.com##.floating-telegram
+methwin.com##a.floating-p2
 methwin.com##.movie-wrapper
 methwin.com##.livetx-wrapper
 methwin.com##.game-list
 methwin.com##div#downloadapp
 methwin.com##div#icons-container
+miawin.com##.notice
+miawin.com##.packet.ineligible
+miawin.com##.banner-wrapper
+miawin.com###marquee > span
+miawin.com##.floating-whatsapp
+miawin.com##.floating-telegram
+miawin.com##a.floating-p2
 miawin.com##.movie-wrapper
 miawin.com##.livetx-wrapper
 miawin.com##.game-list
 miawin.com##div#downloadapp
 miawin.com##div#icons-container
+minorspin.com##.notice
+minorspin.com##.packet.ineligible
+minorspin.com##.banner-wrapper
+minorspin.com###marquee > span
+minorspin.com##.floating-whatsapp
+minorspin.com##.floating-telegram
+minorspin.com##a.floating-p2
 minorspin.com##.movie-wrapper
 minorspin.com##.livetx-wrapper
 minorspin.com##.game-list
 minorspin.com##div#downloadapp
 minorspin.com##div#icons-container
+mofoclub.com##.notice
+mofoclub.com##.packet.ineligible
+mofoclub.com##.banner-wrapper
+mofoclub.com###marquee > span
+mofoclub.com##.floating-whatsapp
+mofoclub.com##.floating-telegram
+mofoclub.com##a.floating-p2
 mofoclub.com##.movie-wrapper
 mofoclub.com##.livetx-wrapper
 mofoclub.com##.game-list
 mofoclub.com##div#downloadapp
 mofoclub.com##div#icons-container
+mofospin.com##.notice
+mofospin.com##.packet.ineligible
+mofospin.com##.banner-wrapper
+mofospin.com###marquee > span
+mofospin.com##.floating-whatsapp
+mofospin.com##.floating-telegram
+mofospin.com##a.floating-p2
 mofospin.com##.movie-wrapper
 mofospin.com##.livetx-wrapper
 mofospin.com##.game-list
 mofospin.com##div#downloadapp
 mofospin.com##div#icons-container
+muckerspin.com##.notice
+muckerspin.com##.packet.ineligible
+muckerspin.com##.banner-wrapper
+muckerspin.com###marquee > span
+muckerspin.com##.floating-whatsapp
+muckerspin.com##.floating-telegram
+muckerspin.com##a.floating-p2
 muckerspin.com##.movie-wrapper
 muckerspin.com##.livetx-wrapper
 muckerspin.com##.game-list
 muckerspin.com##div#downloadapp
 muckerspin.com##div#icons-container
+n1spin.com##.notice
+n1spin.com##.packet.ineligible
+n1spin.com##.banner-wrapper
+n1spin.com###marquee > span
+n1spin.com##.floating-whatsapp
+n1spin.com##.floating-telegram
+n1spin.com##a.floating-p2
 n1spin.com##.movie-wrapper
 n1spin.com##.livetx-wrapper
 n1spin.com##.game-list
 n1spin.com##div#downloadapp
 n1spin.com##div#icons-container
+n1win.net##.notice
+n1win.net##.packet.ineligible
+n1win.net##.banner-wrapper
+n1win.net###marquee > span
+n1win.net##.floating-whatsapp
+n1win.net##.floating-telegram
+n1win.net##a.floating-p2
 n1win.net##.movie-wrapper
 n1win.net##.livetx-wrapper
 n1win.net##.game-list
 n1win.net##div#downloadapp
 n1win.net##div#icons-container
+nelspin.com##.notice
+nelspin.com##.packet.ineligible
+nelspin.com##.banner-wrapper
+nelspin.com###marquee > span
+nelspin.com##.floating-whatsapp
+nelspin.com##.floating-telegram
+nelspin.com##a.floating-p2
 nelspin.com##.movie-wrapper
 nelspin.com##.livetx-wrapper
 nelspin.com##.game-list
 nelspin.com##div#downloadapp
 nelspin.com##div#icons-container
+nextpokies.com##.notice
+nextpokies.com##.packet.ineligible
+nextpokies.com##.banner-wrapper
+nextpokies.com###marquee > span
+nextpokies.com##.floating-whatsapp
+nextpokies.com##.floating-telegram
+nextpokies.com##a.floating-p2
 nextpokies.com##.movie-wrapper
 nextpokies.com##.livetx-wrapper
 nextpokies.com##.game-list
 nextpokies.com##div#downloadapp
 nextpokies.com##div#icons-container
+nicemeth.com##.notice
+nicemeth.com##.packet.ineligible
+nicemeth.com##.banner-wrapper
+nicemeth.com###marquee > span
+nicemeth.com##.floating-whatsapp
+nicemeth.com##.floating-telegram
+nicemeth.com##a.floating-p2
 nicemeth.com##.movie-wrapper
 nicemeth.com##.livetx-wrapper
 nicemeth.com##.game-list
 nicemeth.com##div#downloadapp
 nicemeth.com##div#icons-container
+oimate.co##.notice
+oimate.co##.packet.ineligible
+oimate.co##.banner-wrapper
+oimate.co###marquee > span
+oimate.co##.floating-whatsapp
+oimate.co##.floating-telegram
+oimate.co##a.floating-p2
 oimate.co##.movie-wrapper
 oimate.co##.livetx-wrapper
 oimate.co##.game-list
 oimate.co##div#downloadapp
 oimate.co##div#icons-container
+onya88.com##.notice
+onya88.com##.packet.ineligible
+onya88.com##.banner-wrapper
+onya88.com###marquee > span
+onya88.com##.floating-whatsapp
+onya88.com##.floating-telegram
+onya88.com##a.floating-p2
 onya88.com##.movie-wrapper
 onya88.com##.livetx-wrapper
 onya88.com##.game-list
 onya88.com##div#downloadapp
 onya88.com##div#icons-container
+paramax9.com##.notice
+paramax9.com##.packet.ineligible
+paramax9.com##.banner-wrapper
+paramax9.com###marquee > span
+paramax9.com##.floating-whatsapp
+paramax9.com##.floating-telegram
+paramax9.com##a.floating-p2
 paramax9.com##.movie-wrapper
 paramax9.com##.livetx-wrapper
 paramax9.com##.game-list
 paramax9.com##div#downloadapp
 paramax9.com##div#icons-container
+petercasino.com##.notice
+petercasino.com##.packet.ineligible
+petercasino.com##.banner-wrapper
+petercasino.com###marquee > span
+petercasino.com##.floating-whatsapp
+petercasino.com##.floating-telegram
+petercasino.com##a.floating-p2
 petercasino.com##.movie-wrapper
 petercasino.com##.livetx-wrapper
 petercasino.com##.game-list
 petercasino.com##div#downloadapp
 petercasino.com##div#icons-container
+playmeth.com##.notice
+playmeth.com##.packet.ineligible
+playmeth.com##.banner-wrapper
+playmeth.com###marquee > span
+playmeth.com##.floating-whatsapp
+playmeth.com##.floating-telegram
+playmeth.com##a.floating-p2
 playmeth.com##.movie-wrapper
 playmeth.com##.livetx-wrapper
 playmeth.com##.game-list
 playmeth.com##div#downloadapp
 playmeth.com##div#icons-container
+pokiesdream.com##.notice
+pokiesdream.com##.packet.ineligible
+pokiesdream.com##.banner-wrapper
+pokiesdream.com###marquee > span
+pokiesdream.com##.floating-whatsapp
+pokiesdream.com##.floating-telegram
+pokiesdream.com##a.floating-p2
 pokiesdream.com##.movie-wrapper
 pokiesdream.com##.livetx-wrapper
 pokiesdream.com##.game-list
 pokiesdream.com##div#downloadapp
 pokiesdream.com##div#icons-container
+pokiesgg.com##.notice
+pokiesgg.com##.packet.ineligible
+pokiesgg.com##.banner-wrapper
+pokiesgg.com###marquee > span
+pokiesgg.com##.floating-whatsapp
+pokiesgg.com##.floating-telegram
+pokiesgg.com##a.floating-p2
 pokiesgg.com##.movie-wrapper
 pokiesgg.com##.livetx-wrapper
 pokiesgg.com##.game-list
 pokiesgg.com##div#downloadapp
 pokiesgg.com##div#icons-container
+pokiesokay.com##.notice
+pokiesokay.com##.packet.ineligible
+pokiesokay.com##.banner-wrapper
+pokiesokay.com###marquee > span
+pokiesokay.com##.floating-whatsapp
+pokiesokay.com##.floating-telegram
+pokiesokay.com##a.floating-p2
 pokiesokay.com##.movie-wrapper
 pokiesokay.com##.livetx-wrapper
 pokiesokay.com##.game-list
 pokiesokay.com##div#downloadapp
 pokiesokay.com##div#icons-container
+pokiestt.com##.notice
+pokiestt.com##.packet.ineligible
+pokiestt.com##.banner-wrapper
+pokiestt.com###marquee > span
+pokiestt.com##.floating-whatsapp
+pokiestt.com##.floating-telegram
+pokiestt.com##a.floating-p2
 pokiestt.com##.movie-wrapper
 pokiestt.com##.livetx-wrapper
 pokiestt.com##.game-list
 pokiestt.com##div#downloadapp
 pokiestt.com##div#icons-container
+pokiesww.org##.notice
+pokiesww.org##.packet.ineligible
+pokiesww.org##.banner-wrapper
+pokiesww.org###marquee > span
+pokiesww.org##.floating-whatsapp
+pokiesww.org##.floating-telegram
+pokiesww.org##a.floating-p2
 pokiesww.org##.movie-wrapper
 pokiesww.org##.livetx-wrapper
 pokiesww.org##.game-list
 pokiesww.org##div#downloadapp
 pokiesww.org##div#icons-container
+popmolly.co##.notice
+popmolly.co##.packet.ineligible
+popmolly.co##.banner-wrapper
+popmolly.co###marquee > span
+popmolly.co##.floating-whatsapp
+popmolly.co##.floating-telegram
+popmolly.co##a.floating-p2
 popmolly.co##.movie-wrapper
 popmolly.co##.livetx-wrapper
 popmolly.co##.game-list
 popmolly.co##div#downloadapp
 popmolly.co##div#icons-container
+potstrike.com##.notice
+potstrike.com##.packet.ineligible
+potstrike.com##.banner-wrapper
+potstrike.com###marquee > span
+potstrike.com##.floating-whatsapp
+potstrike.com##.floating-telegram
+potstrike.com##a.floating-p2
 potstrike.com##.movie-wrapper
 potstrike.com##.livetx-wrapper
 potstrike.com##.game-list
 potstrike.com##div#downloadapp
 potstrike.com##div#icons-container
+psychospin.com##.notice
+psychospin.com##.packet.ineligible
+psychospin.com##.banner-wrapper
+psychospin.com###marquee > span
+psychospin.com##.floating-whatsapp
+psychospin.com##.floating-telegram
+psychospin.com##a.floating-p2
 psychospin.com##.movie-wrapper
 psychospin.com##.livetx-wrapper
 psychospin.com##.game-list
 psychospin.com##div#downloadapp
 psychospin.com##div#icons-container
+punk11.com##.notice
+punk11.com##.packet.ineligible
+punk11.com##.banner-wrapper
+punk11.com###marquee > span
+punk11.com##.floating-whatsapp
+punk11.com##.floating-telegram
+punk11.com##a.floating-p2
 punk11.com##.movie-wrapper
 punk11.com##.livetx-wrapper
 punk11.com##.game-list
 punk11.com##div#downloadapp
 punk11.com##div#icons-container
+pureluck9.com##.notice
+pureluck9.com##.packet.ineligible
+pureluck9.com##.banner-wrapper
+pureluck9.com###marquee > span
+pureluck9.com##.floating-whatsapp
+pureluck9.com##.floating-telegram
+pureluck9.com##a.floating-p2
 pureluck9.com##.movie-wrapper
 pureluck9.com##.livetx-wrapper
 pureluck9.com##.game-list
 pureluck9.com##div#downloadapp
 pureluck9.com##div#icons-container
+raabet9.com##.notice
+raabet9.com##.packet.ineligible
+raabet9.com##.banner-wrapper
+raabet9.com###marquee > span
+raabet9.com##.floating-whatsapp
+raabet9.com##.floating-telegram
+raabet9.com##a.floating-p2
 raabet9.com##.movie-wrapper
 raabet9.com##.livetx-wrapper
 raabet9.com##.game-list
 raabet9.com##div#downloadapp
 raabet9.com##div#icons-container
+richclub9.com##.notice
+richclub9.com##.packet.ineligible
+richclub9.com##.banner-wrapper
+richclub9.com###marquee > span
+richclub9.com##.floating-whatsapp
+richclub9.com##.floating-telegram
+richclub9.com##a.floating-p2
 richclub9.com##.movie-wrapper
 richclub9.com##.livetx-wrapper
 richclub9.com##.game-list
 richclub9.com##div#downloadapp
 richclub9.com##div#icons-container
+rizspin.net##.notice
+rizspin.net##.packet.ineligible
+rizspin.net##.banner-wrapper
+rizspin.net###marquee > span
+rizspin.net##.floating-whatsapp
+rizspin.net##.floating-telegram
+rizspin.net##a.floating-p2
 rizspin.net##.movie-wrapper
 rizspin.net##.livetx-wrapper
 rizspin.net##.game-list
 rizspin.net##div#downloadapp
 rizspin.net##div#icons-container
+rookash.com##.notice
+rookash.com##.packet.ineligible
+rookash.com##.banner-wrapper
+rookash.com###marquee > span
+rookash.com##.floating-whatsapp
+rookash.com##.floating-telegram
+rookash.com##a.floating-p2
 rookash.com##.movie-wrapper
 rookash.com##.livetx-wrapper
 rookash.com##.game-list
 rookash.com##div#downloadapp
 rookash.com##div#icons-container
+roopokies.com##.notice
+roopokies.com##.packet.ineligible
+roopokies.com##.banner-wrapper
+roopokies.com###marquee > span
+roopokies.com##.floating-whatsapp
+roopokies.com##.floating-telegram
+roopokies.com##a.floating-p2
 roopokies.com##.movie-wrapper
 roopokies.com##.livetx-wrapper
 roopokies.com##.game-list
 roopokies.com##div#downloadapp
 roopokies.com##div#icons-container
+roospin.com##.notice
+roospin.com##.packet.ineligible
+roospin.com##.banner-wrapper
+roospin.com###marquee > span
+roospin.com##.floating-whatsapp
+roospin.com##.floating-telegram
+roospin.com##a.floating-p2
 roospin.com##.movie-wrapper
 roospin.com##.livetx-wrapper
 roospin.com##.game-list
 roospin.com##div#downloadapp
 roospin.com##div#icons-container
+rtspin.com##.notice
+rtspin.com##.packet.ineligible
+rtspin.com##.banner-wrapper
+rtspin.com###marquee > span
+rtspin.com##.floating-whatsapp
+rtspin.com##.floating-telegram
+rtspin.com##a.floating-p2
 rtspin.com##.movie-wrapper
 rtspin.com##.livetx-wrapper
 rtspin.com##.game-list
 rtspin.com##div#downloadapp
 rtspin.com##div#icons-container
+sawspin.com##.notice
+sawspin.com##.packet.ineligible
+sawspin.com##.banner-wrapper
+sawspin.com###marquee > span
+sawspin.com##.floating-whatsapp
+sawspin.com##.floating-telegram
+sawspin.com##a.floating-p2
 sawspin.com##.movie-wrapper
 sawspin.com##.livetx-wrapper
 sawspin.com##.game-list
 sawspin.com##div#downloadapp
 sawspin.com##div#icons-container
+scr111.com##.notice
+scr111.com##.packet.ineligible
+scr111.com##.banner-wrapper
+scr111.com###marquee > span
+scr111.com##.floating-whatsapp
+scr111.com##.floating-telegram
+scr111.com##a.floating-p2
 scr111.com##.movie-wrapper
 scr111.com##.livetx-wrapper
 scr111.com##.game-list
 scr111.com##div#downloadapp
 scr111.com##div#icons-container
+scr55.com##.notice
+scr55.com##.packet.ineligible
+scr55.com##.banner-wrapper
+scr55.com###marquee > span
+scr55.com##.floating-whatsapp
+scr55.com##.floating-telegram
+scr55.com##a.floating-p2
 scr55.com##.movie-wrapper
 scr55.com##.livetx-wrapper
 scr55.com##.game-list
 scr55.com##div#downloadapp
 scr55.com##div#icons-container
+scr66.com##.notice
+scr66.com##.packet.ineligible
+scr66.com##.banner-wrapper
+scr66.com###marquee > span
+scr66.com##.floating-whatsapp
+scr66.com##.floating-telegram
+scr66.com##a.floating-p2
 scr66.com##.movie-wrapper
 scr66.com##.livetx-wrapper
 scr66.com##.game-list
 scr66.com##div#downloadapp
 scr66.com##div#icons-container
+slotfred.com##.notice
+slotfred.com##.packet.ineligible
+slotfred.com##.banner-wrapper
+slotfred.com###marquee > span
+slotfred.com##.floating-whatsapp
+slotfred.com##.floating-telegram
+slotfred.com##a.floating-p2
 slotfred.com##.movie-wrapper
 slotfred.com##.livetx-wrapper
 slotfred.com##.game-list
 slotfred.com##div#downloadapp
 slotfred.com##div#icons-container
+slotmate88.com##.notice
+slotmate88.com##.packet.ineligible
+slotmate88.com##.banner-wrapper
+slotmate88.com###marquee > span
+slotmate88.com##.floating-whatsapp
+slotmate88.com##.floating-telegram
+slotmate88.com##a.floating-p2
 slotmate88.com##.movie-wrapper
 slotmate88.com##.livetx-wrapper
 slotmate88.com##.game-list
 slotmate88.com##div#downloadapp
 slotmate88.com##div#icons-container
+slotmeth.com##.notice
+slotmeth.com##.packet.ineligible
+slotmeth.com##.banner-wrapper
+slotmeth.com###marquee > span
+slotmeth.com##.floating-whatsapp
+slotmeth.com##.floating-telegram
+slotmeth.com##a.floating-p2
 slotmeth.com##.movie-wrapper
 slotmeth.com##.livetx-wrapper
 slotmeth.com##.game-list
 slotmeth.com##div#downloadapp
 slotmeth.com##div#icons-container
+slutaus.com##.notice
+slutaus.com##.packet.ineligible
+slutaus.com##.banner-wrapper
+slutaus.com###marquee > span
+slutaus.com##.floating-whatsapp
+slutaus.com##.floating-telegram
+slutaus.com##a.floating-p2
 slutaus.com##.movie-wrapper
 slutaus.com##.livetx-wrapper
 slutaus.com##.game-list
 slutaus.com##div#downloadapp
 slutaus.com##div#icons-container
+spin420.com##.notice
+spin420.com##.packet.ineligible
+spin420.com##.banner-wrapper
+spin420.com###marquee > span
+spin420.com##.floating-whatsapp
+spin420.com##.floating-telegram
+spin420.com##a.floating-p2
 spin420.com##.movie-wrapper
 spin420.com##.livetx-wrapper
 spin420.com##.game-list
 spin420.com##div#downloadapp
 spin420.com##div#icons-container
+spinbaby.co##.notice
+spinbaby.co##.packet.ineligible
+spinbaby.co##.banner-wrapper
+spinbaby.co###marquee > span
+spinbaby.co##.floating-whatsapp
+spinbaby.co##.floating-telegram
+spinbaby.co##a.floating-p2
 spinbaby.co##.movie-wrapper
 spinbaby.co##.livetx-wrapper
 spinbaby.co##.game-list
 spinbaby.co##div#downloadapp
 spinbaby.co##div#icons-container
+spinbizzo.com##.notice
+spinbizzo.com##.packet.ineligible
+spinbizzo.com##.banner-wrapper
+spinbizzo.com###marquee > span
+spinbizzo.com##.floating-whatsapp
+spinbizzo.com##.floating-telegram
+spinbizzo.com##a.floating-p2
 spinbizzo.com##.movie-wrapper
 spinbizzo.com##.livetx-wrapper
 spinbizzo.com##.game-list
 spinbizzo.com##div#downloadapp
 spinbizzo.com##div#icons-container
+spinfred.com##.notice
+spinfred.com##.packet.ineligible
+spinfred.com##.banner-wrapper
+spinfred.com###marquee > span
+spinfred.com##.floating-whatsapp
+spinfred.com##.floating-telegram
+spinfred.com##a.floating-p2
 spinfred.com##.movie-wrapper
 spinfred.com##.livetx-wrapper
 spinfred.com##.game-list
 spinfred.com##div#downloadapp
 spinfred.com##div#icons-container
+spinkash.com##.notice
+spinkash.com##.packet.ineligible
+spinkash.com##.banner-wrapper
+spinkash.com###marquee > span
+spinkash.com##.floating-whatsapp
+spinkash.com##.floating-telegram
+spinkash.com##a.floating-p2
 spinkash.com##.movie-wrapper
 spinkash.com##.livetx-wrapper
 spinkash.com##.game-list
 spinkash.com##div#downloadapp
 spinkash.com##div#icons-container
+spinmate88.com##.notice
+spinmate88.com##.packet.ineligible
+spinmate88.com##.banner-wrapper
+spinmate88.com###marquee > span
+spinmate88.com##.floating-whatsapp
+spinmate88.com##.floating-telegram
+spinmate88.com##a.floating-p2
 spinmate88.com##.movie-wrapper
 spinmate88.com##.livetx-wrapper
 spinmate88.com##.game-list
 spinmate88.com##div#downloadapp
 spinmate88.com##div#icons-container
+spinmeth.com##.notice
+spinmeth.com##.packet.ineligible
+spinmeth.com##.banner-wrapper
+spinmeth.com###marquee > span
+spinmeth.com##.floating-whatsapp
+spinmeth.com##.floating-telegram
+spinmeth.com##a.floating-p2
 spinmeth.com##.movie-wrapper
 spinmeth.com##.livetx-wrapper
 spinmeth.com##.game-list
 spinmeth.com##div#downloadapp
 spinmeth.com##div#icons-container
+spinsx.net##.notice
+spinsx.net##.packet.ineligible
+spinsx.net##.banner-wrapper
+spinsx.net###marquee > span
+spinsx.net##.floating-whatsapp
+spinsx.net##.floating-telegram
+spinsx.net##a.floating-p2
 spinsx.net##.movie-wrapper
 spinsx.net##.livetx-wrapper
 spinsx.net##.game-list
 spinsx.net##div#downloadapp
 spinsx.net##div#icons-container
+spinvegas9.com##.notice
+spinvegas9.com##.packet.ineligible
+spinvegas9.com##.banner-wrapper
+spinvegas9.com###marquee > span
+spinvegas9.com##.floating-whatsapp
+spinvegas9.com##.floating-telegram
+spinvegas9.com##a.floating-p2
 spinvegas9.com##.movie-wrapper
 spinvegas9.com##.livetx-wrapper
 spinvegas9.com##.game-list
 spinvegas9.com##div#downloadapp
 spinvegas9.com##div#icons-container
+spinwoo.com##.notice
+spinwoo.com##.packet.ineligible
+spinwoo.com##.banner-wrapper
+spinwoo.com###marquee > span
+spinwoo.com##.floating-whatsapp
+spinwoo.com##.floating-telegram
+spinwoo.com##a.floating-p2
 spinwoo.com##.movie-wrapper
 spinwoo.com##.livetx-wrapper
 spinwoo.com##.game-list
 spinwoo.com##div#downloadapp
 spinwoo.com##div#icons-container
+stokedau.com##.notice
+stokedau.com##.packet.ineligible
+stokedau.com##.banner-wrapper
+stokedau.com###marquee > span
+stokedau.com##.floating-whatsapp
+stokedau.com##.floating-telegram
+stokedau.com##a.floating-p2
 stokedau.com##.movie-wrapper
 stokedau.com##.livetx-wrapper
 stokedau.com##.game-list
 stokedau.com##div#downloadapp
 stokedau.com##div#icons-container
+sydspin.com##.notice
+sydspin.com##.packet.ineligible
+sydspin.com##.banner-wrapper
+sydspin.com###marquee > span
+sydspin.com##.floating-whatsapp
+sydspin.com##.floating-telegram
+sydspin.com##a.floating-p2
 sydspin.com##.movie-wrapper
 sydspin.com##.livetx-wrapper
 sydspin.com##.game-list
 sydspin.com##div#downloadapp
 sydspin.com##div#icons-container
+tcl21.com##.notice
+tcl21.com##.packet.ineligible
+tcl21.com##.banner-wrapper
+tcl21.com###marquee > span
+tcl21.com##.floating-whatsapp
+tcl21.com##.floating-telegram
+tcl21.com##a.floating-p2
 tcl21.com##.movie-wrapper
 tcl21.com##.livetx-wrapper
 tcl21.com##.game-list
 tcl21.com##div#downloadapp
 tcl21.com##div#icons-container
+tcl99aus.com##.notice
+tcl99aus.com##.packet.ineligible
+tcl99aus.com##.banner-wrapper
+tcl99aus.com###marquee > span
+tcl99aus.com##.floating-whatsapp
+tcl99aus.com##.floating-telegram
+tcl99aus.com##a.floating-p2
 tcl99aus.com##.movie-wrapper
 tcl99aus.com##.livetx-wrapper
 tcl99aus.com##.game-list
 tcl99aus.com##div#downloadapp
 tcl99aus.com##div#icons-container
+tinniewin.com##.notice
+tinniewin.com##.packet.ineligible
+tinniewin.com##.banner-wrapper
+tinniewin.com###marquee > span
+tinniewin.com##.floating-whatsapp
+tinniewin.com##.floating-telegram
+tinniewin.com##a.floating-p2
 tinniewin.com##.movie-wrapper
 tinniewin.com##.livetx-wrapper
 tinniewin.com##.game-list
 tinniewin.com##div#downloadapp
 tinniewin.com##div#icons-container
+tlcwin.com##.notice
+tlcwin.com##.packet.ineligible
+tlcwin.com##.banner-wrapper
+tlcwin.com###marquee > span
+tlcwin.com##.floating-whatsapp
+tlcwin.com##.floating-telegram
+tlcwin.com##a.floating-p2
 tlcwin.com##.movie-wrapper
 tlcwin.com##.livetx-wrapper
 tlcwin.com##.game-list
 tlcwin.com##div#downloadapp
 tlcwin.com##div#icons-container
+tmzbet.com##.notice
+tmzbet.com##.packet.ineligible
+tmzbet.com##.banner-wrapper
+tmzbet.com###marquee > span
+tmzbet.com##.floating-whatsapp
+tmzbet.com##.floating-telegram
+tmzbet.com##a.floating-p2
 tmzbet.com##.movie-wrapper
 tmzbet.com##.livetx-wrapper
 tmzbet.com##.game-list
 tmzbet.com##div#downloadapp
 tmzbet.com##div#icons-container
+twospin.com##.notice
+twospin.com##.packet.ineligible
+twospin.com##.banner-wrapper
+twospin.com###marquee > span
+twospin.com##.floating-whatsapp
+twospin.com##.floating-telegram
+twospin.com##a.floating-p2
 twospin.com##.movie-wrapper
 twospin.com##.livetx-wrapper
 twospin.com##.game-list
 twospin.com##div#downloadapp
 twospin.com##div#icons-container
+unipokies.com##.notice
+unipokies.com##.packet.ineligible
+unipokies.com##.banner-wrapper
+unipokies.com###marquee > span
+unipokies.com##.floating-whatsapp
+unipokies.com##.floating-telegram
+unipokies.com##a.floating-p2
 unipokies.com##.movie-wrapper
 unipokies.com##.livetx-wrapper
 unipokies.com##.game-list
 unipokies.com##div#downloadapp
 unipokies.com##div#icons-container
+vanspin.com##.notice
+vanspin.com##.packet.ineligible
+vanspin.com##.banner-wrapper
+vanspin.com###marquee > span
+vanspin.com##.floating-whatsapp
+vanspin.com##.floating-telegram
+vanspin.com##a.floating-p2
 vanspin.com##.movie-wrapper
 vanspin.com##.livetx-wrapper
 vanspin.com##.game-list
 vanspin.com##div#downloadapp
 vanspin.com##div#icons-container
+vicspin.com##.notice
+vicspin.com##.packet.ineligible
+vicspin.com##.banner-wrapper
+vicspin.com###marquee > span
+vicspin.com##.floating-whatsapp
+vicspin.com##.floating-telegram
+vicspin.com##a.floating-p2
 vicspin.com##.movie-wrapper
 vicspin.com##.livetx-wrapper
 vicspin.com##.game-list
 vicspin.com##div#downloadapp
 vicspin.com##div#icons-container
+wabet77.com##.notice
+wabet77.com##.packet.ineligible
+wabet77.com##.banner-wrapper
+wabet77.com###marquee > span
+wabet77.com##.floating-whatsapp
+wabet77.com##.floating-telegram
+wabet77.com##a.floating-p2
 wabet77.com##.movie-wrapper
 wabet77.com##.livetx-wrapper
 wabet77.com##.game-list
 wabet77.com##div#downloadapp
 wabet77.com##div#icons-container
+waboom77.com##.notice
+waboom77.com##.packet.ineligible
+waboom77.com##.banner-wrapper
+waboom77.com###marquee > span
+waboom77.com##.floating-whatsapp
+waboom77.com##.floating-telegram
+waboom77.com##a.floating-p2
 waboom77.com##.movie-wrapper
 waboom77.com##.livetx-wrapper
 waboom77.com##.game-list
 waboom77.com##div#downloadapp
 waboom77.com##div#icons-container
+weslot88.org##.notice
+weslot88.org##.packet.ineligible
+weslot88.org##.banner-wrapper
+weslot88.org###marquee > span
+weslot88.org##.floating-whatsapp
+weslot88.org##.floating-telegram
+weslot88.org##a.floating-p2
 weslot88.org##.movie-wrapper
 weslot88.org##.livetx-wrapper
 weslot88.org##.game-list
 weslot88.org##div#downloadapp
 weslot88.org##div#icons-container
+west28.com##.notice
+west28.com##.packet.ineligible
+west28.com##.banner-wrapper
+west28.com###marquee > span
+west28.com##.floating-whatsapp
+west28.com##.floating-telegram
+west28.com##a.floating-p2
 west28.com##.movie-wrapper
 west28.com##.livetx-wrapper
 west28.com##.game-list
 west28.com##div#downloadapp
 west28.com##div#icons-container
-winmate88.com##.movie-wrapper
-winmate88.com##.livetx-wrapper
-winmate88.com##.game-list
-winmate88.com##div#downloadapp
-winmate88.com##div#icons-container
-winsavage.com##.movie-wrapper
-winsavage.com##.livetx-wrapper
-winsavage.com##.game-list
-winsavage.com##div#downloadapp
-winsavage.com##div#icons-container
-winspin99.com##.movie-wrapper
-winspin99.com##.livetx-wrapper
-winspin99.com##.game-list
-winspin99.com##div#downloadapp
-winspin99.com##div#icons-container
-winstreak9.com##.movie-wrapper
-winstreak9.com##.livetx-wrapper
-winstreak9.com##.game-list
-winstreak9.com##div#downloadapp
-winstreak9.com##div#icons-container
-winwin9.org##.movie-wrapper
-winwin9.org##.livetx-wrapper
-winwin9.org##.game-list
-winwin9.org##div#downloadapp
-winwin9.org##div#icons-container
+wink9.com##.notice
+wink9.com##.packet.ineligible
+wink9.com##.banner-wrapper
+wink9.com###marquee > span
+wink9.com##.floating-whatsapp
+wink9.com##.floating-telegram
+wink9.com##a.floating-p2
 wink9.com##.movie-wrapper
 wink9.com##.livetx-wrapper
 wink9.com##.game-list
 wink9.com##div#downloadapp
 wink9.com##div#icons-container
+winmate88.com##.notice
+winmate88.com##.packet.ineligible
+winmate88.com##.banner-wrapper
+winmate88.com###marquee > span
+winmate88.com##.floating-whatsapp
+winmate88.com##.floating-telegram
+winmate88.com##a.floating-p2
+winmate88.com##.movie-wrapper
+winmate88.com##.livetx-wrapper
+winmate88.com##.game-list
+winmate88.com##div#downloadapp
+winmate88.com##div#icons-container
+winsavage.com##.notice
+winsavage.com##.packet.ineligible
+winsavage.com##.banner-wrapper
+winsavage.com###marquee > span
+winsavage.com##.floating-whatsapp
+winsavage.com##.floating-telegram
+winsavage.com##a.floating-p2
+winsavage.com##.movie-wrapper
+winsavage.com##.livetx-wrapper
+winsavage.com##.game-list
+winsavage.com##div#downloadapp
+winsavage.com##div#icons-container
+winspin99.com##.notice
+winspin99.com##.packet.ineligible
+winspin99.com##.banner-wrapper
+winspin99.com###marquee > span
+winspin99.com##.floating-whatsapp
+winspin99.com##.floating-telegram
+winspin99.com##a.floating-p2
+winspin99.com##.movie-wrapper
+winspin99.com##.livetx-wrapper
+winspin99.com##.game-list
+winspin99.com##div#downloadapp
+winspin99.com##div#icons-container
+winstreak9.com##.notice
+winstreak9.com##.packet.ineligible
+winstreak9.com##.banner-wrapper
+winstreak9.com###marquee > span
+winstreak9.com##.floating-whatsapp
+winstreak9.com##.floating-telegram
+winstreak9.com##a.floating-p2
+winstreak9.com##.movie-wrapper
+winstreak9.com##.livetx-wrapper
+winstreak9.com##.game-list
+winstreak9.com##div#downloadapp
+winstreak9.com##div#icons-container
+winwin9.org##.notice
+winwin9.org##.packet.ineligible
+winwin9.org##.banner-wrapper
+winwin9.org###marquee > span
+winwin9.org##.floating-whatsapp
+winwin9.org##.floating-telegram
+winwin9.org##a.floating-p2
+winwin9.org##.movie-wrapper
+winwin9.org##.livetx-wrapper
+winwin9.org##.game-list
+winwin9.org##div#downloadapp
+winwin9.org##div#icons-container
+witchspin.com##.notice
+witchspin.com##.packet.ineligible
+witchspin.com##.banner-wrapper
+witchspin.com###marquee > span
+witchspin.com##.floating-whatsapp
+witchspin.com##.floating-telegram
+witchspin.com##a.floating-p2
 witchspin.com##.movie-wrapper
 witchspin.com##.livetx-wrapper
 witchspin.com##.game-list
 witchspin.com##div#downloadapp
 witchspin.com##div#icons-container
+woah99.com##.notice
+woah99.com##.packet.ineligible
+woah99.com##.banner-wrapper
+woah99.com###marquee > span
+woah99.com##.floating-whatsapp
+woah99.com##.floating-telegram
+woah99.com##a.floating-p2
 woah99.com##.movie-wrapper
 woah99.com##.livetx-wrapper
 woah99.com##.game-list
 woah99.com##div#downloadapp
 woah99.com##div#icons-container
+wonpokies.com##.notice
+wonpokies.com##.packet.ineligible
+wonpokies.com##.banner-wrapper
+wonpokies.com###marquee > span
+wonpokies.com##.floating-whatsapp
+wonpokies.com##.floating-telegram
+wonpokies.com##a.floating-p2
 wonpokies.com##.movie-wrapper
 wonpokies.com##.livetx-wrapper
 wonpokies.com##.game-list
 wonpokies.com##div#downloadapp
 wonpokies.com##div#icons-container
+woocunt.com##.notice
+woocunt.com##.packet.ineligible
+woocunt.com##.banner-wrapper
+woocunt.com###marquee > span
+woocunt.com##.floating-whatsapp
+woocunt.com##.floating-telegram
+woocunt.com##a.floating-p2
 woocunt.com##.movie-wrapper
 woocunt.com##.livetx-wrapper
 woocunt.com##.game-list
 woocunt.com##div#downloadapp
 woocunt.com##div#icons-container
+woohoo9.com##.notice
+woohoo9.com##.packet.ineligible
+woohoo9.com##.banner-wrapper
+woohoo9.com###marquee > span
+woohoo9.com##.floating-whatsapp
+woohoo9.com##.floating-telegram
+woohoo9.com##a.floating-p2
 woohoo9.com##.movie-wrapper
 woohoo9.com##.livetx-wrapper
 woohoo9.com##.game-list
 woohoo9.com##div#downloadapp
 woohoo9.com##div#icons-container
+woospin.org##.notice
+woospin.org##.packet.ineligible
+woospin.org##.banner-wrapper
+woospin.org###marquee > span
+woospin.org##.floating-whatsapp
+woospin.org##.floating-telegram
+woospin.org##a.floating-p2
 woospin.org##.movie-wrapper
 woospin.org##.livetx-wrapper
 woospin.org##.game-list
 woospin.org##div#downloadapp
 woospin.org##div#icons-container
+wowbet9.net##.notice
+wowbet9.net##.packet.ineligible
+wowbet9.net##.banner-wrapper
+wowbet9.net###marquee > span
+wowbet9.net##.floating-whatsapp
+wowbet9.net##.floating-telegram
+wowbet9.net##a.floating-p2
 wowbet9.net##.movie-wrapper
 wowbet9.net##.livetx-wrapper
 wowbet9.net##.game-list
 wowbet9.net##div#downloadapp
 wowbet9.net##div#icons-container
+yomate88.com##.notice
+yomate88.com##.packet.ineligible
+yomate88.com##.banner-wrapper
+yomate88.com###marquee > span
+yomate88.com##.floating-whatsapp
+yomate88.com##.floating-telegram
+yomate88.com##a.floating-p2
 yomate88.com##.movie-wrapper
 yomate88.com##.livetx-wrapper
 yomate88.com##.game-list
 yomate88.com##div#downloadapp
 yomate88.com##div#icons-container
 
-! =============================
 ! MISCELLANEOUS
 ! =============================
 * {
