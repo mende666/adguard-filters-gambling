@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2025-08-17]
+### Added
+- **Miscellaneous styling rules**:  
+  - Global `box-sizing: border-box` with `Space Mono` font at 14px and 18px.  
+- **Global styling rules**:  
+  - `body:style(...)` injection for font family + size.  
+  - `h1:style(...)` injection for font family + size.  
+  - `.notice`  
+  - `.packet.ineligible`  
+  - `.banner-wrapper`  
+  - `.floating-whatsapp`, `.floating-telegram`  
+  - `.movie-wrapper`, `.livetx-wrapper`, `.game-list`  
+  - `div#downloadapp`, `div#icons-container`  
+  - `marquee > span`  
+- Script now supports multiple rule types (`##` cosmetic, `#$#` CSS injection).
+
 ## [2025-08-13]
 ### Changed
 - Standardized all domains in `filters/Clarity UI Gambling Site Filters.txt` to use the same set of 14 cosmetic selectors.
